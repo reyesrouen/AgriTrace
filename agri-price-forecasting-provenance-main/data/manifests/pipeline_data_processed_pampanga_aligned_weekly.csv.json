@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/pampanga_aligned_weekly.csv",
+    "sha256_hash": "34a9f642915d52e87f9b3a36b2e1c028c9b15193604e1650b3038207e539746c",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "304402202ad3ca41f90ab135c3abe70b7018d24e733a12e89aa67bf013f3ba90b631f658022030a3e7e2bceb7cf9a32c75626e2f99527c2bbe4cecec737ae65ebe13cf81aae1"
+}

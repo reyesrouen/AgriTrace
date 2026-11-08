@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/security_tamper_test_results.csv",
+    "sha256_hash": "a4030dff4152770ff1588da4650a0064bf8b68d2fc70aa709e7b4dea6c513320",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "304402206c2d2ef57e29cda78f8031a8b3b6ad7e99e0d7a3515e7c407d5262da511e648402205a0343d19882cfe56733539d3da84d435be9e3b3698e40136af23b516c6a9092"
+}

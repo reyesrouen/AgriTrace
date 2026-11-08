@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "config.yml",
+    "sha256_hash": "45e853ffadb4018fff6d0a17f05ab157cb7c2e8947453c7477c46aed7bbc1bad",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "30450220185219b2b60e9bf88da3470ec82ed679cb1fdf55c26c066ef31823ac52f08124022100baa5a7f8b3e0808653c3d14671721af9aceb7e5cd19c8d105b3621c3f7ddaf7f"
+}

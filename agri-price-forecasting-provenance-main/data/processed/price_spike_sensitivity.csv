@@ -1,0 +1,4 @@
+"Threshold","Precision","Recall","F1_Score"
+"5% Spike",0.85,0.88,0.86
+"10% Spike",0.91,0.89,0.9
+"15% Spike",0.95,0.82,0.88

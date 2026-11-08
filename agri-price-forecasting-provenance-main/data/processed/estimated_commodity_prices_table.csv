@@ -1,0 +1,22 @@
+Commodity,Forecasting Model,Avg Estimated Price (PHP/kg),Min Estimated Price (PHP/kg),Max Estimated Price (PHP/kg)
+Onions (red),Exogenous TSLM,82.51,54.71,132.31
+Onions (red),Naive Baseline,122.97,71.98,157.16
+Onions (red),Prophet,95.57,66.91,119.85
+Onions (white),Exogenous TSLM,87.69,50.93,146.38
+Onions (white),Naive Baseline,134.38,111.2,153.85
+Onions (white),Prophet,100.43,54.71,128.68
+Rice (premium),Exogenous TSLM,90.69,73.75,103.67
+Rice (premium),Naive Baseline,93.01,68.32,129.45
+Rice (premium),Prophet,122.55,105.55,133
+"Rice (regular, milled)",Exogenous TSLM,85.89,63.81,127.51
+"Rice (regular, milled)",Naive Baseline,92.73,67.31,151.52
+"Rice (regular, milled)",Prophet,107.17,81.16,140.7
+Rice (special),Exogenous TSLM,117.69,75.87,142.56
+Rice (special),Naive Baseline,107.7,50.02,152.61
+Rice (special),Prophet,105.38,55.62,149.55
+Rice (well milled),Exogenous TSLM,104.82,78.33,154.07
+Rice (well milled),Naive Baseline,105.19,55.84,136.9
+Rice (well milled),Prophet,123.28,73.84,152.2
+Tomatoes,Exogenous TSLM,107.68,71.67,152.38
+Tomatoes,Naive Baseline,131.44,105.29,150.8
+Tomatoes,Prophet,103.62,64.7,153.52

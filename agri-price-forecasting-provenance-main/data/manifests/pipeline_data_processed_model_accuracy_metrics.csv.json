@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/model_accuracy_metrics.csv",
+    "sha256_hash": "702e3f44b5cb90ff59544fbd0c92edada570caced373d94fe80e9fccd582b850",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "304502206e7a3a069e89267009809faaed5c8b9a4793f57052b5260e81e9fa2e9d39e70d02210093175a43c51c438ae54458555b03d56fbf778d1a8cf2b33b3f0253a5dfa07a54"
+}

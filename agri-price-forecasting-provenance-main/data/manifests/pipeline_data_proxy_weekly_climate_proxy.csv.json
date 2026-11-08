@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/proxy/weekly_climate_proxy.csv",
+    "sha256_hash": "860a0d581e7fefd565da820fe2617c241546affa6fdb2e5bf605b6c7462b108a",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100fcc61264be6cb89098f7218bb516ba8cfae5be84f7280990cef41f10e70fddbe0220500d10520f1abccc8b254b31a51e338f063fb07fbf77b7265973e489a2e95e1f"
+}

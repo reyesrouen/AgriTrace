@@ -1,0 +1,1396 @@
+Source_File,Page,Municipality,Product,Raw_Prices,Full_Line_Clean
+report_110.pdf,6,Angeles City,STANDARD,60.20 | 60.20 | 60.30 | 60.30 | 59.00 | 59.00 | 59.00 | 60.30 | 60.20,Pampanga Angeles City RON 91 60.20 60.20 60.30 60.30 59.00 59.00 59.00 - 60.30 60.20
+report_110.pdf,8,Bacolor,STANDARD,57.99 | 57.99 | 57.99 | 57.99,Bacolor RON 91 57.99 57.99 57.99 - 57.99 #N/A
+report_110.pdf,8,Guagua,STANDARD,58.70 | 58.70 | 56.15 | 56.15 | 56.15 | 58.70 | 58.70,Guagua RON 91 58.70 58.70 56.15 56.15 56.15 - 58.70 58.70
+report_110.pdf,8,Magalang,STANDARD,57.95 | 57.95 | 54.80 | 54.80 | 54.80 | 57.95 | 57.95,Magalang RON 91 57.95 57.95 54.80 54.80 54.80 - 57.95 57.95
+report_110.pdf,9,Sto. Tomas,STANDARD,55.54 | 55.54 | 55.54 | 55.54,Sto. Tomas RON 91 55.54 55.54 55.54 - 55.54 #N/A
+report_126.pdf,7,Arayat,STANDARD,57.05 | 57.05 | 57.05 | 57.05,Pampanga Arayat RON 91 57.05 57.05 57.05 - 57.05 #N/A
+report_126.pdf,7,Bacolor,STANDARD,56.50 | 56.50 | 56.50 | 56.50,Bacolor RON 91 56.50 56.50 56.50 - 56.50 #N/A
+report_126.pdf,7,Guagua,STANDARD,56.60 | 56.60 | 56.60 | 56.60,Guagua RON 91 56.60 56.60 56.60 - 56.60 #N/A
+report_126.pdf,8,Sta. Ana,STANDARD,53.40 | 53.40 | 53.40 | 53.40,Sta. Ana RON 91 53.40 53.40 53.40 - 53.40 #N/A
+report_126.pdf,8,Sto. Tomas,STANDARD,57.45 | 57.45 | 57.45 | 57.45,Pampanga Sto. Tomas RON 91 57.45 57.45 57.45 - 57.45 #N/A
+report_130.pdf,6,Angeles City,STANDARD,59.85 | 59.85 | 52.40 | 52.40 | 60.60 | 60.60 | 60.30 | 60.30 | 52.40 | 60.60 | 59.85,Angeles City RON 91 59.85 59.85 52.40 52.40 60.60 60.60 60.30 60.30 52.40 - 60.60 59.85
+report_130.pdf,6,Mabalacat,STANDARD,61.65 | 61.65 | 56.00 | 56.00 | 56.00 | 61.65 | 61.65,Mabalacat City RON 91 61.65 61.65 56.00 56.00 56.00 - 61.65 61.65
+report_130.pdf,7,San Fernando,STANDARD,60.55 | 60.55 | 56.95 | 56.95 | 63.40 | 63.40 | 59.80 | 59.80 | 58.14 | 58.14 | 56.95 | 63.40 | 56.95,Bataan City of San FernandoRON 91 60.55 60.55 56.95 56.95 63.40 63.40 59.80 59.80 58.14 58.14 56.95 - 63.40 56.95
+report_130.pdf,7,Mexico,STANDARD,60.00 | 60.00 | 54.24 | 54.24 | 54.24 | 60.00 | 60.00,Mexico RON 91 60.00 60.00 54.24 54.24 54.24 - 60.00 60.00
+report_130.pdf,7,Arayat,STANDARD,57.05 | 57.05 | 57.05 | 57.05,Arayat RON 91 57.05 57.05 57.05 - 57.05 #N/A
+report_130.pdf,8,Guagua,STANDARD,58.35 | 58.35 | 56.79 | 56.79 | 56.79 | 58.35 | 58.35,Bataan Guagua RON 91 58.35 58.35 56.79 56.79 56.79 - 58.35 58.35
+report_130.pdf,8,Magalang,STANDARD,59.20 | 59.20 | 56.60 | 56.60 | 56.60 | 59.20 | 59.20,Magalang RON 91 59.20 59.20 56.60 56.60 56.60 - 59.20 59.20
+report_130.pdf,8,Sta. Ana,STANDARD,57.75 | 57.75 | 53.95 | 53.95 | 53.95 | 57.75 | 57.75,Sta. Ana RON 91 57.75 57.75 53.95 53.95 53.95 - 57.75 57.75
+report_134.pdf,6,Angeles City,STANDARD,61.45 | 61.45 | 64.00 | 64.00 | 61.60 | 61.60 | 64.15 | 64.15 | 61.45 | 64.15 | 61.45,Angeles City RON 91 61.45 61.45 64.0064.00 61.60 61.60 64.1564.15 61.45 - 64.15 61.45
+report_134.pdf,6,Mabalacat,STANDARD,63.25 | 63.25 | 56.48 | 56.48 | 56.48 | 63.25 | 63.25,Mabalacat City RON 91 63.2563.25 56.4856.48 56.48 - 63.25 63.25
+report_134.pdf,7,San Fernando,STANDARD,62.15 | 62.15 | 58.50 | 58.50 | 64.30 | 64.30 | 60.15 | 60.15 | 56.85 | 56.85 | 56.85 | 64.30 | 58.50,City of San FernandoRON 91 62.15 62.15 58.5058.5064.3064.30 60.1560.15 56.8556.85 56.85 - 64.30 58.50
+report_134.pdf,7,Mexico,STANDARD,61.60 | 61.60 | 55.54 | 55.54 | 55.54 | 61.60 | 61.60,Mexico RON 91 61.6061.60 55.5455.54 55.54 - 61.60 61.60
+report_134.pdf,7,Arayat,STANDARD,59.00 | 59.00 | 58.30 | 58.30 | 58.30 | 59.00 | 59.00,Pampanga Arayat RON 91 59.0059.00 58.3058.30 58.30 - 59.00 59.00
+report_134.pdf,8,Guagua,STANDARD,57.79 | 57.79 | 57.79 | 57.79,Guagua RON 91 57.7957.79 57.79 - 57.79 #N/A
+report_134.pdf,8,Magalang,STANDARD,60.20 | 60.20 | 56.60 | 56.60 | 56.60 | 60.20 | 60.20,Pampanga Magalang RON 91 60.2060.20 56.6056.60 56.60 - 60.20 60.20
+report_134.pdf,8,Sta. Ana,STANDARD,59.05 | 59.05 | 55.14 | 55.14 | 55.14 | 59.05 | 59.05,Sta. Ana RON 91 59.0559.05 55.1455.14 55.14 - 59.05 59.05
+report_138.pdf,6,Angeles City,STANDARD,60.75 | 60.75 | 60.75 | 60.75 | 60.75,Angeles City RON 91 60.7560.75 60.75 - 60.75 60.75
+report_138.pdf,6,Mabalacat,STANDARD,55.88 | 55.88 | 55.88 | 55.88 | 55.88,Mabalacat City RON 91 55.8855.88 55.88 - 55.88 55.88
+report_138.pdf,7,San Fernando,STANDARD,60.05 | 60.05 | 58.25 | 58.25 | 63.21 | 63.21 | 56.30 | 56.30 | 56.30 | 63.21 | 58.25,City of San FernandoRON 91 60.05 60.05 58.2558.2563.2163.21 56.3056.30 56.30 - 63.21 58.25
+report_138.pdf,7,Mexico,STANDARD,53.75 | 53.75 | 53.75 | 53.75,Mexico RON 91 53.7553.75 53.75 - 53.75 #N/A
+report_138.pdf,7,Arayat,STANDARD,57.50 | 57.50 | 57.50 | 57.50,Arayat RON 91 57.5057.50 57.50 - 57.50 #N/A
+report_146.pdf,6,Angeles City,STANDARD,59.20 | 59.20 | 58.95 | 58.95 | 58.95 | 59.20 | 59.20,Angeles City RON 91 59.20 59.20 58.95 58.95 58.95 - 59.20 59.20
+report_146.pdf,6,Mabalacat,STANDARD,55.30 | 55.30 | 55.30 | 55.30 | 55.30,Mabalacat City RON 91 55.30 55.30 55.30 - 55.30 55.30
+report_146.pdf,7,San Fernando,STANDARD,57.35 | 57.35 | 57.55 | 57.55 | 56.85 | 56.85 | 56.85 | 57.55,Bataan City of San FernandoRON 91 57.35 57.35 57.55 57.55 56.85 56.85 56.85 - 57.55 #N/A
+report_146.pdf,7,Mexico,STANDARD,52.74 | 52.74 | 52.74 | 52.74,Mexico RON 91 52.74 52.74 52.74 - 52.74 #N/A
+report_146.pdf,7,Arayat,STANDARD,55.64 | 55.64 | 55.64 | 55.64,Arayat RON 91 55.64 55.64 55.64 - 55.64 #N/A
+report_146.pdf,8,Guagua,STANDARD,55.39 | 55.39 | 55.39 | 55.39,Bataan Guagua RON 91 55.39 55.39 55.39 - 55.39 #N/A
+report_146.pdf,8,Magalang,STANDARD,55.10 | 55.10 | 55.10 | 55.10,Magalang RON 91 55.10 55.10 55.10 - 55.10 #N/A
+report_146.pdf,8,Sta. Ana,STANDARD,53.20 | 53.20 | 53.20 | 53.20,Sta. Ana RON 91 53.20 53.20 53.20 - 53.20 #N/A
+report_195.pdf,8,Angeles City,STANDARD,63.95 | 63.95 | 64.45 | 64.45 | 61.35 | 61.35 | 61.35 | 64.45,Angeles City RON 91 63.95 63.95 64.45 64.45 61.35 61.35 61.35 - 64.45 #N/A
+report_195.pdf,8,Mabalacat,STANDARD,62.95 | 62.95 | 64.10 | 64.10 | 56.00 | 56.00 | 61.35 | 64.45,Mabalacat City RON 91 62.95 62.95 64.10 64.10 56.00 56.00 61.35 - 64.45 #N/A
+report_195.pdf,8,Lubao,STANDARD,56.90 | 59.90 | 56.90 | 59.90,Lubao RON 91 56.90 59.90 56.90 - 59.90 #N/A
+report_195.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_195.pdf,9,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_195.pdf,9,Bacolor,STANDARD,57.99 | 59.64 | 57.99 | 59.64,Bacolor RON 91 57.99 59.64 57.99 - 59.64 #N/A
+report_195.pdf,9,Guagua,STANDARD,59.64 | 59.64 | 59.64 | 59.64 | 59.64,Guagua RON 91 59.64 59.64 59.64 - 59.64 59.64
+report_195.pdf,9,Magalang,STANDARD,57.10 | 57.10 | 57.10 | 57.10 | 57.10,Magalang RON 91 57.10 57.10 57.10 - 57.10 57.10
+report_195.pdf,9,Sta. Ana,STANDARD,56.93 | 56.93 | 56.93 | 56.93,Sta. Ana RON 91 56.93 56.93 56.93 - 56.93 #N/A
+report_195.pdf,9,Sto. Tomas,STANDARD,59.26 | 59.26 | 59.26 | 59.26,Sto. Tomas RON 91 59.26 59.26 59.26 - 59.26 #N/A
+report_196.pdf,8,Angeles City,STANDARD,63.35 | 63.35 | 63.35 | 63.35 | 61.35 | 61.35 | 61.35 | 63.35,Angeles City RON 91 63.35 63.35 63.35 63.35 61.35 61.35 61.35 - 63.35 #N/A
+report_196.pdf,8,Mabalacat,STANDARD,62.35 | 62.35 | 63.50 | 63.50 | 55.70 | 55.70 | 56.20 | 56.20 | 61.35 | 63.35,Mabalacat City RON 91 62.35 62.35 63.50 63.50 55.70 55.70 56.20 56.20 61.35 - 63.35 #N/A
+report_196.pdf,8,Lubao,STANDARD,56.19 | 56.19 | 56.19 | 56.19,Lubao RON 91 56.19 56.19 56.19 - 56.19 #N/A
+report_196.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_196.pdf,9,Arayat,STANDARD,55.30 | 55.30 | 55.30 | 55.30 | 55.30,Pampanga Arayat RON 91 55.30 55.30 55.30 - 55.30 55.30
+report_196.pdf,9,Bacolor,STANDARD,58.00 | 58.00 | 58.00 | 58.00 | 58.00,Bacolor RON 91 58.00 58.00 58.00 - 58.00 58.00
+report_196.pdf,9,Guagua,STANDARD,58.84 | 58.84 | 58.84 | 58.84 | 58.84,Guagua RON 91 58.84 58.84 58.84 - 58.84 58.84
+report_196.pdf,9,Magalang,STANDARD,57.00 | 57.00 | 57.00 | 57.00 | 57.00,Magalang RON 91 57.00 57.00 57.00 - 57.00 57.00
+report_196.pdf,9,Sta. Ana,STANDARD,56.20 | 56.20 | 56.20 | 56.20,Sta. Ana RON 91 56.20 56.20 56.20 - 56.20 #N/A
+report_196.pdf,9,Sto. Tomas,STANDARD,58.46 | 58.46 | 58.46 | 58.46,Sto. Tomas RON 91 58.46 58.46 58.46 - 58.46 #N/A
+report_197.pdf,8,Angeles City,STANDARD,64.95 | 64.95 | 61.55 | 61.55 | 61.55 | 64.95,Angeles City RON 91 64.95 64.95 61.55 61.55 61.55 - 64.95 #N/A
+report_197.pdf,8,Mabalacat,STANDARD,63.80 | 63.80 | 55.70 | 55.70 | 61.55 | 64.95,Mabalacat City RON 91 63.80 63.80 55.70 55.70 61.55 - 64.95 #N/A
+report_197.pdf,8,Lubao,STANDARD,56.10 | 56.19 | 56.10 | 56.19,Lubao RON 91 56.10 56.19 56.10 - 56.19 #N/A
+report_197.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_197.pdf,9,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_197.pdf,9,Bacolor,STANDARD,57.70 | 59.50 | 57.70 | 59.50,Bacolor RON 91 57.70 59.50 57.70 - 59.50 #N/A
+report_197.pdf,9,Guagua,STANDARD,59.50 | 59.50 | 59.50 | 59.50 | 59.50,Guagua RON 91 59.50 59.50 59.50 - 59.50 59.50
+report_197.pdf,9,Magalang,STANDARD,57.00 | 57.00 | 57.00 | 57.00 | 57.00,Magalang RON 91 57.00 57.00 57.00 - 57.00 57.00
+report_197.pdf,9,Sta. Ana,STANDARD,57.45 | 57.45 | 57.45 | 57.45,Sta. Ana RON 91 57.45 57.45 57.45 - 57.45 #N/A
+report_197.pdf,9,Sto. Tomas,STANDARD,59.66 | 59.66 | 59.66 | 59.66,Sto. Tomas RON 91 59.66 59.66 59.66 - 59.66 #N/A
+report_198.pdf,8,Angeles City,STANDARD,0.00 | 0.00,Angeles City RON 91 0.00 - 0.00 #N/A
+report_198.pdf,8,Mabalacat,STANDARD,56.70 | 0.00 | 0.00,Mabalacat City RON 91 56.70 0.00 - 0.00 #N/A
+report_198.pdf,8,Lubao,STANDARD,55.49 | 55.49 | 55.49,Lubao RON 91 55.49 55.49 - 55.49 #N/A
+report_198.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_198.pdf,9,Arayat,STANDARD,56.99 | 56.99 | 56.99,Pampanga Arayat RON 91 56.99 56.99 - 56.99 #N/A
+report_198.pdf,9,Bacolor,STANDARD,57.85 | 58.34 | 57.85 | 58.34,Bacolor RON 91 57.85 58.34 57.85 - 58.34 #N/A
+report_198.pdf,9,Guagua,STANDARD,58.34 | 58.34 | 58.34,Guagua RON 91 58.34 58.34 - 58.34 #N/A
+report_198.pdf,9,Magalang,STANDARD,57.00 | 57.00 | 57.00,Magalang RON 91 57.00 57.00 - 57.00 #N/A
+report_198.pdf,9,Sta. Ana,STANDARD,56.70 | 56.70 | 56.70 | 56.70,Sta. Ana RON 91 56.70 56.70 56.70 - 56.70 #N/A
+report_198.pdf,9,Sto. Tomas,STANDARD,58.56 | 58.56 | 58.56,Sto. Tomas RON 91 58.56 58.56 - 58.56 #N/A
+report_199.pdf,7,Angeles City,STANDARD,58.70 | 58.70 | 58.35 | 58.35 | 56.55 | 56.55 | 56.55 | 58.70,Angeles City RON 91 58.70 58.70 58.35 58.35 56.55 56.55 56.55 - 58.70 #N/A
+report_199.pdf,7,Mabalacat,STANDARD,56.55 | 58.70,Mabalacat City RON 91 56.55 - 58.70 #N/A
+report_199.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_199.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_199.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_199.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_199.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_199.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_199.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_199.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_200.pdf,7,Angeles City,STANDARD,56.65 | 56.65 | 56.65 | 56.65,Angeles City RON 91 56.65 56.65 56.65 - 56.65 #N/A
+report_200.pdf,7,Mabalacat,STANDARD,53.99 | 53.99 | 56.65 | 56.65,Mabalacat City RON 91 53.99 53.99 56.65 - 56.65 #N/A
+report_200.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_200.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_200.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_200.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_200.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_200.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_200.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_200.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_202.pdf,8,Angeles City,STANDARD,58.95 | 58.95 | 58.95 | 58.95,Angeles City RON 91 58.95 58.95 58.95 - 58.95 #N/A
+report_202.pdf,8,Mabalacat,STANDARD,58.95 | 58.95,Mabalacat City RON 91 58.95 - 58.95 #N/A
+report_202.pdf,9,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_202.pdf,9,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_202.pdf,9,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_202.pdf,9,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_202.pdf,9,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_202.pdf,9,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_202.pdf,9,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_202.pdf,9,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_204.pdf,7,Angeles City,STANDARD,61.35 | 61.35 | 59.95 | 59.95 | 59.80 | 59.80 | 59.80 | 61.35,Angeles City RON 91 61.35 61.35 59.95 59.95 59.80 59.80 59.80 - 61.35 #N/A
+report_204.pdf,7,Mabalacat,STANDARD,54.85 | 54.85 | 59.80 | 61.35,Mabalacat City RON 91 54.85 54.85 59.80 - 61.35 #N/A
+report_204.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_204.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_204.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_204.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_204.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_204.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_204.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_204.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_205.pdf,7,Angeles City,STANDARD,59.75 | 59.75 | 58.35 | 58.35 | 58.20 | 58.20 | 58.20 | 59.75,Angeles City RON 91 59.75 59.75 58.35 58.35 58.20 58.20 58.20 - 59.75 #N/A
+report_205.pdf,7,Mabalacat,STANDARD,60.40 | 64.40 | 58.20 | 59.75,Mabalacat City RON 91 60.40 64.40 58.20 - 59.75 #N/A
+report_205.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_205.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_205.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_205.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_205.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_205.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_205.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_205.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_206.pdf,7,Angeles City,STANDARD,62.50 | 62.50 | 60.95 | 60.95 | 60.95 | 62.50,Angeles City RON 91 62.50 62.50 60.95 60.95 60.95 - 62.50 #N/A
+report_206.pdf,7,Mabalacat,STANDARD,60.95 | 62.50,Mabalacat City RON 91 60.95 - 62.50 #N/A
+report_206.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_206.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_206.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_206.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_206.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_206.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_206.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_206.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_207.pdf,7,Angeles City,STANDARD,61.80 | 61.80 | 60.75 | 60.75 | 61.15 | 61.15 | 60.75 | 61.80,Angeles City RON 91 61.80 61.80 60.75 60.75 61.15 61.15 60.75 - 61.80 #N/A
+report_207.pdf,7,Mabalacat,STANDARD,60.75 | 61.80,Mabalacat City RON 91 60.75 - 61.80 #N/A
+report_207.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_207.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_207.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_207.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_207.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_207.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_207.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_207.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_208.pdf,7,Angeles City,STANDARD,59.95 | 59.95 | 60.00 | 60.00 | 59.95 | 60.00,Angeles City RON 91 59.95 59.95 60.00 60.00 59.95 - 60.00 #N/A
+report_208.pdf,7,Mabalacat,STANDARD,65.80 | 65.80 | 59.95 | 60.00,Mabalacat City RON 91 65.80 65.80 59.95 - 60.00 #N/A
+report_208.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_208.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_208.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_208.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_208.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_208.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_208.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_208.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_209.pdf,7,Angeles City,STANDARD,59.95 | 59.95 | 59.95 | 59.95,Angeles City RON 91 59.95 59.95 59.95 - 59.95 #N/A
+report_209.pdf,7,Mabalacat,STANDARD,59.95 | 59.95,Mabalacat City RON 91 59.95 - 59.95 #N/A
+report_209.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_209.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_209.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_209.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_209.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_209.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_209.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_209.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_210.pdf,7,Angeles City,STANDARD,64.95 | 64.95 | 66.70 | 66.70 | 64.95 | 64.95 | 66.75 | 66.75 | 64.95 | 66.75,Angeles City RON 91 64.95 64.95 66.70 66.70 64.95 64.95 66.75 66.75 64.95 - 66.75 #VALUE!
+report_210.pdf,7,Mabalacat,STANDARD,68.00 | 68.00 | 70.25 | 70.25 | 59.99 | 79.65 | 64.95 | 66.75,Mabalacat City RON 91 68.00 68.00 70.25 70.25 59.99 79.65 64.95 - 66.75 #N/A
+report_210.pdf,8,Lubao,STANDARD,67.50 | 67.50 | 59.90 | 59.90 | 59.90 | 67.50 | 59.90,Lubao RON 91 67.50 67.50 59.90 59.90 59.90 - 67.50 59.90
+report_210.pdf,8,Mexico,STANDARD,60.79 | 60.79 | 60.79 | 60.79,Mexico RON 91 60.79 60.79 60.79 - 60.79 #N/A
+report_210.pdf,8,Arayat,STANDARD,59.60 | 59.60 | 59.60 | 59.60,Pampanga Arayat RON 91 59.60 59.60 59.60 - 59.60 #N/A
+report_210.pdf,8,Bacolor,STANDARD,63.70 | 63.70 | 65.25 | 65.25 | 60.60 | 61.55 | 60.60 | 65.25 | 63.70,Bacolor RON 91 63.70 63.70 65.25 65.25 60.60 61.55 60.60 - 65.25 63.70
+report_210.pdf,8,Guagua,STANDARD,62.80 | 65.00 | 67.45 | 67.65 | 70.70 | 70.70 | 60.68 | 64.00 | 60.68 | 70.70 | 70.70,Guagua RON 91 62.80 65.00 67.45 67.65 70.70 70.70 60.68 64.00 60.68 - 70.70 70.70
+report_210.pdf,8,Magalang,STANDARD,62.98 | 62.98 | 62.98 | 62.98,Magalang RON 91 62.98 62.98 62.98 - 62.98 #N/A
+report_210.pdf,8,Sta. Ana,STANDARD,60.80 | 61.80 | 60.80 | 61.80,Sta. Ana RON 91 60.80 61.80 60.80 - 61.80 #N/A
+report_210.pdf,8,Sto. Tomas,STANDARD,59.03 | 59.03 | 59.03 | 59.03 | 59.03,Sto. Tomas RON 91 59.03 59.03 59.03 - 59.03 59.03
+report_211.pdf,7,Angeles City,STANDARD,63.85 | 63.85 | 60.85 | 60.85 | 60.85 | 63.85,Angeles City RON 91 63.85 63.85 60.85 60.85 60.85 - 63.85 #VALUE!
+report_211.pdf,7,Mabalacat,STANDARD,62.15 | 62.15 | 56.94 | 56.94 | 60.85 | 63.85,Mabalacat City RON 91 62.15 62.15 56.94 56.94 60.85 - 63.85 #N/A
+report_211.pdf,8,Lubao,STANDARD,56.85 | 56.85 | 56.85 | 56.85 | 56.85,Lubao RON 91 56.85 56.85 56.85 - 56.85 56.85
+report_211.pdf,8,Mexico,STANDARD,57.74 | 57.74 | 57.74 | 57.74,Mexico RON 91 57.74 57.74 57.74 - 57.74 #N/A
+report_211.pdf,8,Arayat,STANDARD,56.55 | 56.55 | 56.55 | 56.55,Pampanga Arayat RON 91 56.55 56.55 56.55 - 56.55 #N/A
+report_211.pdf,8,Bacolor,STANDARD,57.63 | 58.50 | 57.63 | 58.50,Bacolor RON 91 57.63 58.50 57.63 - 58.50 #N/A
+report_211.pdf,8,Guagua,STANDARD,57.63 | 57.63 | 57.63 | 57.63,Guagua RON 91 57.63 57.63 57.63 - 57.63 #N/A
+report_211.pdf,8,Magalang,STANDARD,58.85 | 58.85 | 58.85 | 58.85,Magalang RON 91 58.85 58.85 58.85 - 58.85 #N/A
+report_211.pdf,8,Sta. Ana,STANDARD,57.75 | 57.75 | 57.75 | 57.75 | 57.75,Sta. Ana RON 91 57.75 57.75 57.75 - 57.75 57.75
+report_211.pdf,8,Sto. Tomas,STANDARD,55.98 | 55.98 | 55.98 | 55.98 | 55.98,Sto. Tomas RON 91 55.98 55.98 55.98 - 55.98 55.98
+report_212.pdf,7,Angeles City,STANDARD,62.70 | 62.70 | 60.90 | 60.90 | 60.90 | 62.70,Angeles City RON 91 62.70 62.70 60.90 60.90 60.90 - 62.70 #N/A
+report_212.pdf,7,Mabalacat,STANDARD,62.30 | 62.30 | 56.94 | 56.94 | 60.90 | 62.70,Mabalacat City RON 91 62.30 62.30 56.94 56.94 60.90 - 62.70 #N/A
+report_212.pdf,8,Lubao,STANDARD,56.85 | 56.85 | 56.85 | 56.85 | 56.85,Lubao RON 91 56.85 56.85 56.85 - 56.85 56.85
+report_212.pdf,8,Mexico,STANDARD,58.29 | 58.29 | 58.29 | 58.29,Mexico RON 91 58.29 58.29 58.29 - 58.29 #N/A
+report_212.pdf,8,Arayat,STANDARD,57.10 | 57.10 | 57.10 | 57.10,Pampanga Arayat RON 91 57.10 57.10 57.10 - 57.10 #N/A
+report_212.pdf,8,Bacolor,STANDARD,57.68 | 57.99 | 57.68 | 57.99,Bacolor RON 91 57.68 57.99 57.68 - 57.99 #N/A
+report_212.pdf,8,Guagua,STANDARD,57.68 | 57.68 | 57.68 | 57.68,Guagua RON 91 57.68 57.68 57.68 - 57.68 #N/A
+report_212.pdf,8,Magalang,STANDARD,57.99 | 57.99 | 57.99 | 57.99,Magalang RON 91 57.99 57.99 57.99 - 57.99 #N/A
+report_212.pdf,8,Sta. Ana,STANDARD,58.30 | 58.30 | 58.30 | 58.30 | 58.30,Sta. Ana RON 91 58.30 58.30 58.30 - 58.30 58.30
+report_212.pdf,8,Sto. Tomas,STANDARD,56.53 | 56.53 | 56.53 | 56.53 | 56.53,Sto. Tomas RON 91 56.53 56.53 56.53 - 56.53 56.53
+report_213.pdf,7,Angeles City,STANDARD,48.05 | 48.05 | 49.37 | 49.37 | 50.89 | 50.89 | 48.05 | 50.89,Angeles City RON 91 48.05 48.05 49.37 49.37 50.89 50.89 48.05 - 50.89 #N/A
+report_213.pdf,7,Mabalacat,STANDARD,55.03 | 55.03 | 48.05 | 50.89,Mabalacat City RON 91 55.03 55.03 48.05 - 50.89 #N/A
+report_213.pdf,8,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_213.pdf,8,Mexico,STANDARD,0.00 | 0.00,Mexico RON 91 0.00 - 0.00 #N/A
+report_213.pdf,8,Arayat,STANDARD,0.00 | 0.00,Pampanga Arayat RON 91 0.00 - 0.00 #N/A
+report_213.pdf,8,Bacolor,STANDARD,0.00 | 0.00,Bacolor RON 91 0.00 - 0.00 #N/A
+report_213.pdf,8,Guagua,STANDARD,0.00 | 0.00,Guagua RON 91 0.00 - 0.00 #N/A
+report_213.pdf,8,Magalang,STANDARD,0.00 | 0.00,Magalang RON 91 0.00 - 0.00 #N/A
+report_213.pdf,8,Sta. Ana,STANDARD,0.00 | 0.00,Sta. Ana RON 91 0.00 - 0.00 #N/A
+report_213.pdf,8,Sto. Tomas,STANDARD,0.00 | 0.00,Sto. Tomas RON 91 0.00 - 0.00 #N/A
+report_214.pdf,8,Lubao,STANDARD,58.90 | 60.40 | 58.90 | 60.40,Lubao RON 91 58.90 60.40 58.90 - 60.40 #N/A
+report_214.pdf,8,Mexico,STANDARD,60.69 | 60.69 | 60.69 | 60.69,Mexico RON 91 60.69 60.69 60.69 - 60.69 #N/A
+report_214.pdf,8,Arayat,STANDARD,59.10 | 59.10 | 59.10 | 59.10,Pampanga Arayat RON 91 59.10 59.10 59.10 - 59.10 #N/A
+report_214.pdf,8,Bacolor,STANDARD,60.75 | 60.78 | 60.75 | 60.78,Bacolor RON 91 60.75 60.78 60.75 - 60.78 #N/A
+report_214.pdf,8,Guagua,STANDARD,60.78 | 60.78 | 60.78 | 60.78,Guagua RON 91 60.78 60.78 60.78 - 60.78 #N/A
+report_214.pdf,8,Magalang,STANDARD,58.50 | 58.50 | 58.50 | 58.50,Magalang RON 91 58.50 58.50 58.50 - 58.50 #N/A
+report_214.pdf,8,Sta. Ana,STANDARD,60.70 | 60.95 | 60.70 | 60.95,Sta. Ana RON 91 60.70 60.95 60.70 - 60.95 #N/A
+report_214.pdf,8,Sto. Tomas,STANDARD,61.69 | 61.69 | 61.69 | 61.69 | 61.69,Sto. Tomas RON 91 61.69 61.69 61.69 - 61.69 61.69
+report_215.pdf,7,Mabalacat,STANDARD,60.10 | 60.10 | 0.00 | 0.00,Mabalacat City RON 91 60.10 60.10 0.00 - 0.00 #N/A
+report_215.pdf,8,Lubao,STANDARD,59.99 | 60.90 | 59.99 | 60.90,Lubao RON 91 59.99 60.90 59.99 - 60.90 #N/A
+report_215.pdf,8,Mexico,STANDARD,60.99 | 60.99 | 60.99 | 60.99,Mexico RON 91 60.99 60.99 60.99 - 60.99 #N/A
+report_215.pdf,8,Arayat,STANDARD,59.60 | 59.60 | 59.60 | 59.60,Arayat RON 91 59.60 59.60 59.60 - 59.60 #N/A
+report_215.pdf,8,Bacolor,STANDARD,60.95 | 61.28 | 60.95 | 61.28,Bacolor RON 91 60.95 61.28 60.95 - 61.28 #N/A
+report_215.pdf,8,Guagua,STANDARD,61.28 | 61.28 | 61.28 | 61.28,Guagua RON 91 61.28 61.28 61.28 - 61.28 #N/A
+report_215.pdf,8,Magalang,STANDARD,59.80 | 59.80 | 59.80 | 59.80,Magalang RON 91 59.80 59.80 59.80 - 59.80 #N/A
+report_215.pdf,8,Sta. Ana,STANDARD,61.39 | 61.45 | 61.39 | 61.45,Sta. Ana RON 91 61.39 61.45 61.39 - 61.45 #N/A
+report_215.pdf,8,Sto. Tomas,STANDARD,62.19 | 62.19 | 62.19 | 62.19 | 62.19,Sto. Tomas RON 91 62.19 62.19 62.19 - 62.19 62.19
+report_216.pdf,7,Mabalacat,STANDARD,60.30 | 60.30 | 0.00 | 0.00,Mabalacat City RON 91 60.30 60.30 0.00 - 0.00 #N/A
+report_216.pdf,8,Lubao,STANDARD,60.60 | 60.60 | 60.60 | 60.60 | 60.60,Lubao RON 91 60.60 60.60 60.60 - 60.60 60.60
+report_216.pdf,8,Mexico,STANDARD,60.99 | 60.99 | 60.99 | 60.99,Mexico RON 91 60.99 60.99 60.99 - 60.99 #N/A
+report_216.pdf,8,Arayat,STANDARD,59.80 | 59.80 | 59.80 | 59.80,Arayat RON 91 59.80 59.80 59.80 - 59.80 #N/A
+report_216.pdf,8,Bacolor,STANDARD,61.48 | 61.75 | 61.48 | 61.75,Bacolor RON 91 61.48 61.75 61.48 - 61.75 #N/A
+report_216.pdf,8,Guagua,STANDARD,61.48 | 61.48 | 61.48 | 61.48,Guagua RON 91 61.48 61.48 61.48 - 61.48 #N/A
+report_216.pdf,8,Magalang,STANDARD,61.04 | 61.04 | 61.04 | 61.04,Magalang RON 91 61.04 61.04 61.04 - 61.04 #N/A
+report_216.pdf,8,Sta. Ana,STANDARD,61.25 | 61.25 | 61.25 | 61.25 | 61.25,Sta. Ana RON 91 61.25 61.25 61.25 - 61.25 61.25
+report_216.pdf,8,Sto. Tomas,STANDARD,61.89 | 61.89 | 61.89 | 61.89 | 61.89,Sto. Tomas RON 91 61.89 61.89 61.89 - 61.89 61.89
+report_217.pdf,7,Angeles City,STANDARD,67.15 | 67.15 | 67.15 | 67.15,Angeles City RON 91 67.15 67.15 67.15 - 67.15 #N/A
+report_217.pdf,7,Mabalacat,STANDARD,62.30 | 62.30 | 67.15 | 67.15,Mabalacat City RON 91 62.30 62.30 67.15 - 67.15 #N/A
+report_217.pdf,8,Lubao,STANDARD,62.30 | 62.30 | 62.30 | 62.30 | 62.30,Lubao RON 91 62.30 62.30 62.30 - 62.30 62.30
+report_217.pdf,8,Mexico,STANDARD,62.99 | 62.99 | 62.99 | 62.99,Mexico RON 91 62.99 62.99 62.99 - 62.99 #N/A
+report_217.pdf,8,Arayat,STANDARD,61.80 | 61.80 | 61.80 | 61.80,Pampanga Arayat RON 91 61.80 61.80 61.80 - 61.80 #N/A
+report_217.pdf,8,Bacolor,STANDARD,62.88 | 62.99 | 62.88 | 62.99,Bacolor RON 91 62.88 62.99 62.88 - 62.99 #N/A
+report_217.pdf,8,Guagua,STANDARD,62.88 | 62.88 | 62.88 | 62.88,Guagua RON 91 62.88 62.88 62.88 - 62.88 #N/A
+report_217.pdf,8,Magalang,STANDARD,61.50 | 61.50 | 61.50 | 61.50,Magalang RON 91 61.50 61.50 61.50 - 61.50 #N/A
+report_217.pdf,8,Sta. Ana,STANDARD,63.50 | 63.80 | 63.50 | 63.80,Sta. Ana RON 91 63.50 63.80 63.50 - 63.80 #N/A
+report_217.pdf,8,Sto. Tomas,STANDARD,61.53 | 61.53 | 61.53 | 61.53 | 61.53,Sto. Tomas RON 91 61.53 61.53 61.53 - 61.53 61.53
+report_218.pdf,7,Angeles City,STANDARD,66.95 | 66.95 | 66.95 | 66.95,Angeles City RON 91 66.95 66.95 66.95 - 66.95 #N/A
+report_218.pdf,7,Mabalacat,STANDARD,61.99 | 61.99 | 66.95 | 66.95,Mabalacat City RON 91 61.99 61.99 66.95 - 66.95 #N/A
+report_218.pdf,8,Lubao,STANDARD,61.90 | 61.90 | 61.90 | 61.90 | 61.90,Lubao RON 91 61.90 61.90 61.90 - 61.90 61.90
+report_218.pdf,8,Mexico,STANDARD,62.09 | 62.09 | 62.09 | 62.09,Mexico RON 91 62.09 62.09 62.09 - 62.09 #N/A
+report_218.pdf,8,Arayat,STANDARD,61.60 | 61.60 | 61.60 | 61.60,Pampanga Arayat RON 91 61.60 61.60 61.60 - 61.60 #N/A
+report_218.pdf,8,Bacolor,STANDARD,62.68 | 63.45 | 62.68 | 63.45,Bacolor RON 91 62.68 63.45 62.68 - 63.45 #N/A
+report_218.pdf,8,Guagua,STANDARD,62.68 | 62.68 | 62.68 | 62.68,Guagua RON 91 62.68 62.68 62.68 - 62.68 #N/A
+report_218.pdf,8,Magalang,STANDARD,62.98 | 62.98 | 62.98 | 62.98,Magalang RON 91 62.98 62.98 62.98 - 62.98 #N/A
+report_218.pdf,8,Sta. Ana,STANDARD,63.50 | 63.80 | 63.50 | 63.80,Sta. Ana RON 91 63.50 63.80 63.50 - 63.80 #N/A
+report_218.pdf,8,Sto. Tomas,STANDARD,61.03 | 61.03 | 61.03 | 61.03 | 61.03,Sto. Tomas RON 91 61.03 61.03 61.03 - 61.03 61.03
+report_219.pdf,8,Lubao,STANDARD,57.05 | 57.05 | 57.05 | 57.05 | 57.05,Lubao RON 91 57.05 57.05 57.05 - 57.05 57.05
+report_219.pdf,8,Mexico,STANDARD,58.20 | 58.20 | 58.20 | 58.20,Mexico RON 91 58.20 58.20 58.20 - 58.20 #N/A
+report_219.pdf,8,Arayat,STANDARD,57.45 | 57.45 | 57.45 | 57.45,Pampanga Arayat RON 91 57.45 57.45 57.45 - 57.45 #N/A
+report_219.pdf,8,Bacolor,STANDARD,57.40 | 57.45 | 57.40 | 57.45,Bacolor RON 91 57.40 57.45 57.40 - 57.45 #N/A
+report_219.pdf,8,Guagua,STANDARD,57.40 | 57.40 | 57.40 | 57.40,Guagua RON 91 57.40 57.40 57.40 - 57.40 #N/A
+report_219.pdf,8,Magalang,STANDARD,55.60 | 55.60 | 55.60 | 55.60,Magalang RON 91 55.60 55.60 55.60 - 55.60 #N/A
+report_219.pdf,8,Sta. Ana,STANDARD,58.20 | 58.20 | 58.20 | 58.20 | 58.20,Sta. Ana RON 91 58.20 58.20 58.20 - 58.20 58.20
+report_219.pdf,8,Sto. Tomas,STANDARD,58.20 | 58.20 | 58.20 | 58.20 | 58.20,Sto. Tomas RON 91 58.20 58.20 58.20 - 58.20 58.20
+report_220.pdf,8,Lubao,STANDARD,57.20 | 57.99 | 57.20 | 57.99,Lubao RON 91 57.20 57.99 57.20 - 57.99 #N/A
+report_220.pdf,8,Mexico,STANDARD,58.60 | 58.60 | 58.60 | 58.60,Mexico RON 91 58.60 58.60 58.60 - 58.60 #N/A
+report_220.pdf,8,Arayat,STANDARD,57.44 | 57.44 | 57.44 | 57.44,Pampanga Arayat RON 91 57.44 57.44 57.44 - 57.44 #N/A
+report_220.pdf,8,Bacolor,STANDARD,57.90 | 57.99 | 57.90 | 57.99,Bacolor RON 91 57.90 57.99 57.90 - 57.99 #N/A
+report_220.pdf,8,Guagua,STANDARD,57.90 | 57.90 | 57.90 | 57.90,Guagua RON 91 57.90 57.90 57.90 - 57.90 #N/A
+report_220.pdf,8,Magalang,STANDARD,57.10 | 57.10 | 57.10 | 57.10,Magalang RON 91 57.10 57.10 57.10 - 57.10 #N/A
+report_220.pdf,8,Sta. Ana,STANDARD,58.70 | 58.70 | 58.70 | 58.70 | 58.70,Sta. Ana RON 91 58.70 58.70 58.70 - 58.70 58.70
+report_220.pdf,8,Sto. Tomas,STANDARD,58.49 | 58.50 | 58.49 | 58.50,Sto. Tomas RON 91 58.49 58.50 58.49 - 58.50 #N/A
+report_221.pdf,8,Lubao,STANDARD,58.35 | 58.35 | 58.35 | 58.35 | 58.35,Lubao RON 91 58.35 58.35 58.35 - 58.35 58.35
+report_221.pdf,8,Mexico,STANDARD,58.60 | 58.60 | 58.60 | 58.60,Mexico RON 91 58.60 58.60 58.60 - 58.60 #N/A
+report_221.pdf,8,Arayat,STANDARD,59.20 | 59.20 | 59.20 | 59.20,Pampanga Arayat RON 91 59.20 59.20 59.20 - 59.20 #N/A
+report_221.pdf,8,Bacolor,STANDARD,58.99 | 59.48 | 58.99 | 59.48,Bacolor RON 91 58.99 59.48 58.99 - 59.48 #N/A
+report_221.pdf,8,Guagua,STANDARD,59.48 | 59.48 | 59.48 | 59.48,Guagua RON 91 59.48 59.48 59.48 - 59.48 #N/A
+report_221.pdf,8,Magalang,STANDARD,58.54 | 58.54 | 58.54 | 58.54,Magalang RON 91 58.54 58.54 58.54 - 58.54 #N/A
+report_221.pdf,8,Sta. Ana,STANDARD,60.55 | 60.55 | 60.55 | 60.55 | 60.55,Sta. Ana RON 91 60.55 60.55 60.55 - 60.55 60.55
+report_221.pdf,8,Sto. Tomas,STANDARD,60.39 | 60.40 | 60.39 | 60.40,Sto. Tomas RON 91 60.39 60.40 60.39 - 60.40 #N/A
+report_222.pdf,8,Lubao,STANDARD,58.35 | 59.70 | 58.35 | 59.70,Lubao RON 91 58.35 59.70 58.35 - 59.70 #N/A
+report_222.pdf,8,Mexico,STANDARD,60.39 | 60.39 | 60.39 | 60.39,Mexico RON 91 60.39 60.39 60.39 - 60.39 #N/A
+report_222.pdf,8,Arayat,STANDARD,58.80 | 58.80 | 58.80 | 58.80,Pampanga Arayat RON 91 58.80 58.80 58.80 - 58.80 #N/A
+report_222.pdf,8,Bacolor,STANDARD,59.48 | 60.75 | 59.48 | 60.75,Bacolor RON 91 59.48 60.75 59.48 - 60.75 #N/A
+report_222.pdf,8,Guagua,STANDARD,59.48 | 59.48 | 59.48 | 59.48,Guagua RON 91 59.48 59.48 59.48 - 59.48 #N/A
+report_222.pdf,8,Magalang,STANDARD,58.50 | 58.50 | 58.50 | 58.50,Magalang RON 91 58.50 58.50 58.50 - 58.50 #N/A
+report_222.pdf,8,Sta. Ana,STANDARD,60.39 | 60.39 | 60.39 | 60.39 | 60.39,Sta. Ana RON 91 60.39 60.39 60.39 - 60.39 60.39
+report_222.pdf,8,Sto. Tomas,STANDARD,61.49 | 61.49 | 61.49 | 61.49 | 61.49,Sto. Tomas RON 91 61.49 61.49 61.49 - 61.49 61.49
+report_223.pdf,7,Angeles City,STANDARD,56.55 | 56.55 | 56.85 | 56.85 | 59.60 | 59.60 | 56.55 | 59.60,Angeles City RON 91 56.55 56.55 56.85 56.85 59.60 59.60 56.55 - 59.60 #N/A
+report_223.pdf,7,Mabalacat,STANDARD,54.35 | 56.45 | 56.55 | 59.60,Mabalacat City RON 91 54.35 56.45 56.55 - 59.60 #N/A
+report_223.pdf,7,Lubao,STANDARD,52.54 | 53.20 | 52.54 | 53.20,Lubao RON 91 52.54 53.20 52.54 - 53.20 #N/A
+report_223.pdf,8,Mexico,STANDARD,53.15 | 53.15 | 53.15 | 53.15,Mexico RON 91 53.15 53.15 53.15 - 53.15 #N/A
+report_223.pdf,8,Arayat,STANDARD,53.45 | 53.45 | 53.45 | 53.45,Pampanga Arayat RON 91 53.45 53.45 53.45 - 53.45 #N/A
+report_223.pdf,8,Bacolor,STANDARD,52.85 | 54.84 | 52.85 | 54.84,Bacolor RON 91 52.85 54.84 52.85 - 54.84 #N/A
+report_223.pdf,8,Guagua,STANDARD,52.85 | 52.85 | 52.85 | 52.85,Guagua RON 91 52.85 52.85 52.85 - 52.85 #N/A
+report_223.pdf,8,Magalang,STANDARD,54.60 | 54.60 | 54.60 | 54.60,Magalang RON 91 54.60 54.60 54.60 - 54.60 #N/A
+report_223.pdf,8,Sta. Ana,STANDARD,53.45 | 53.55 | 53.45 | 53.55,Sta. Ana RON 91 53.45 53.55 53.45 - 53.55 #N/A
+report_223.pdf,8,Sto. Tomas,STANDARD,53.99 | 53.99 | 53.99 | 53.99 | 53.99,Sto. Tomas RON 91 53.99 53.99 53.99 - 53.99 53.99
+report_224.pdf,7,Angeles City,STANDARD,56.35 | 56.35 | 56.25 | 56.25 | 68.80 | 68.80 | 56.25 | 68.80,Angeles City RON 91 56.35 56.35 56.25 56.25 68.80 68.80 56.25 - 68.80 #N/A
+report_224.pdf,7,Mabalacat,STANDARD,60.55 | 60.55 | 65.95 | 65.95 | 54.15 | 56.25 | 56.25 | 68.80,Mabalacat City RON 91 60.55 60.55 65.95 65.95 54.15 56.25 56.25 - 68.80 #N/A
+report_224.pdf,8,Lubao,STANDARD,53.00 | 53.00 | 53.00 | 53.00 | 53.00,Lubao RON 91 53.00 53.00 53.00 - 53.00 53.00
+report_224.pdf,8,Mexico,STANDARD,52.95 | 52.95 | 52.95 | 52.95,Mexico RON 91 52.95 52.95 52.95 - 52.95 #N/A
+report_224.pdf,8,Arayat,STANDARD,53.55 | 53.55 | 53.55 | 53.55,Pampanga Arayat RON 91 53.55 53.55 53.55 - 53.55 #N/A
+report_224.pdf,8,Bacolor,STANDARD,52.65 | 54.84 | 52.65 | 54.84,Bacolor RON 91 52.65 54.84 52.65 - 54.84 #N/A
+report_224.pdf,8,Guagua,STANDARD,52.65 | 52.65 | 52.65 | 52.65,Guagua RON 91 52.65 52.65 52.65 - 52.65 #N/A
+report_224.pdf,8,Magalang,STANDARD,54.60 | 54.60 | 54.60 | 54.60,Magalang RON 91 54.60 54.60 54.60 - 54.60 #N/A
+report_224.pdf,8,Sta. Ana,STANDARD,53.35 | 53.35 | 53.35 | 53.35 | 53.35,Sta. Ana RON 91 53.35 53.35 53.35 - 53.35 53.35
+report_224.pdf,8,Sto. Tomas,STANDARD,53.54 | 53.54 | 53.54 | 53.54 | 53.54,Sto. Tomas RON 91 53.54 53.54 53.54 - 53.54 53.54
+report_225.pdf,9,Angeles City,STANDARD,58.25 | 58.25 | 60.83 | 60.83 | 57.05 | 57.05 | 60.70 | 60.70 | 61.50 | 61.50 | 67.55 | 67.85 | 57.05 | 67.85,Angeles City RON 91 58.25 58.25 60.83 60.83 57.05 57.05 60.70 60.70 61.50 61.50 67.55 67.85 57.05 - 67.85 #N/A
+report_225.pdf,9,Mabalacat,STANDARD,62.45 | 62.45 | 67.75 | 67.75 | 56.05 | 56.95 | 57.05 | 67.85,Mabalacat City RON 91 62.45 62.45 67.75 67.75 56.05 56.95 57.05 - 67.85 #N/A
+report_225.pdf,9,Lubao,STANDARD,54.90 | 54.90 | 54.90 | 54.90 | 54.90,Lubao RON 91 54.90 54.90 54.90 - 54.90 54.90
+report_225.pdf,9,Mexico,STANDARD,54.85 | 54.85 | 54.85 | 54.85,Mexico RON 91 54.85 54.85 54.85 - 54.85 #N/A
+report_225.pdf,9,Arayat,STANDARD,55.34 | 55.34 | 55.34 | 55.34,Pampanga Arayat RON 91 55.34 55.34 55.34 - 55.34 #N/A
+report_225.pdf,9,Bacolor,STANDARD,54.55 | 55.00 | 54.55 | 55.00,Bacolor RON 91 54.55 55.00 54.55 - 55.00 #N/A
+report_226.pdf,8,Lubao,STANDARD,54.89 | 56.25 | 54.89 | 56.25,Lubao RON 91 54.89 56.25 54.89 - 56.25 #N/A
+report_226.pdf,8,Mexico,STANDARD,56.20 | 56.20 | 56.20 | 56.20,Mexico RON 91 56.20 56.20 56.20 - 56.20 #N/A
+report_226.pdf,8,Arayat,STANDARD,55.34 | 55.34 | 55.34 | 55.34,Arayat RON 91 55.34 55.34 55.34 - 55.34 #N/A
+report_226.pdf,8,Bacolor,STANDARD,54.55 | 55.99 | 54.55 | 55.99,Bacolor RON 91 54.55 55.99 54.55 - 55.99 #N/A
+report_226.pdf,8,Guagua,STANDARD,54.55 | 54.55 | 54.55 | 54.55,Guagua RON 91 54.55 54.55 54.55 - 54.55 #N/A
+report_226.pdf,8,Magalang,STANDARD,54.10 | 54.10 | 54.10 | 54.10,Magalang RON 91 54.10 54.10 54.10 - 54.10 #N/A
+report_226.pdf,8,Sta. Ana,STANDARD,56.20 | 56.20 | 56.20 | 56.20 | 56.20,Sta. Ana RON 91 56.20 56.20 56.20 - 56.20 56.20
+report_226.pdf,8,Sto. Tomas,STANDARD,57.04 | 57.04 | 57.04 | 57.04 | 57.04,Sto. Tomas RON 91 57.04 57.04 57.04 - 57.04 57.04
+report_227.pdf,8,Lubao,STANDARD,52.54 | 53.35 | 52.54 | 53.35,Lubao RON 91 52.54 53.35 52.54 - 53.35 #N/A
+report_227.pdf,8,Mexico,STANDARD,54.35 | 54.35 | 54.35 | 54.35,Mexico RON 91 54.35 54.35 54.35 - 54.35 #N/A
+report_227.pdf,8,Arayat,STANDARD,53.55 | 53.55 | 53.55 | 53.55,Pampanga Arayat RON 91 53.55 53.55 53.55 - 53.55 #N/A
+report_227.pdf,8,Bacolor,STANDARD,53.40 | 54.50 | 53.40 | 54.50,Bacolor RON 91 53.40 54.50 53.40 - 54.50 #N/A
+report_227.pdf,8,Guagua,STANDARD,53.40 | 53.40 | 53.40 | 53.40,Guagua RON 91 53.40 53.40 53.40 - 53.40 #N/A
+report_227.pdf,8,Magalang,STANDARD,53.35 | 53.35 | 53.35 | 53.35,Magalang RON 91 53.35 53.35 53.35 - 53.35 #N/A
+report_227.pdf,8,Sta. Ana,STANDARD,54.65 | 54.65 | 54.65 | 54.65 | 54.65,Sta. Ana RON 91 54.65 54.65 54.65 - 54.65 54.65
+report_227.pdf,8,Sto. Tomas,STANDARD,54.39 | 54.40 | 54.39 | 54.40,Sto. Tomas RON 91 54.39 54.40 54.39 - 54.40 #N/A
+report_228.pdf,8,Lubao,STANDARD,52.54 | 56.50 | 52.54 | 56.50,Lubao RON 91 52.54 56.50 52.54 - 56.50 #N/A
+report_228.pdf,8,Mexico,STANDARD,53.30 | 53.30 | 53.30 | 53.30,Mexico RON 91 53.30 53.30 53.30 - 53.30 #N/A
+report_228.pdf,8,Arayat,STANDARD,53.55 | 53.55 | 53.55 | 53.55,Pampanga Arayat RON 91 53.55 53.55 53.55 - 53.55 #N/A
+report_228.pdf,8,Bacolor,STANDARD,52.80 | 54.65 | 52.80 | 54.65,Bacolor RON 91 52.80 54.65 52.80 - 54.65 #N/A
+report_228.pdf,8,Guagua,STANDARD,52.80 | 52.80 | 52.80 | 52.80,Guagua RON 91 52.80 52.80 52.80 - 52.80 #N/A
+report_228.pdf,8,Magalang,STANDARD,52.70 | 52.70 | 52.70 | 52.70,Magalang RON 91 52.70 52.70 52.70 - 52.70 #N/A
+report_228.pdf,8,Sta. Ana,STANDARD,53.30 | 53.30 | 53.30 | 53.30 | 53.30,Sta. Ana RON 91 53.30 53.30 53.30 - 53.30 53.30
+report_228.pdf,8,Sto. Tomas,STANDARD,53.80 | 53.80 | 53.80 | 53.80 | 53.80,Sto. Tomas RON 91 53.80 53.80 53.80 - 53.80 53.80
+report_229.pdf,8,Mexico,STANDARD,54.50 | 54.50 | 54.50 | 54.50,Mexico RON 91 54.50 54.50 54.50 - 54.50 #N/A
+report_229.pdf,8,Arayat,STANDARD,54.20 | 54.20 | 54.20 | 54.20,Pampanga Arayat RON 91 54.20 54.20 54.20 - 54.20 #N/A
+report_229.pdf,8,Bacolor,STANDARD,52.79 | 54.65 | 52.79 | 54.65,Bacolor RON 91 52.79 54.65 52.79 - 54.65 #N/A
+report_229.pdf,8,Guagua,STANDARD,52.79 | 52.79 | 52.79 | 52.79,Guagua RON 91 52.79 52.79 52.79 - 52.79 #N/A
+report_229.pdf,8,Magalang,STANDARD,52.70 | 52.70 | 52.70 | 52.70,Magalang RON 91 52.70 52.70 52.70 - 52.70 #N/A
+report_229.pdf,8,Sta. Ana,STANDARD,54.50 | 54.50 | 54.50 | 54.50 | 54.50,Sta. Ana RON 91 54.50 54.50 54.50 - 54.50 54.50
+report_229.pdf,8,Sto. Tomas,STANDARD,54.99 | 54.99 | 54.99 | 54.99 | 54.99,Sto. Tomas RON 91 54.99 54.99 54.99 - 54.99 54.99
+report_230.pdf,7,Angeles City,STANDARD,56.95 | 56.95 | 56.85 | 56.85 | 59.77 | 59.77 | 60.30 | 60.30 | 60.15 | 60.15 | 56.85 | 60.30,Angeles City RON 91 56.95 56.95 56.85 56.85 59.77 59.77 60.30 60.30 60.15 60.15 56.85 - 60.30 #N/A
+report_230.pdf,7,Mabalacat,STANDARD,61.25 | 61.25 | 66.65 | 66.65 | 56.85 | 56.85 | 56.85 | 60.30,Pampanga Mabalacat City RON 91 61.25 61.25 66.65 66.65 56.85 56.85 56.85 - 60.30 #N/A
+report_231.pdf,7,Arayat,STANDARD,53.65 | 53.65 | 53.65 | 53.65,Pampanga Arayat RON 91 53.65 53.65 53.65 - 53.65 #N/A
+report_231.pdf,7,Bacolor,STANDARD,53.55 | 54.84 | 53.55 | 54.84,Bacolor RON 91 53.55 54.84 53.55 - 54.84 #N/A
+report_231.pdf,7,Guagua,STANDARD,53.55 | 53.55 | 53.55 | 53.55,Guagua RON 91 53.55 53.55 53.55 - 53.55 #N/A
+report_231.pdf,7,Magalang,STANDARD,54.60 | 54.60 | 54.60 | 54.60,Magalang RON 91 54.60 54.60 54.60 - 54.60 #N/A
+report_231.pdf,7,Sta. Ana,STANDARD,53.85 | 53.85 | 53.85 | 53.85 | 53.85,Sta. Ana RON 91 53.85 53.85 53.85 - 53.85 53.85
+report_231.pdf,7,Sto. Tomas,STANDARD,54.69 | 54.69 | 54.69 | 54.69 | 54.69,Sto. Tomas RON 91 54.69 54.69 54.69 - 54.69 54.69
+report_232.pdf,7,Angeles City,STANDARD,58.30 | 58.30 | 58.30 | 58.30 | 58.30,Angeles City RON 91 58.30 58.30 58.30 - 58.30 58.30
+report_232.pdf,7,Mabalacat,STANDARD,54.69 | 54.69 | 58.30 | 58.30,Mabalacat City RON 91 54.69 54.69 58.30 - 58.30 #N/A
+report_232.pdf,7,Lubao,STANDARD,54.50 | 54.50 | 54.50 | 54.50 | 54.50,Lubao RON 91 54.50 54.50 54.50 - 54.50 54.50
+report_232.pdf,7,Mexico,STANDARD,55.44 | 55.44 | 55.44 | 55.44,Mexico RON 91 55.44 55.44 55.44 - 55.44 #N/A
+report_232.pdf,7,Arayat,STANDARD,55.64 | 55.64 | 55.64 | 55.64,Pampanga Arayat RON 91 55.64 55.64 55.64 - 55.64 #N/A
+report_232.pdf,7,Bacolor,STANDARD,53.99 | 57.00 | 53.99 | 57.00,Bacolor RON 91 53.99 57.00 53.99 - 57.00 #N/A
+report_232.pdf,7,Guagua,STANDARD,53.99 | 53.99 | 53.99 | 53.99,Guagua RON 91 53.99 53.99 53.99 - 53.99 #N/A
+report_232.pdf,7,Magalang,STANDARD,55.10 | 55.10 | 55.10 | 55.10,Magalang RON 91 55.10 55.10 55.10 - 55.10 #N/A
+report_233.pdf,7,Angeles City,STANDARD,56.10 | 56.10 | 56.10 | 56.10 | 58.50 | 58.50 | 56.10 | 58.50 | 56.10,Angeles City RON 91 56.10 56.10 56.10 56.10 58.50 58.50 56.10 - 58.50 56.10
+report_233.pdf,7,Mabalacat,STANDARD,64.15 | 64.15 | 52.49 | 52.49 | 56.10 | 58.50,Mabalacat City RON 91 64.15 64.15 52.49 52.49 56.10 - 58.50 #N/A
+report_233.pdf,7,Lubao,STANDARD,52.70 | 52.70 | 52.70 | 52.70 | 52.70,Lubao RON 91 52.70 52.70 52.70 - 52.70 52.70
+report_233.pdf,7,Mexico,STANDARD,53.24 | 53.24 | 53.24 | 53.24,Mexico RON 91 53.24 53.24 53.24 - 53.24 #N/A
+report_233.pdf,7,Arayat,STANDARD,53.49 | 53.49 | 53.49 | 53.49,Pampanga Arayat RON 91 53.49 53.49 53.49 - 53.49 #N/A
+report_234.pdf,8,Lubao,STANDARD,52.60 | 52.70 | 52.60 | 52.70,Lubao RON 91 52.60 52.70 52.60 - 52.70 #N/A
+report_234.pdf,8,Mexico,STANDARD,53.55 | 53.55 | 53.55 | 53.55,Mexico RON 91 53.55 53.55 53.55 - 53.55 #N/A
+report_234.pdf,8,Arayat,STANDARD,53.80 | 53.80 | 53.80 | 53.80,Pampanga Arayat RON 91 53.80 53.80 53.80 - 53.80 #N/A
+report_234.pdf,8,Bacolor,STANDARD,51.70 | 54.80 | 51.70 | 54.80,Bacolor RON 91 51.70 54.80 51.70 - 54.80 #N/A
+report_234.pdf,8,Guagua,STANDARD,51.70 | 51.70 | 51.70 | 51.70,Guagua RON 91 51.70 51.70 51.70 - 51.70 #N/A
+report_234.pdf,8,Magalang,STANDARD,54.55 | 54.55 | 54.55 | 54.55,Magalang RON 91 54.55 54.55 54.55 - 54.55 #N/A
+report_234.pdf,8,Sta. Ana,STANDARD,53.55 | 53.55 | 53.55 | 53.55 | 53.55,Sta. Ana RON 91 53.55 53.55 53.55 - 53.55 53.55
+report_234.pdf,8,Sto. Tomas,STANDARD,52.49 | 52.50 | 52.49 | 52.50,Sto. Tomas RON 91 52.49 52.50 52.49 - 52.50 #N/A
+report_235.pdf,9,Mexico,STANDARD,54.35 | 54.35 | 54.35 | 54.35,Mexico RON 91 54.35 54.35 54.35 - 54.35 #N/A
+report_235.pdf,9,Arayat,STANDARD,53.50 | 53.50 | 53.50 | 53.50,Pampanga Arayat RON 91 53.50 53.50 53.50 - 53.50 #N/A
+report_235.pdf,9,Bacolor,STANDARD,51.70 | 54.65 | 51.70 | 54.65,Bacolor RON 91 51.70 54.65 51.70 - 54.65 #N/A
+report_235.pdf,9,Guagua,STANDARD,51.70 | 51.70 | 51.70 | 51.70,Guagua RON 91 51.70 51.70 51.70 - 51.70 #N/A
+report_235.pdf,9,Magalang,STANDARD,53.35 | 53.35 | 53.35 | 53.35,Magalang RON 91 53.35 53.35 53.35 - 53.35 #N/A
+report_235.pdf,9,Sta. Ana,STANDARD,54.35 | 54.35 | 54.35 | 54.35 | 54.35,Sta. Ana RON 91 54.35 54.35 54.35 - 54.35 54.35
+report_235.pdf,9,Sto. Tomas,STANDARD,53.30 | 53.30 | 53.30 | 53.30 | 53.30,Sto. Tomas RON 91 53.30 53.30 53.30 - 53.30 53.30
+report_236.pdf,8,Mexico,STANDARD,57.15 | 57.15 | 57.15 | 57.15,Mexico RON 91 57.15 57.15 57.15 - 57.15 #N/A
+report_236.pdf,8,Arayat,STANDARD,56.00 | 56.00 | 56.00 | 56.00,Pampanga Arayat RON 91 56.00 56.00 56.00 - 56.00 #N/A
+report_236.pdf,8,Bacolor,STANDARD,53.00 | 56.25 | 53.00 | 56.25,Bacolor RON 91 53.00 56.25 53.00 - 56.25 #N/A
+report_236.pdf,8,Guagua,STANDARD,53.00 | 53.00 | 53.00 | 53.00,Guagua RON 91 53.00 53.00 53.00 - 53.00 #N/A
+report_236.pdf,8,Magalang,STANDARD,54.40 | 54.40 | 54.40 | 54.40,Magalang RON 91 54.40 54.40 54.40 - 54.40 #N/A
+report_236.pdf,8,Sta. Ana,STANDARD,55.74 | 55.75 | 55.74 | 55.75,Sta. Ana RON 91 55.74 55.75 55.74 - 55.75 #N/A
+report_236.pdf,8,Sto. Tomas,STANDARD,55.43 | 55.43 | 55.43 | 55.43 | 55.43,Sto. Tomas RON 91 55.43 55.43 55.43 - 55.43 55.43
+report_237.pdf,8,Mexico,STANDARD,58.34 | 58.34 | 58.34 | 58.34,Mexico RON 91 58.34 58.34 58.34 - 58.34 #N/A
+report_237.pdf,8,Arayat,STANDARD,58.54 | 58.54 | 58.54 | 58.54,Pampanga Arayat RON 91 58.54 58.54 58.54 - 58.54 #N/A
+report_237.pdf,8,Bacolor,STANDARD,55.98 | 57.50 | 55.98 | 57.50,Bacolor RON 91 55.98 57.50 55.98 - 57.50 #N/A
+report_237.pdf,8,Guagua,STANDARD,55.98 | 55.98 | 55.98 | 55.98,Guagua RON 91 55.98 55.98 55.98 - 55.98 #N/A
+report_237.pdf,8,Magalang,STANDARD,56.40 | 56.40 | 56.40 | 56.40,Magalang RON 91 56.40 56.40 56.40 - 56.40 #N/A
+report_237.pdf,8,Sta. Ana,STANDARD,58.34 | 58.34 | 58.34 | 58.34 | 58.34,Sta. Ana RON 91 58.34 58.34 58.34 - 58.34 58.34
+report_237.pdf,8,Sto. Tomas,STANDARD,58.03 | 58.03 | 58.03 | 58.03 | 58.03,Sto. Tomas RON 91 58.03 58.03 58.03 - 58.03 58.03
+report_238.pdf,8,Angeles City,STANDARD,61.95 | 61.95 | 72.25 | 72.25 | 61.95 | 72.25,Angeles City RON 91 61.95 61.95 72.25 72.25 61.95 - 72.25 #N/A
+report_238.pdf,8,Mabalacat,STANDARD,57.59 | 57.59 | 61.95 | 72.25,Mabalacat City RON 91 57.59 57.59 61.95 - 72.25 #N/A
+report_238.pdf,8,Lubao,STANDARD,55.92 | 56.70 | 55.92 | 56.70,Lubao RON 91 55.92 56.70 55.92 - 56.70 #N/A
+report_238.pdf,8,Mexico,STANDARD,58.35 | 58.35 | 58.35 | 58.35,Mexico RON 91 58.35 58.35 58.35 - 58.35 #N/A
+report_238.pdf,8,Arayat,STANDARD,58.59 | 58.59 | 58.59 | 58.59,Pampanga Arayat RON 91 58.59 58.59 58.59 - 58.59 #N/A
+report_238.pdf,8,Bacolor,STANDARD,55.60 | 58.50 | 55.60 | 58.50,Bacolor RON 91 55.60 58.50 55.60 - 58.50 #N/A
+report_238.pdf,8,Guagua,STANDARD,55.60 | 55.60 | 55.60 | 55.60,Guagua RON 91 55.60 55.60 55.60 - 55.60 #N/A
+report_238.pdf,8,Magalang,STANDARD,57.40 | 57.40 | 57.40 | 57.40,Magalang RON 91 57.40 57.40 57.40 - 57.40 #N/A
+report_239.pdf,8,Angeles City,STANDARD,59.80 | 59.80 | 70.85 | 70.85 | 59.80 | 70.85,Angeles City RON 91 59.80 59.80 70.85 70.85 59.80 - 70.85 #N/A
+report_239.pdf,8,Mabalacat,STANDARD,57.59 | 57.59 | 59.80 | 70.85,Mabalacat City RON 91 57.59 57.59 59.80 - 70.85 #N/A
+report_239.pdf,8,Lubao,STANDARD,56.90 | 56.90 | 56.90 | 56.90 | 56.90,Lubao RON 91 56.90 56.90 56.90 - 56.90 56.90
+report_239.pdf,8,Mexico,STANDARD,58.34 | 58.34 | 58.34 | 58.34,Mexico RON 91 58.34 58.34 58.34 - 58.34 #N/A
+report_239.pdf,8,Arayat,STANDARD,58.54 | 58.54 | 58.54 | 58.54,Pampanga Arayat RON 91 58.54 58.54 58.54 - 58.54 #N/A
+report_239.pdf,8,Bacolor,STANDARD,55.98 | 57.50 | 55.98 | 57.50,Bacolor RON 91 55.98 57.50 55.98 - 57.50 #N/A
+report_239.pdf,8,Guagua,STANDARD,55.98 | 55.98 | 55.98 | 55.98,Guagua RON 91 55.98 55.98 55.98 - 55.98 #N/A
+report_239.pdf,8,Magalang,STANDARD,56.40 | 56.40 | 56.40 | 56.40,Magalang RON 91 56.40 56.40 56.40 - 56.40 #N/A
+report_240.pdf,8,Mexico,STANDARD,60.50 | 60.50 | 60.50 | 60.50,Mexico RON 91 60.50 60.50 60.50 - 60.50 #N/A
+report_240.pdf,8,Arayat,STANDARD,59.99 | 59.99 | 59.99 | 59.99,Arayat RON 91 59.99 59.99 59.99 - 59.99 #N/A
+report_240.pdf,8,Bacolor,STANDARD,57.54 | 58.26 | 57.54 | 58.26,Bacolor RON 91 57.54 58.26 57.54 - 58.26 #N/A
+report_240.pdf,8,Guagua,STANDARD,58.26 | 58.26 | 58.26 | 58.26,Guagua RON 91 58.26 58.26 58.26 - 58.26 #N/A
+report_240.pdf,8,Magalang,STANDARD,55.95 | 55.95 | 55.95 | 55.95,Magalang RON 91 55.95 55.95 55.95 - 55.95 #N/A
+report_240.pdf,8,Sta. Ana,STANDARD,59.80 | 59.80 | 59.80 | 59.80 | 59.80,Sta. Ana RON 91 59.80 59.80 59.80 - 59.80 59.80
+report_240.pdf,8,Sto. Tomas,STANDARD,58.20 | 58.20 | 58.20 | 58.20 | 58.20,Sto. Tomas RON 91 58.20 58.20 58.20 - 58.20 58.20
+report_241.pdf,8,Mexico,STANDARD,60.50 | 60.50 | 60.50 | 60.50,Mexico RON 91 60.50 60.50 60.50 - 60.50 #N/A
+report_241.pdf,8,Arayat,STANDARD,59.99 | 59.99 | 59.99 | 59.99,Pampanga Arayat RON 91 59.99 59.99 59.99 - 59.99 #N/A
+report_241.pdf,8,Bacolor,STANDARD,55.05 | 57.90 | 55.05 | 57.90,Bacolor RON 91 55.05 57.90 55.05 - 57.90 #N/A
+report_241.pdf,8,Guagua,STANDARD,55.05 | 55.05 | 55.05 | 55.05,Guagua RON 91 55.05 55.05 55.05 - 55.05 #N/A
+report_241.pdf,8,Magalang,STANDARD,55.40 | 55.40 | 55.40 | 55.40,Magalang RON 91 55.40 55.40 55.40 - 55.40 #N/A
+report_241.pdf,8,Sta. Ana,STANDARD,59.80 | 59.80 | 59.80 | 59.80 | 59.80,Sta. Ana RON 91 59.80 59.80 59.80 - 59.80 59.80
+report_241.pdf,8,Sto. Tomas,STANDARD,57.04 | 57.05 | 57.04 | 57.05,Sto. Tomas RON 91 57.04 57.05 57.04 - 57.05 #N/A
+report_242.pdf,8,Angeles City,STANDARD,74.05 | 74.05 | 74.05 | 74.05,Angeles City RON 91 74.05 74.05 74.05 - 74.05 #N/A
+report_242.pdf,8,Mabalacat,STANDARD,57.20 | 57.20 | 74.05 | 74.05,Mabalacat City RON 91 57.20 57.20 74.05 - 74.05 #N/A
+report_242.pdf,8,Lubao,STANDARD,55.14 | 55.14 | 55.14 | 55.14 | 55.14,Lubao RON 91 55.14 55.14 55.14 - 55.14 55.14
+report_242.pdf,8,Mexico,STANDARD,60.50 | 60.50 | 60.50 | 60.50,Mexico RON 91 60.50 60.50 60.50 - 60.50 #N/A
+report_242.pdf,8,Arayat,STANDARD,59.80 | 59.80 | 59.80 | 59.80,Pampanga Arayat RON 91 59.80 59.80 59.80 - 59.80 #N/A
+report_242.pdf,8,Bacolor,STANDARD,54.98 | 57.90 | 54.98 | 57.90,Bacolor RON 91 54.98 57.90 54.98 - 57.90 #N/A
+report_242.pdf,8,Guagua,STANDARD,54.98 | 54.98 | 54.98 | 54.98,Guagua RON 91 54.98 54.98 54.98 - 54.98 #N/A
+report_242.pdf,8,Magalang,STANDARD,55.40 | 55.40 | 55.40 | 55.40,Magalang RON 91 55.40 55.40 55.40 - 55.40 #N/A
+report_243.pdf,8,Mexico,STANDARD,58.30 | 58.30 | 58.30 | 58.30,Mexico RON 91 58.30 58.30 58.30 - 58.30 #N/A
+report_243.pdf,8,Arayat,STANDARD,58.50 | 58.50 | 58.50 | 58.50,Pampanga Arayat RON 91 58.50 58.50 58.50 - 58.50 #N/A
+report_243.pdf,8,Bacolor,STANDARD,53.78 | 57.20 | 53.78 | 57.20,Bacolor RON 91 53.78 57.20 53.78 - 57.20 #N/A
+report_243.pdf,8,Guagua,STANDARD,53.78 | 53.78 | 53.78 | 53.78,Guagua RON 91 53.78 53.78 53.78 - 53.78 #N/A
+report_243.pdf,8,Magalang,STANDARD,55.40 | 55.40 | 55.40 | 55.40,Magalang RON 91 55.40 55.40 55.40 - 55.40 #N/A
+report_243.pdf,8,Sta. Ana,STANDARD,58.30 | 58.30 | 58.30 | 58.30 | 58.30,Sta. Ana RON 91 58.30 58.30 58.30 - 58.30 58.30
+report_243.pdf,8,Sto. Tomas,STANDARD,54.94 | 54.95 | 54.94 | 54.95,Sto. Tomas RON 91 54.94 54.95 54.94 - 54.95 #N/A
+report_244.pdf,8,Angeles City,STANDARD,59.10 | 59.10 | 72.00 | 72.00 | 59.10 | 72.00 | 59.10,Angeles City RON 91 59.10 59.10 72.00 72.00 59.10 - 72.00 59.10
+report_244.pdf,8,Mabalacat,STANDARD,55.05 | 55.05 | 59.10 | 72.00,Mabalacat City RON 91 55.05 55.05 59.10 - 72.00 #N/A
+report_244.pdf,8,Lubao,STANDARD,52.81 | 52.90 | 52.81 | 52.90,Lubao RON 91 52.81 52.90 52.81 - 52.90 #N/A
+report_244.pdf,8,Mexico,STANDARD,57.45 | 57.45 | 57.45 | 57.45,Mexico RON 91 57.45 57.45 57.45 - 57.45 #N/A
+report_244.pdf,8,Arayat,STANDARD,56.00 | 56.00 | 56.00 | 56.00,Pampanga Arayat RON 91 56.00 56.00 56.00 - 56.00 #N/A
+report_244.pdf,8,Bacolor,STANDARD,52.95 | 56.25 | 52.95 | 56.25,Bacolor RON 91 52.95 56.25 52.95 - 56.25 #N/A
+report_244.pdf,8,Guagua,STANDARD,52.95 | 52.95 | 52.95 | 52.95,Guagua RON 91 52.95 52.95 52.95 - 52.95 #N/A
+report_244.pdf,8,Magalang,STANDARD,54.40 | 54.40 | 54.40 | 54.40,Magalang RON 91 54.40 54.40 54.40 - 54.40 #N/A
+report_245.pdf,8,Arayat,STANDARD,62.90 | 62.90 | 62.90 | 62.90,Pampanga Arayat RON 91 62.90 62.90 62.90 - 62.90 #N/A
+report_245.pdf,8,Bacolor,STANDARD,58.25 | 61.30 | 58.25 | 61.30,Bacolor RON 91 58.25 61.30 58.25 - 61.30 #N/A
+report_245.pdf,8,Guagua,STANDARD,61.30 | 61.30 | 61.30 | 61.30,Guagua RON 91 61.30 61.30 61.30 - 61.30 #N/A
+report_245.pdf,8,Magalang,STANDARD,58.60 | 58.60 | 58.60 | 58.60,Magalang RON 91 58.60 58.60 58.60 - 58.60 #N/A
+report_245.pdf,8,Sta. Ana,STANDARD,62.60 | 63.95 | 62.60 | 63.95,Sta. Ana RON 91 62.60 63.95 62.60 - 63.95 #N/A
+report_245.pdf,8,Sto. Tomas,STANDARD,59.96 | 60.95 | 59.96 | 60.95,Sto. Tomas RON 91 59.96 60.95 59.96 - 60.95 #N/A
+report_246.pdf,7,Angeles City,STANDARD,62.70 | 62.70 | 70.88 | 70.88 | 62.70 | 70.88 | 62.70,Angeles City RON 91 62.70 62.70 70.88 70.88 62.70 - 70.88 62.70
+report_246.pdf,7,Mabalacat,STANDARD,57.35 | 57.35 | 62.70 | 70.88,Mabalacat City RON 91 57.35 57.35 62.70 - 70.88 #N/A
+report_246.pdf,7,Lubao,STANDARD,55.85 | 55.85 | 55.85 | 55.85 | 55.85,Lubao RON 91 55.85 55.85 55.85 - 55.85 55.85
+report_246.pdf,7,Mexico,STANDARD,60.55 | 60.55 | 60.55 | 60.55,Mexico RON 91 60.55 60.55 60.55 - 60.55 #N/A
+report_246.pdf,7,Arayat,STANDARD,60.75 | 60.75 | 60.75 | 60.75,Pampanga Arayat RON 91 60.75 60.75 60.75 - 60.75 #N/A
+report_246.pdf,7,Bacolor,STANDARD,58.25 | 58.65 | 58.25 | 58.65,Bacolor RON 91 58.25 58.65 58.25 - 58.65 #N/A
+report_246.pdf,7,Guagua,STANDARD,58.65 | 58.65 | 58.65 | 58.65,Guagua RON 91 58.65 58.65 58.65 - 58.65 #N/A
+report_247.pdf,7,Angeles City,STANDARD,62.70 | 62.70 | 70.38 | 70.38 | 62.70 | 70.38 | 62.70,Angeles City RON 91 62.70 62.70 70.38 70.38 62.70 - 70.38 62.70
+report_247.pdf,7,Mabalacat,STANDARD,57.25 | 57.25 | 62.70 | 70.38,Mabalacat City RON 91 57.25 57.25 62.70 - 70.38 #N/A
+report_247.pdf,7,Lubao,STANDARD,55.45 | 55.45 | 55.45 | 55.45 | 55.45,Lubao RON 91 55.45 55.45 55.45 - 55.45 55.45
+report_247.pdf,7,Mexico,STANDARD,60.55 | 60.55 | 60.55 | 60.55,Mexico RON 91 60.55 60.55 60.55 - 60.55 #N/A
+report_247.pdf,7,Arayat,STANDARD,60.70 | 60.70 | 60.70 | 60.70,Pampanga Arayat RON 91 60.70 60.70 60.70 - 60.70 #N/A
+report_247.pdf,7,Bacolor,STANDARD,58.25 | 58.70 | 58.25 | 58.70,Bacolor RON 91 58.25 58.70 58.25 - 58.70 #N/A
+report_247.pdf,7,Guagua,STANDARD,58.70 | 58.70 | 58.70 | 58.70,Guagua RON 91 58.70 58.70 58.70 - 58.70 #N/A
+report_248.pdf,8,Arayat,STANDARD,60.80 | 60.80 | 60.80 | 60.80,Pampanga Arayat RON 91 60.80 60.80 60.80 - 60.80 #N/A
+report_248.pdf,8,Bacolor,STANDARD,58.24 | 58.96 | 58.24 | 58.96,Bacolor RON 91 58.24 58.96 58.24 - 58.96 #N/A
+report_248.pdf,8,Guagua,STANDARD,58.96 | 58.96 | 58.96 | 58.96,Guagua RON 91 58.96 58.96 58.96 - 58.96 #N/A
+report_248.pdf,8,Magalang,STANDARD,56.30 | 56.30 | 56.30 | 56.30,Magalang RON 91 56.30 56.30 56.30 - 56.30 #N/A
+report_248.pdf,8,Sta. Ana,STANDARD,60.50 | 60.50 | 60.50 | 60.50 | 60.50,Sta. Ana RON 91 60.50 60.50 60.50 - 60.50 60.50
+report_248.pdf,8,Sto. Tomas,STANDARD,59.20 | 59.20 | 59.20 | 59.20 | 59.20,Sto. Tomas RON 91 59.20 59.20 59.20 - 59.20 59.20
+report_249.pdf,7,Angeles City,STANDARD,67.80 | 67.80 | 63.55 | 63.55 | 68.90 | 68.90 | 63.55 | 68.90,Angeles City RON 91 67.80 67.80 63.55 63.55 68.90 68.90 63.55 - 68.90 #N/A
+report_249.pdf,7,Mabalacat,STANDARD,58.70 | 58.70 | 63.55 | 68.90,Mabalacat City RON 91 58.70 58.70 63.55 - 68.90 #N/A
+report_249.pdf,7,Lubao,STANDARD,57.80 | 57.89 | 57.80 | 57.89,Lubao RON 91 57.80 57.89 57.80 - 57.89 #N/A
+report_249.pdf,7,Mexico,STANDARD,61.80 | 61.80 | 61.80 | 61.80,Mexico RON 91 61.80 61.80 61.80 - 61.80 #N/A
+report_249.pdf,7,Arayat,STANDARD,62.05 | 62.05 | 62.05 | 62.05,Pampanga Arayat RON 91 62.05 62.05 62.05 - 62.05 #N/A
+report_249.pdf,7,Bacolor,STANDARD,59.65 | 59.70 | 59.65 | 59.70,Bacolor RON 91 59.65 59.70 59.65 - 59.70 #N/A
+report_249.pdf,7,Guagua,STANDARD,59.70 | 59.70 | 59.70 | 59.70,Guagua RON 91 59.70 59.70 59.70 - 59.70 #N/A
+report_249.pdf,7,Magalang,STANDARD,58.35 | 58.35 | 58.35 | 58.35,Magalang RON 91 58.35 58.35 58.35 - 58.35 #N/A
+report_250.pdf,7,Angeles City,STANDARD,61.65 | 61.65 | 67.24 | 67.24 | 61.65 | 67.24 | 61.65,Angeles City RON 91 61.65 61.65 67.24 67.24 61.65 - 67.24 61.65
+report_250.pdf,7,Mabalacat,STANDARD,57.05 | 57.05 | 61.65 | 67.24,Mabalacat City RON 91 57.05 57.05 61.65 - 67.24 #N/A
+report_250.pdf,7,Lubao,STANDARD,55.50 | 55.95 | 55.50 | 55.95,Lubao RON 91 55.50 55.95 55.50 - 55.95 #N/A
+report_250.pdf,7,Mexico,STANDARD,60.20 | 60.20 | 60.20 | 60.20,Mexico RON 91 60.20 60.20 60.20 - 60.20 #N/A
+report_250.pdf,7,Arayat,STANDARD,61.30 | 61.30 | 61.30 | 61.30,Pampanga Arayat RON 91 61.30 61.30 61.30 - 61.30 #N/A
+report_250.pdf,7,Bacolor,STANDARD,56.25 | 57.90 | 56.25 | 57.90,Bacolor RON 91 56.25 57.90 56.25 - 57.90 #N/A
+report_251.pdf,7,Angeles City,STANDARD,62.60 | 62.60 | 69.09 | 69.09 | 62.60 | 69.09 | 62.60,Angeles City RON 91 62.60 62.60 69.09 69.09 62.60 - 69.09 62.60
+report_251.pdf,7,Mabalacat,STANDARD,57.05 | 57.05 | 62.60 | 69.09,Mabalacat City RON 91 57.05 57.05 62.60 - 69.09 #N/A
+report_251.pdf,7,Lubao,STANDARD,56.40 | 56.50 | 56.40 | 56.50,Lubao RON 91 56.40 56.50 56.40 - 56.50 #N/A
+report_251.pdf,7,Mexico,STANDARD,60.20 | 60.20 | 60.20 | 60.20,Mexico RON 91 60.20 60.20 60.20 - 60.20 #N/A
+report_251.pdf,7,Arayat,STANDARD,62.15 | 62.15 | 62.15 | 62.15,Pampanga Arayat RON 91 62.15 62.15 62.15 - 62.15 #N/A
+report_251.pdf,7,Bacolor,STANDARD,57.90 | 57.05 | 57.05 | 57.90,Bacolor RON 91 57.90 57.05 57.05 - 57.90 #N/A
+report_252.pdf,8,Mexico,STANDARD,61.70 | 61.70 | 61.70 | 61.70,Mexico RON 91 61.70 61.70 61.70 - 61.70 #N/A
+report_252.pdf,8,Arayat,STANDARD,62.20 | 62.20 | 62.20 | 62.20,Pampanga Arayat RON 91 62.20 62.20 62.20 - 62.20 #N/A
+report_252.pdf,8,Bacolor,STANDARD,57.90 | 59.85 | 57.90 | 59.85,Bacolor RON 91 57.90 59.85 57.90 - 59.85 #N/A
+report_252.pdf,8,Guagua,STANDARD,59.85 | 59.85 | 59.85 | 59.85,Guagua RON 91 59.85 59.85 59.85 - 59.85 #N/A
+report_252.pdf,8,Magalang,STANDARD,58.60 | 58.60 | 58.60 | 58.60,Magalang RON 91 58.60 58.60 58.60 - 58.60 #N/A
+report_252.pdf,8,Sta. Ana,STANDARD,63.70 | 63.70 | 63.70 | 63.70 | 63.70,Sta. Ana RON 91 63.70 63.70 63.70 - 63.70 63.70
+report_252.pdf,8,Sto. Tomas,STANDARD,58.96 | 60.95 | 58.96 | 60.95,Sto. Tomas RON 91 58.96 60.95 58.96 - 60.95 #N/A
+report_253.pdf,7,Angeles City,STANDARD,65.90 | 65.90 | 63.55 | 63.55 | 63.35 | 63.35 | 69.35 | 69.35 | 63.35 | 69.35,Angeles City RON 91 65.90 65.90 63.55 63.55 63.35 63.35 69.35 69.35 63.35 - 69.35 #N/A
+report_253.pdf,7,Mabalacat,STANDARD,57.85 | 57.85 | 63.35 | 69.35,Mabalacat City RON 91 57.85 57.85 63.35 - 69.35 #N/A
+report_253.pdf,7,Lubao,STANDARD,58.85 | 58.85 | 58.85 | 58.85 | 58.85,Lubao RON 91 58.85 58.85 58.85 - 58.85 58.85
+report_253.pdf,7,Mexico,STANDARD,60.90 | 60.90 | 60.90 | 60.90,Mexico RON 91 60.90 60.90 60.90 - 60.90 #N/A
+report_253.pdf,7,Arayat,STANDARD,61.10 | 61.10 | 61.10 | 61.10,Pampanga Arayat RON 91 61.10 61.10 61.10 - 61.10 #N/A
+report_253.pdf,7,Bacolor,STANDARD,58.30 | 60.35 | 58.30 | 60.35,Bacolor RON 91 58.30 60.35 58.30 - 60.35 #N/A
+report_253.pdf,7,Guagua,STANDARD,58.30 | 58.30 | 58.30 | 58.30,Guagua RON 91 58.30 58.30 58.30 - 58.30 #N/A
+report_253.pdf,7,Magalang,STANDARD,56.95 | 56.95 | 56.95 | 56.95,Magalang RON 91 56.95 56.95 56.95 - 56.95 #N/A
+report_253.pdf,8,Sta. Ana,STANDARD,60.90 | 60.90 | 60.90 | 60.90 | 60.90,Sta. Ana RON 91 60.90 60.90 60.90 - 60.90 60.90
+report_253.pdf,8,Sto. Tomas,STANDARD,60.10 | 60.10 | 60.10 | 60.10 | 60.10,Sto. Tomas RON 91 60.10 60.10 60.10 - 60.10 60.10
+report_254.pdf,7,Angeles City,STANDARD,61.60 | 61.60 | 61.40 | 61.40 | 67.40 | 67.40 | 61.40 | 67.40 | 61.60,Angeles City RON 91 61.60 61.60 61.40 61.40 67.40 67.40 61.40 - 67.40 61.60
+report_254.pdf,7,Mabalacat,STANDARD,56.95 | 56.95 | 61.40 | 67.40,Mabalacat City RON 91 56.95 56.95 61.40 - 67.40 #N/A
+report_254.pdf,7,Lubao,STANDARD,56.90 | 56.90 | 56.90 | 56.90 | 56.90,Lubao RON 91 56.90 56.90 56.90 - 56.90 56.90
+report_254.pdf,7,Mexico,STANDARD,58.95 | 58.95 | 58.95 | 58.95,Mexico RON 91 58.95 58.95 58.95 - 58.95 #N/A
+report_254.pdf,7,Arayat,STANDARD,59.15 | 59.15 | 59.15 | 59.15,Pampanga Arayat RON 91 59.15 59.15 59.15 - 59.15 #N/A
+report_254.pdf,7,Bacolor,STANDARD,58.35 | 57.95 | 57.95 | 58.35,Bacolor RON 91 58.35 57.95 57.95 - 58.35 #N/A
+report_254.pdf,7,Guagua,STANDARD,57.95 | 57.95 | 57.95 | 57.95,Guagua RON 91 57.95 57.95 57.95 - 57.95 #N/A
+report_254.pdf,7,Magalang,STANDARD,56.65 | 56.65 | 56.65 | 56.65,Magalang RON 91 56.65 56.65 56.65 - 56.65 #N/A
+report_255.pdf,7,Angeles City,STANDARD,59.90 | 59.90 | 65.07 | 65.07 | 59.90 | 65.07 | 59.90,Angeles City RON 91 59.90 59.90 65.07 65.07 59.90 - 65.07 59.90
+report_255.pdf,7,Mabalacat,STANDARD,55.25 | 55.25 | 59.90 | 65.07,Mabalacat City RON 91 55.25 55.25 59.90 - 65.07 #N/A
+report_255.pdf,7,Lubao,STANDARD,55.20 | 55.20 | 55.20 | 55.20 | 55.20,Lubao RON 91 55.20 55.20 55.20 - 55.20 55.20
+report_255.pdf,7,Mexico,STANDARD,57.25 | 57.25 | 57.25 | 57.25,Mexico RON 91 57.25 57.25 57.25 - 57.25 #N/A
+report_255.pdf,7,Arayat,STANDARD,57.50 | 57.50 | 57.50 | 57.50,Pampanga Arayat RON 91 57.50 57.50 57.50 - 57.50 #N/A
+report_255.pdf,7,Bacolor,STANDARD,56.65 | 56.25 | 56.25 | 56.65,Bacolor RON 91 56.65 56.25 56.25 - 56.65 #N/A
+report_255.pdf,7,Guagua,STANDARD,56.25 | 56.25 | 56.25 | 56.25,Guagua RON 91 56.25 56.25 56.25 - 56.25 #N/A
+report_255.pdf,7,Magalang,STANDARD,54.95 | 54.95 | 54.95 | 54.95,Magalang RON 91 54.95 54.95 54.95 - 54.95 #N/A
+report_255.pdf,8,Sta. Ana,STANDARD,57.25 | 57.25 | 57.25 | 57.25 | 57.25,Sta. Ana RON 91 57.25 57.25 57.25 - 57.25 57.25
+report_255.pdf,8,Sto. Tomas,STANDARD,56.44 | 56.45 | 56.44 | 56.45,Sto. Tomas RON 91 56.44 56.45 56.44 - 56.45 #N/A
+report_256.pdf,7,Angeles City,STANDARD,64.95 | 64.95 | 59.95 | 59.95 | 66.40 | 66.40 | 59.95 | 66.40 | 59.95,Angeles City RON 91 64.95 64.95 59.95 59.95 66.40 66.40 59.95 - 66.40 59.95
+report_256.pdf,7,Mabalacat,STANDARD,55.25 | 55.25 | 59.95 | 66.40,Mabalacat City RON 91 55.25 55.25 59.95 - 66.40 #N/A
+report_256.pdf,7,Lubao,STANDARD,54.99 | 54.99 | 54.99 | 54.99 | 54.99,Lubao RON 91 54.99 54.99 54.99 - 54.99 54.99
+report_256.pdf,7,Mexico,STANDARD,57.95 | 57.95 | 57.95 | 57.95,Mexico RON 91 57.95 57.95 57.95 - 57.95 #N/A
+report_256.pdf,7,Arayat,STANDARD,58.20 | 58.20 | 58.20 | 58.20,Pampanga Arayat RON 91 58.20 58.20 58.20 - 58.20 #N/A
+report_256.pdf,7,Bacolor,STANDARD,56.70 | 56.84 | 56.70 | 56.84,Bacolor RON 91 56.70 56.84 56.70 - 56.84 #N/A
+report_257.pdf,7,Angeles City,STANDARD,65.90 | 65.90 | 60.65 | 60.65 | 66.31 | 66.31 | 60.65 | 66.31 | 60.65,Angeles City RON 91 65.90 65.90 60.65 60.65 66.31 66.31 60.65 - 66.31 60.65
+report_257.pdf,7,Mabalacat,STANDARD,55.80 | 55.80 | 60.65 | 66.31,Mabalacat City RON 91 55.80 55.80 60.65 - 66.31 #N/A
+report_257.pdf,7,Lubao,STANDARD,54.90 | 54.99 | 54.90 | 54.99,Lubao RON 91 54.90 54.99 54.90 - 54.99 #N/A
+report_257.pdf,7,Mexico,STANDARD,58.90 | 58.90 | 58.90 | 58.90,Mexico RON 91 58.90 58.90 58.90 - 58.90 #N/A
+report_257.pdf,7,Arayat,STANDARD,59.15 | 59.15 | 59.15 | 59.15,Pampanga Arayat RON 91 59.15 59.15 59.15 - 59.15 #N/A
+report_257.pdf,7,Bacolor,STANDARD,56.75 | 56.80 | 56.75 | 56.80,Bacolor RON 91 56.75 56.80 56.75 - 56.80 #N/A
+report_257.pdf,7,Guagua,STANDARD,56.80 | 56.80 | 56.80 | 56.80,Guagua RON 91 56.80 56.80 56.80 - 56.80 #N/A
+report_257.pdf,7,Magalang,STANDARD,55.20 | 55.20 | 55.20 | 55.20,Magalang RON 91 55.20 55.20 55.20 - 55.20 #N/A
+report_257.pdf,8,Sta. Ana,STANDARD,58.90 | 58.90 | 58.90 | 58.90 | 58.90,Sta. Ana RON 91 58.90 58.90 58.90 - 58.90 58.90
+report_257.pdf,8,Sto. Tomas,STANDARD,58.00 | 58.00 | 58.00 | 58.00 | 58.00,Sto. Tomas RON 91 58.00 58.00 58.00 - 58.00 58.00
+report_258.pdf,7,Angeles City,STANDARD,63.40 | 63.40 | 71.72 | 71.72 | 63.40 | 71.72 | 63.40,Angeles City RON 91 63.40 63.40 71.72 71.72 63.40 - 71.72 63.40
+report_258.pdf,7,Mabalacat,STANDARD,67.40 | 67.40 | 60.00 | 60.00 | 63.40 | 71.72,Mabalacat City RON 91 67.40 67.40 60.00 60.00 63.40 - 71.72 #N/A
+report_258.pdf,7,Lubao,STANDARD,59.09 | 60.25 | 59.09 | 60.25,Lubao RON 91 59.09 60.25 59.09 - 60.25 #N/A
+report_258.pdf,7,Mexico,STANDARD,61.00 | 61.00 | 61.00 | 61.00,Mexico RON 91 61.00 61.00 61.00 - 61.00 #N/A
+report_258.pdf,7,Arayat,STANDARD,61.30 | 61.30 | 61.30 | 61.30,Pampanga Arayat RON 91 61.30 61.30 61.30 - 61.30 #N/A
+report_258.pdf,7,Bacolor,STANDARD,60.60 | 59.09 | 59.09 | 60.60,Bacolor RON 91 60.60 59.09 59.09 - 60.60 #N/A
+report_259.pdf,8,Angeles City,STANDARD,64.40 | 64.40 | 74.05 | 74.05 | 67.35 | 67.35 | 64.40 | 74.05 | 64.40,Angeles City RON 91 64.40 64.40 74.05 74.05 67.35 67.35 64.40 - 74.05 64.40
+report_259.pdf,8,Mabalacat,STANDARD,68.80 | 68.80 | 58.50 | 64.40 | 64.40 | 74.05,Mabalacat City RON 91 68.80 68.80 58.50 64.40 64.40 - 74.05 #N/A
+report_259.pdf,8,Lubao,STANDARD,60.20 | 60.95 | 60.20 | 60.95,Lubao RON 91 60.20 60.95 60.20 - 60.95 #N/A
+report_259.pdf,8,Mexico,STANDARD,62.15 | 62.15 | 62.15 | 62.15,Mexico RON 91 62.15 62.15 62.15 - 62.15 #N/A
+report_259.pdf,8,Arayat,STANDARD,62.20 | 62.20 | 62.20 | 62.20,Pampanga Arayat RON 91 62.20 62.20 62.20 - 62.20 #N/A
+report_259.pdf,8,Bacolor,STANDARD,60.60 | 59.50 | 59.50 | 60.60,Bacolor RON 91 60.60 59.50 59.50 - 60.60 #N/A
+report_259.pdf,8,Guagua,STANDARD,59.50 | 59.50 | 59.50 | 59.50,Guagua RON 91 59.50 59.50 59.50 - 59.50 #N/A
+report_259.pdf,8,Magalang,STANDARD,58.50 | 58.50 | 58.50 | 58.50,Magalang RON 91 58.50 58.50 58.50 - 58.50 #N/A
+report_260.pdf,7,Angeles City,STANDARD,67.15 | 67.15 | 64.40 | 64.40 | 74.75 | 74.75 | 69.20 | 69.20 | 64.40 | 74.75 | 64.40,Angeles City RON 91 67.15 67.15 64.40 64.40 74.75 74.75 69.20 69.20 64.40 - 74.75 64.40
+report_260.pdf,7,Mabalacat,STANDARD,59.50 | 59.50 | 64.40 | 74.75,Mabalacat City RON 91 59.50 59.50 64.40 - 74.75 #N/A
+report_260.pdf,7,Lubao,STANDARD,60.20 | 60.60 | 60.20 | 60.60,Lubao RON 91 60.20 60.60 60.20 - 60.60 #N/A
+report_260.pdf,7,Mexico,STANDARD,62.65 | 62.65 | 62.65 | 62.65,Mexico RON 91 62.65 62.65 62.65 - 62.65 #N/A
+report_260.pdf,7,Arayat,STANDARD,62.10 | 62.10 | 62.10 | 62.10,Pampanga Arayat RON 91 62.10 62.10 62.10 - 62.10 #N/A
+report_260.pdf,7,Bacolor,STANDARD,60.60 | 59.95 | 59.95 | 60.60,Bacolor RON 91 60.60 59.95 59.95 - 60.60 #N/A
+report_261.pdf,7,Angeles City,STANDARD,66.75 | 66.75 | 66.75 | 66.75,Angeles City RON 91 66.75 66.75 66.75 - 66.75 #N/A
+report_261.pdf,7,Mabalacat,STANDARD,68.90 | 68.90 | 59.50 | 59.50 | 66.75 | 66.75,Mabalacat City RON 91 68.90 68.90 59.50 59.50 66.75 - 66.75 #N/A
+report_261.pdf,7,Lubao,STANDARD,59.80 | 59.80 | 59.80 | 59.80 | 59.80,Lubao RON 91 59.80 59.80 59.80 - 59.80 59.80
+report_261.pdf,7,Mexico,STANDARD,61.95 | 61.95 | 61.95 | 61.95,Mexico RON 91 61.95 61.95 61.95 - 61.95 #N/A
+report_261.pdf,7,Arayat,STANDARD,62.15 | 62.15 | 62.15 | 62.15,Pampanga Arayat RON 91 62.15 62.15 62.15 - 62.15 #N/A
+report_261.pdf,7,Bacolor,STANDARD,61.20 | 59.15 | 59.15 | 61.20,Bacolor RON 91 61.20 59.15 59.15 - 61.20 #N/A
+report_261.pdf,7,Guagua,STANDARD,59.15 | 59.15 | 59.15 | 59.15,Guagua RON 91 59.15 59.15 59.15 - 59.15 #N/A
+report_261.pdf,7,Magalang,STANDARD,58.50 | 58.50 | 58.50 | 58.50,Magalang RON 91 58.50 58.50 58.50 - 58.50 #N/A
+report_262.pdf,7,Angeles City,STANDARD,62.25 | 62.25 | 71.75 | 71.75 | 70.49 | 70.49 | 62.25 | 71.75,Angeles City RON 91 62.25 62.25 71.75 71.75 70.49 70.49 62.25 - 71.75 #N/A
+report_262.pdf,7,Mabalacat,STANDARD,57.50 | 57.50 | 62.25 | 71.75,Mabalacat City RON 91 57.50 57.50 62.25 - 71.75 #N/A
+report_262.pdf,7,Lubao,STANDARD,59.10 | 59.29 | 59.10 | 59.29,Lubao RON 91 59.10 59.29 59.10 - 59.29 #N/A
+report_262.pdf,7,Mexico,STANDARD,59.35 | 59.35 | 59.35 | 59.35,Mexico RON 91 59.35 59.35 59.35 - 59.35 #N/A
+report_262.pdf,7,Arayat,STANDARD,60.45 | 60.45 | 60.45 | 60.45,Pampanga Arayat RON 91 60.45 60.45 60.45 - 60.45 #N/A
+report_262.pdf,7,Bacolor,STANDARD,60.15 | 60.15 | 60.15 | 60.15,Bacolor RON 91 60.15 60.15 60.15 - 60.15 #N/A
+report_262.pdf,7,Guagua,STANDARD,58.79 | 58.79 | 58.79 | 58.79,Guagua RON 91 58.79 58.79 58.79 - 58.79 #N/A
+report_262.pdf,7,Magalang,STANDARD,60.55 | 60.55 | 60.55 | 60.55,Magalang RON 91 60.55 60.55 60.55 - 60.55 #N/A
+report_263.pdf,7,Angeles City,STANDARD,67.60 | 67.60 | 70.00 | 63.65 | 72.45 | 72.45 | 71.50 | 71.50 | 63.65 | 72.45,Angeles City RON 91 67.60 67.60 70.00 63.65 72.45 72.45 71.50 71.50 63.65 - 72.45 #N/A
+report_263.pdf,7,Mabalacat,STANDARD,59.30 | 59.30 | 63.65 | 72.45,Mabalacat City RON 91 59.30 59.30 63.65 - 72.45 #N/A
+report_263.pdf,7,Lubao,STANDARD,60.49 | 60.49 | 60.49 | 60.49 | 60.49,Lubao RON 91 60.49 60.49 60.49 - 60.49 60.49
+report_263.pdf,7,Mexico,STANDARD,60.55 | 60.55 | 60.55 | 60.55,Mexico RON 91 60.55 60.55 60.55 - 60.55 #N/A
+report_263.pdf,7,Arayat,STANDARD,61.65 | 61.65 | 61.65 | 61.65,Arayat RON 91 61.65 61.65 61.65 - 61.65 #N/A
+report_263.pdf,7,Bacolor,STANDARD,61.15 | 61.15 | 61.15 | 61.15,Bacolor RON 91 61.15 61.15 61.15 - 61.15 #N/A
+report_264.pdf,7,Angeles City,STANDARD,64.45 | 64.45 | 73.25 | 73.25 | 72.25 | 72.25 | 64.45 | 73.25,Angeles City RON 91 64.45 64.45 73.25 73.25 72.25 72.25 64.45 - 73.25 #N/A
+report_264.pdf,7,Mabalacat,STANDARD,59.80 | 59.80 | 64.45 | 73.25,Mabalacat City RON 91 59.80 59.80 64.45 - 73.25 #N/A
+report_264.pdf,7,Lubao,STANDARD,61.29 | 61.29 | 61.29 | 61.29 | 61.29,Lubao RON 91 61.29 61.29 61.29 - 61.29 61.29
+report_264.pdf,7,Mexico,STANDARD,61.10 | 61.10 | 61.10 | 61.10,Mexico RON 91 61.10 61.10 61.10 - 61.10 #N/A
+report_264.pdf,7,Arayat,STANDARD,61.65 | 61.65 | 61.65 | 61.65,Pampanga Arayat RON 91 61.65 61.65 61.65 - 61.65 #N/A
+report_264.pdf,7,Bacolor,STANDARD,61.15 | 59.49 | 59.49 | 61.15,Bacolor RON 91 61.15 59.49 59.49 - 61.15 #N/A
+report_265.pdf,7,Angeles City,STANDARD,65.10 | 65.10 | 64.10 | 64.10 | 72.70 | 72.70 | 64.10 | 72.70 | 64.10,Angeles City RON 91 65.10 65.10 64.10 64.10 72.70 72.70 64.10 - 72.70 64.10
+report_265.pdf,7,Mabalacat,STANDARD,60.00 | 60.00 | 64.10 | 72.70,Mabalacat City RON 91 60.00 60.00 64.10 - 72.70 #N/A
+report_265.pdf,7,Lubao,STANDARD,60.10 | 61.15 | 60.10 | 61.15,Lubao RON 91 60.10 61.15 60.10 - 61.15 #N/A
+report_265.pdf,7,Mexico,STANDARD,61.00 | 61.00 | 61.00 | 61.00,Mexico RON 91 61.00 61.00 61.00 - 61.00 #N/A
+report_265.pdf,7,Arayat,STANDARD,62.00 | 62.00 | 62.00 | 62.00,Pampanga Arayat RON 91 62.00 62.00 62.00 - 62.00 #N/A
+report_265.pdf,7,Bacolor,STANDARD,61.15 | 59.09 | 59.09 | 61.15,Bacolor RON 91 61.15 59.09 59.09 - 61.15 #N/A
+report_266.pdf,7,Angeles City,STANDARD,67.65 | 67.65 | 75.04 | 75.04 | 67.65 | 75.04 | 67.65,Angeles City RON 91 67.65 67.65 75.04 75.04 67.65 - 75.04 67.65
+report_266.pdf,7,Mabalacat,STANDARD,75.40 | 75.40 | 63.00 | 63.00 | 67.65 | 75.04,Mabalacat City RON 91 75.40 75.40 63.00 63.00 67.65 - 75.04 #N/A
+report_266.pdf,7,Lubao,STANDARD,64.39 | 64.39 | 64.39 | 64.39 | 64.39,Lubao RON 91 64.39 64.39 64.39 - 64.39 64.39
+report_266.pdf,7,Mexico,STANDARD,64.45 | 64.45 | 64.45 | 64.45,Mexico RON 91 64.45 64.45 64.45 - 64.45 #N/A
+report_266.pdf,7,Arayat,STANDARD,64.65 | 64.65 | 64.65 | 64.65,Pampanga Arayat RON 91 64.65 64.65 64.65 - 64.65 #N/A
+report_266.pdf,7,Bacolor,STANDARD,64.50 | 64.50 | 64.50 | 64.50,Bacolor RON 91 64.50 64.50 64.50 - 64.50 #N/A
+report_266.pdf,8,Guagua,STANDARD,65.50 | 65.50 | 65.50 | 65.50,Guagua RON 91 65.50 65.50 65.50 - 65.50 #N/A
+report_266.pdf,8,Magalang,STANDARD,63.40 | 63.40 | 63.40 | 63.40,Magalang RON 91 63.40 63.40 63.40 - 63.40 #N/A
+report_266.pdf,8,Sta. Ana,STANDARD,64.40 | 64.40 | 64.40 | 64.40 | 64.40,Sta. Ana RON 91 64.40 64.40 64.40 - 64.40 64.40
+report_266.pdf,8,Sto. Tomas,STANDARD,65.25 | 65.25 | 65.25 | 65.25 | 65.25,Sto. Tomas RON 91 65.25 65.25 65.25 - 65.25 65.25
+report_267.pdf,7,Angeles City,STANDARD,68.90 | 68.90 | 65.35 | 65.35 | 69.70 | 69.70 | 73.75 | 73.75 | 72.72 | 72.72 | 65.35 | 73.75 | 65.35,Angeles City RON 91 68.90 68.90 65.35 65.35 69.70 69.70 73.75 73.75 72.72 72.72 65.35 - 73.75 65.35
+report_267.pdf,7,Mabalacat,STANDARD,60.80 | 60.80 | 65.35 | 73.75,Mabalacat City RON 91 60.80 60.80 65.35 - 73.75 #N/A
+report_267.pdf,7,Lubao,STANDARD,61.79 | 61.79 | 61.79 | 61.79 | 61.79,Lubao RON 91 61.79 61.79 61.79 - 61.79 61.79
+report_267.pdf,7,Mexico,STANDARD,61.85 | 61.85 | 61.85 | 61.85,Mexico RON 91 61.85 61.85 61.85 - 61.85 #N/A
+report_267.pdf,7,Arayat,STANDARD,62.90 | 62.90 | 62.90 | 62.90,Pampanga Arayat RON 91 62.90 62.90 62.90 - 62.90 #N/A
+report_267.pdf,7,Bacolor,STANDARD,62.80 | 62.80 | 62.80 | 62.80,Bacolor RON 91 62.80 62.80 62.80 - 62.80 #N/A
+report_267.pdf,7,Guagua,STANDARD,62.70 | 62.70 | 62.70 | 62.70,Guagua RON 91 62.70 62.70 62.70 - 62.70 #N/A
+report_267.pdf,7,Magalang,STANDARD,62.65 | 62.65 | 62.65 | 62.65,Magalang RON 91 62.65 62.65 62.65 - 62.65 #N/A
+report_268.pdf,6,Angeles City,STANDARD,68.45 | 64.65 | 73.44 | 71.70 | 0.00 | 0.00,Angeles City RON 91 68.45 64.65 73.44 71.70 0.00 - 0.00 #N/A
+report_268.pdf,6,Mabalacat,STANDARD,60.35 | 60.35 | 60.35,Mabalacat City RON 91 60.35 60.35 - 60.35 #N/A
+report_268.pdf,6,Mexico,STANDARD,61.40 | 61.40 | 61.40,Mexico RON 91 61.40 61.40 - 61.40 #N/A
+report_268.pdf,6,Arayat,STANDARD,62.50 | 62.50 | 62.50,Arayat RON 91 62.50 62.50 - 62.50 #N/A
+report_268.pdf,6,Bacolor,STANDARD,62.20 | 62.20 | 62.20,Bacolor RON 91 62.20 62.20 - 62.20 #N/A
+report_268.pdf,6,Guagua,STANDARD,62.05 | 62.05 | 62.05,Guagua RON 91 62.05 62.05 - 62.05 #N/A
+report_268.pdf,6,Magalang,STANDARD,62.20 | 62.20 | 62.20,Magalang RON 91 62.20 62.20 - 62.20 #N/A
+report_268.pdf,6,Sta. Ana,STANDARD,62.25 | 62.25 | 62.25 | 62.25,Sta. Ana RON 91 62.25 62.25 62.25 - 62.25 #N/A
+report_268.pdf,6,Sto. Tomas,STANDARD,62.19 | 62.20 | 62.19 | 62.20,Sto. Tomas RON 91 62.19 62.20 62.19 - 62.20 #N/A
+report_269.pdf,7,Angeles City,STANDARD,64.65 | 64.65 | 72.32 | 72.32 | 64.65 | 72.32 | 64.65,Angeles City RON 91 64.65 64.65 72.32 72.32 64.65 - 72.32 64.65
+report_269.pdf,7,Mabalacat,STANDARD,72.35 | 72.35 | 60.35 | 60.35 | 64.65 | 72.32,Mabalacat City RON 91 72.35 72.35 60.35 60.35 64.65 - 72.32 #N/A
+report_269.pdf,7,Lubao,STANDARD,61.34 | 61.34 | 61.34 | 61.34 | 61.34,Lubao RON 91 61.34 61.34 61.34 - 61.34 61.34
+report_269.pdf,7,Mexico,STANDARD,61.40 | 61.40 | 61.40 | 61.40,Mexico RON 91 61.40 61.40 61.40 - 61.40 #N/A
+report_269.pdf,7,Arayat,STANDARD,62.50 | 62.50 | 62.50 | 62.50,Pampanga Arayat RON 91 62.50 62.50 62.50 - 62.50 #N/A
+report_269.pdf,7,Bacolor,STANDARD,62.20 | 62.20 | 62.20 | 62.20,Bacolor RON 91 62.20 62.20 62.20 - 62.20 #N/A
+report_270.pdf,7,Angeles City,STANDARD,62.65 | 62.65 | 69.45 | 69.45 | 62.65 | 69.45 | 62.65,Angeles City RON 91 62.65 62.65 69.45 69.45 62.65 - 69.45 62.65
+report_270.pdf,7,Mabalacat,STANDARD,70.70 | 70.70 | 58.10 | 58.10 | 62.65 | 69.45,Mabalacat City RON 91 70.70 70.70 58.10 58.10 62.65 - 69.45 #N/A
+report_270.pdf,7,Lubao,STANDARD,59.69 | 59.69 | 59.69 | 59.69 | 59.69,Lubao RON 91 59.69 59.69 59.69 - 59.69 59.69
+report_270.pdf,7,Mexico,STANDARD,59.75 | 59.75 | 59.75 | 59.75,Mexico RON 91 59.75 59.75 59.75 - 59.75 #N/A
+report_270.pdf,7,Arayat,STANDARD,60.85 | 60.85 | 60.85 | 60.85,Pampanga Arayat RON 91 60.85 60.85 60.85 - 60.85 #N/A
+report_270.pdf,7,Bacolor,STANDARD,60.55 | 60.55 | 60.55 | 60.55,Bacolor RON 91 60.55 60.55 60.55 - 60.55 #N/A
+report_271.pdf,7,Angeles City,STANDARD,71.60 | 71.60 | 68.50 | 68.65 | 72.40 | 72.40 | 76.45 | 76.45 | 74.12 | 74.12 | 68.50 | 76.45,Angeles City RON 91 71.60 71.60 68.50 68.65 72.40 72.40 76.45 76.45 74.12 74.12 68.50 - 76.45 #N/A
+report_271.pdf,7,Mabalacat,STANDARD,75.70 | 75.70 | 64.50 | 64.50 | 68.50 | 76.45,Mabalacat City RON 91 75.70 75.70 64.50 64.50 68.50 - 76.45 #N/A
+report_271.pdf,7,Lubao,STANDARD,65.70 | 66.45 | 65.70 | 66.45,Lubao RON 91 65.70 66.45 65.70 - 66.45 #N/A
+report_271.pdf,7,Mexico,STANDARD,66.34 | 66.34 | 66.34 | 66.34,Mexico RON 91 66.34 66.34 66.34 - 66.34 #N/A
+report_271.pdf,7,Arayat,STANDARD,66.50 | 66.50 | 66.50 | 66.50,Pampanga Arayat RON 91 66.50 66.50 66.50 - 66.50 #N/A
+report_271.pdf,7,Bacolor,STANDARD,66.00 | 66.00 | 66.00 | 66.00,Bacolor RON 91 66.00 66.00 66.00 - 66.00 #N/A
+report_272.pdf,8,Angeles City,STANDARD,69.50 | 69.50 | 66.30 | 66.30 | 70.30 | 70.30 | 74.35 | 74.35 | 73.25 | 73.25 | 66.30 | 74.35 | 66.30,Angeles City RON 91 69.50 69.50 66.30 66.30 70.30 70.30 74.35 74.35 73.25 73.25 66.30 - 74.35 66.30
+report_272.pdf,8,Mabalacat,STANDARD,73.60 | 73.60 | 62.40 | 62.40 | 66.30 | 74.35,Mabalacat City RON 91 73.60 73.60 62.40 62.40 66.30 - 74.35 #N/A
+report_272.pdf,8,Lubao,STANDARD,64.35 | 64.35 | 64.35 | 64.35 | 64.35,Lubao RON 91 64.35 64.35 64.35 - 64.35 64.35
+report_272.pdf,8,Mexico,STANDARD,63.85 | 63.85 | 63.85 | 63.85,Mexico RON 91 63.85 63.85 63.85 - 63.85 #N/A
+report_272.pdf,8,Arayat,STANDARD,64.50 | 64.50 | 64.50 | 64.50,Pampanga Arayat RON 91 64.50 64.50 64.50 - 64.50 #N/A
+report_272.pdf,8,Bacolor,STANDARD,63.50 | 63.50 | 63.50 | 63.50,Bacolor RON 91 63.50 63.50 63.50 - 63.50 #N/A
+report_272.pdf,8,Guagua,STANDARD,64.50 | 64.50 | 64.50 | 64.50,Guagua RON 91 64.50 64.50 64.50 - 64.50 #N/A
+report_272.pdf,8,Magalang,STANDARD,63.70 | 63.70 | 63.70 | 63.70,Magalang RON 91 63.70 63.70 63.70 - 63.70 #N/A
+report_273.pdf,7,Angeles City,STANDARD,69.40 | 61.65 | 73.16 | 61.65 | 73.16,Angeles City RON 91 69.40 61.65 73.16 61.65 - 73.16 #N/A
+report_273.pdf,7,Mabalacat,STANDARD,73.30 | 62.00 | 61.65 | 73.16,Mabalacat City RON 91 73.30 62.00 61.65 - 73.16 #N/A
+report_273.pdf,7,Lubao,STANDARD,63.99 | 64.00 | 63.99 | 64.00,Lubao RON 91 63.99 64.00 63.99 - 64.00 #N/A
+report_273.pdf,7,Mexico,STANDARD,63.75 | 63.75 | 63.75,Mexico RON 91 63.75 63.75 - 63.75 #N/A
+report_273.pdf,7,Arayat,STANDARD,64.20 | 64.20 | 64.20,Pampanga Arayat RON 91 64.20 64.20 - 64.20 #N/A
+report_273.pdf,7,Bacolor,STANDARD,63.50 | 63.50 | 63.50,Bacolor RON 91 63.50 63.50 - 63.50 #N/A
+report_273.pdf,7,Guagua,STANDARD,64.20 | 64.20 | 64.20,Guagua RON 91 64.20 64.20 - 64.20 #N/A
+report_273.pdf,7,Magalang,STANDARD,61.50 | 61.50 | 61.50,Magalang RON 91 61.50 61.50 - 61.50 #N/A
+report_273.pdf,8,Sta. Ana,STANDARD,63.95 | 63.95 | 63.95 | 63.95,Sta. Ana RON 91 63.95 63.95 63.95 - 63.95 #N/A
+report_273.pdf,8,Sto. Tomas,STANDARD,63.15 | 63.15 | 63.15 | 63.15,Sto. Tomas RON 91 63.15 63.15 63.15 - 63.15 #N/A
+report_274.pdf,7,Angeles City,STANDARD,70.10 | 70.10 | 66.35 | 66.35 | 70.90 | 70.90 | 73.79 | 73.79 | 66.35 | 73.79 | 66.35,Angeles City RON 91 70.10 70.10 66.35 66.35 70.90 70.90 73.79 73.79 66.35 - 73.79 66.35
+report_274.pdf,7,Mabalacat,STANDARD,63.00 | 63.00 | 66.35 | 73.79,Mabalacat City RON 91 63.00 63.00 66.35 - 73.79 #N/A
+report_274.pdf,7,Lubao,STANDARD,63.00 | 64.80 | 63.00 | 64.80,Lubao RON 91 63.00 64.80 63.00 - 64.80 #N/A
+report_274.pdf,7,Mexico,STANDARD,64.35 | 64.35 | 64.35 | 64.35,Mexico RON 91 64.35 64.35 64.35 - 64.35 #N/A
+report_274.pdf,7,Arayat,STANDARD,64.15 | 64.15 | 64.15 | 64.15,Pampanga Arayat RON 91 64.15 64.15 64.15 - 64.15 #N/A
+report_274.pdf,7,Bacolor,STANDARD,63.00 | 63.00 | 63.00 | 63.00,Bacolor RON 91 63.00 63.00 63.00 - 63.00 #N/A
+report_274.pdf,7,Guagua,STANDARD,64.30 | 64.30 | 64.30 | 64.30,Guagua RON 91 64.30 64.30 64.30 - 64.30 #N/A
+report_274.pdf,7,Magalang,STANDARD,61.75 | 61.75 | 61.75 | 61.75,Magalang RON 91 61.75 61.75 61.75 - 61.75 #N/A
+report_275.pdf,7,Mabalacat,STANDARD,78.15 | 78.15 | 0.00 | 0.00,Mabalacat City RON 91 78.15 78.15 0.00 - 0.00 #N/A
+report_275.pdf,7,Lubao,STANDARD,76.95 | 76.95 | 76.95 | 76.95 | 76.95,Lubao RON 91 76.95 76.95 76.95 - 76.95 76.95
+report_275.pdf,7,Mexico,STANDARD,77.40 | 77.40 | 77.40 | 77.40,Mexico RON 91 77.40 77.40 77.40 - 77.40 #N/A
+report_275.pdf,7,Arayat,STANDARD,77.60 | 77.60 | 77.60 | 77.60,Arayat RON 91 77.60 77.60 77.60 - 77.60 #N/A
+report_275.pdf,7,Bacolor,STANDARD,76.75 | 76.75 | 76.75 | 76.75,Bacolor RON 91 76.75 76.75 76.75 - 76.75 #N/A
+report_275.pdf,7,Guagua,STANDARD,76.10 | 76.10 | 76.10 | 76.10,Guagua RON 91 76.10 76.10 76.10 - 76.10 #N/A
+report_276.pdf,7,Angeles City,STANDARD,76.05 | 76.05 | 74.65 | 74.65 | 74.65 | 76.05 | 74.65,Angeles City RON 91 76.05 76.05 74.65 74.65 74.65 - 76.05 74.65
+report_276.pdf,7,Mabalacat,STANDARD,73.10 | 73.10 | 74.65 | 76.05,Mabalacat City RON 91 73.10 73.10 74.65 - 76.05 #N/A
+report_276.pdf,7,Lubao,STANDARD,71.25 | 71.25 | 71.25 | 71.25 | 71.25,Lubao RON 91 71.25 71.25 71.25 - 71.25 71.25
+report_276.pdf,7,Mexico,STANDARD,71.74 | 71.74 | 71.74 | 71.74,Mexico RON 91 71.74 71.74 71.74 - 71.74 #N/A
+report_276.pdf,7,Arayat,STANDARD,72.80 | 72.80 | 72.80 | 72.80,Pampanga Arayat RON 91 72.80 72.80 72.80 - 72.80 #N/A
+report_276.pdf,7,Bacolor,STANDARD,72.50 | 72.50 | 72.50 | 72.50,Bacolor RON 91 72.50 72.50 72.50 - 72.50 #N/A
+report_276.pdf,7,Guagua,STANDARD,73.60 | 73.60 | 73.60 | 73.60,Guagua RON 91 73.60 73.60 73.60 - 73.60 #N/A
+report_276.pdf,7,Magalang,STANDARD,71.45 | 71.45 | 71.45 | 71.45,Magalang RON 91 71.45 71.45 71.45 - 71.45 #N/A
+report_277.pdf,7,Angeles City,STANDARD,69.15 | 69.15 | 76.10 | 76.10 | 74.81 | 74.81 | 69.15 | 76.10 | 69.15,Angeles City RON 91 69.15 69.15 76.10 76.10 74.81 74.81 69.15 - 76.10 69.15
+report_277.pdf,7,Mabalacat,STANDARD,68.35 | 68.35 | 69.15 | 76.10,Mabalacat City RON 91 68.35 68.35 69.15 - 76.10 #N/A
+report_277.pdf,7,Lubao,STANDARD,66.25 | 66.25 | 66.25 | 66.25 | 66.25,Lubao RON 91 66.25 66.25 66.25 - 66.25 66.25
+report_277.pdf,7,Arayat,STANDARD,67.25 | 67.25 | 67.25 | 67.25,Arayat RON 91 67.25 67.25 67.25 - 67.25 #N/A
+report_277.pdf,7,Bacolor,STANDARD,67.50 | 67.50 | 67.50 | 67.50,Bacolor RON 91 67.50 67.50 67.50 - 67.50 #N/A
+report_277.pdf,7,Guagua,STANDARD,67.85 | 67.85 | 67.85 | 67.85,Guagua RON 91 67.85 67.85 67.85 - 67.85 #N/A
+report_278.pdf,7,Angeles City,STANDARD,70.85 | 70.85 | 67.65 | 67.65 | 71.65 | 71.65 | 75.70 | 75.70 | 74.45 | 74.45 | 67.65 | 75.70 | 67.65,Angeles City RON 91 70.85 70.85 67.65 67.65 71.65 71.65 75.70 75.70 74.45 74.45 67.65 - 75.70 67.65
+report_278.pdf,7,Mabalacat,STANDARD,74.95 | 74.95 | 67.93 | 67.93 | 67.65 | 75.70,Mabalacat City RON 91 74.95 74.95 67.93 67.93 67.65 - 75.70 #N/A
+report_278.pdf,7,Lubao,STANDARD,65.85 | 65.85 | 65.85 | 65.85 | 65.85,Lubao RON 91 65.85 65.85 65.85 - 65.85 65.85
+report_278.pdf,7,Mexico,STANDARD,66.34 | 66.34 | 66.34 | 66.34,Mexico RON 91 66.34 66.34 66.34 - 66.34 #N/A
+report_278.pdf,7,Arayat,STANDARD,66.59 | 66.59 | 66.59 | 66.59,Pampanga Arayat RON 91 66.59 66.59 66.59 - 66.59 #N/A
+report_278.pdf,7,Bacolor,STANDARD,67.10 | 67.10 | 67.10 | 67.10,Bacolor RON 91 67.10 67.10 67.10 - 67.10 #N/A
+report_279.pdf,6,Mabalacat,STANDARD,71.99 | 71.99 | 0.00 | 0.00,Mabalacat City RON 91 71.99 71.99 0.00 - 0.00 #N/A
+report_279.pdf,6,Lubao,STANDARD,70.95 | 70.95 | 70.95 | 70.95 | 70.95,Lubao RON 91 70.95 70.95 70.95 - 70.95 70.95
+report_279.pdf,6,Mexico,STANDARD,71.25 | 71.25 | 71.25 | 71.25,Mexico RON 91 71.25 71.25 71.25 - 71.25 #N/A
+report_279.pdf,6,Arayat,STANDARD,71.80 | 71.80 | 71.80 | 71.80,Arayat RON 91 71.80 71.80 71.80 - 71.80 #N/A
+report_279.pdf,7,Bacolor,STANDARD,70.50 | 70.50 | 70.50 | 70.50,Bacolor RON 91 70.50 70.50 70.50 - 70.50 #N/A
+report_279.pdf,7,Guagua,STANDARD,68.45 | 68.45 | 68.45 | 68.45,Guagua RON 91 68.45 68.45 68.45 - 68.45 #N/A
+report_279.pdf,7,Magalang,STANDARD,72.40 | 72.40 | 72.40 | 72.40,Magalang RON 91 72.40 72.40 72.40 - 72.40 #N/A
+report_279.pdf,7,Sta. Ana,STANDARD,73.70 | 73.70 | 73.70 | 73.70 | 73.70,Sta. Ana RON 91 73.70 73.70 73.70 - 73.70 73.70
+report_279.pdf,7,Sto. Tomas,STANDARD,71.15 | 71.15 | 71.15 | 71.15 | 71.15,Sto. Tomas RON 91 71.15 71.15 71.15 - 71.15 71.15
+report_280.pdf,6,Mabalacat,STANDARD,74.70 | 74.70 | 0.00 | 0.00,Mabalacat City RON 91 74.70 74.70 0.00 - 0.00 #N/A
+report_280.pdf,6,Lubao,STANDARD,73.50 | 73.50 | 73.50 | 73.50 | 73.50,Lubao RON 91 73.50 73.50 73.50 - 73.50 73.50
+report_280.pdf,6,Mexico,STANDARD,73.95 | 73.95 | 73.95 | 73.95,Mexico RON 91 73.95 73.95 73.95 - 73.95 #N/A
+report_280.pdf,6,Arayat,STANDARD,74.95 | 74.95 | 74.95 | 74.95,Arayat RON 91 74.95 74.95 74.95 - 74.95 #N/A
+report_280.pdf,7,Bacolor,STANDARD,73.19 | 73.19 | 73.19 | 73.19,Bacolor RON 91 73.19 73.19 73.19 - 73.19 #N/A
+report_280.pdf,7,Guagua,STANDARD,72.65 | 72.65 | 72.65 | 72.65,Guagua RON 91 72.65 72.65 72.65 - 72.65 #N/A
+report_280.pdf,7,Magalang,STANDARD,75.10 | 75.10 | 75.10 | 75.10,Magalang RON 91 75.10 75.10 75.10 - 75.10 #N/A
+report_280.pdf,7,Sta. Ana,STANDARD,74.70 | 74.70 | 74.70 | 74.70 | 74.70,Sta. Ana RON 91 74.70 74.70 74.70 - 74.70 74.70
+report_280.pdf,7,Sto. Tomas,STANDARD,73.85 | 73.85 | 73.85 | 73.85 | 73.85,Sto. Tomas RON 91 73.85 73.85 73.85 - 73.85 73.85
+report_281.pdf,7,Angeles City,STANDARD,80.65 | 80.65 | 83.30 | 83.30 | 80.65 | 83.30,Angeles City RON 91 80.65 80.65 83.30 83.30 80.65 - 83.30 #N/A
+report_281.pdf,7,Mabalacat,STANDARD,84.75 | 84.75 | 76.85 | 76.85 | 80.65 | 83.30,Mabalacat City RON 91 84.75 84.75 76.85 76.85 80.65 - 83.30 #N/A
+report_281.pdf,7,Lubao,STANDARD,75.85 | 75.85 | 75.85 | 75.85 | 75.85,Lubao RON 91 75.85 75.85 75.85 - 75.85 75.85
+report_281.pdf,7,Mexico,STANDARD,76.10 | 76.10 | 76.10 | 76.10,Mexico RON 91 76.10 76.10 76.10 - 76.10 #N/A
+report_281.pdf,7,Arayat,STANDARD,77.15 | 77.15 | 77.15 | 77.15,Pampanga Arayat RON 91 77.15 77.15 77.15 - 77.15 #N/A
+report_281.pdf,7,Bacolor,STANDARD,75.54 | 75.54 | 75.54 | 75.54,Bacolor RON 91 75.54 75.54 75.54 - 75.54 #N/A
+report_281.pdf,7,Guagua,STANDARD,74.35 | 74.35 | 74.35 | 74.35,Guagua RON 91 74.35 74.35 74.35 - 74.35 #N/A
+report_281.pdf,7,Magalang,STANDARD,75.45 | 75.45 | 75.45 | 75.45,Magalang RON 91 75.45 75.45 75.45 - 75.45 #N/A
+report_282.pdf,7,Mabalacat,STANDARD,77.65 | 77.65 | 0.00 | 0.00,Mabalacat City RON 91 77.65 77.65 0.00 - 0.00 #N/A
+report_282.pdf,7,Lubao,STANDARD,76.45 | 76.45 | 76.45 | 76.45 | 76.45,Lubao RON 91 76.45 76.45 76.45 - 76.45 76.45
+report_282.pdf,7,Mexico,STANDARD,76.90 | 76.90 | 76.90 | 76.90,Mexico RON 91 76.90 76.90 76.90 - 76.90 #N/A
+report_282.pdf,7,Arayat,STANDARD,77.15 | 77.15 | 77.15 | 77.15,Arayat RON 91 77.15 77.15 77.15 - 77.15 #N/A
+report_282.pdf,7,Bacolor,STANDARD,76.34 | 76.34 | 76.34 | 76.34,Bacolor RON 91 76.34 76.34 76.34 - 76.34 #N/A
+report_282.pdf,7,Guagua,STANDARD,75.60 | 75.60 | 75.60 | 75.60,Guagua RON 91 75.60 75.60 75.60 - 75.60 #N/A
+report_282.pdf,7,Magalang,STANDARD,77.00 | 77.00 | 77.00 | 77.00,Magalang RON 91 77.00 77.00 77.00 - 77.00 #N/A
+report_283.pdf,7,Mabalacat,STANDARD,78.15 | 78.15 | 79.65 | 84.36,Mabalacat City RON 91 78.15 78.15 79.65 - 84.36 #N/A
+report_283.pdf,7,Lubao,STANDARD,77.25 | 77.25 | 77.25 | 77.25 | 77.25,Lubao RON 91 77.25 77.25 77.25 - 77.25 77.25
+report_283.pdf,7,Mexico,STANDARD,76.90 | 76.90 | 76.90 | 76.90,Mexico RON 91 76.90 76.90 76.90 - 76.90 #N/A
+report_283.pdf,7,Arayat,STANDARD,78.20 | 78.20 | 78.20 | 78.20,Pampanga Arayat RON 91 78.20 78.20 78.20 - 78.20 #N/A
+report_283.pdf,7,Bacolor,STANDARD,76.75 | 76.75 | 76.75 | 76.75,Bacolor RON 91 76.75 76.75 76.75 - 76.75 #N/A
+report_283.pdf,7,Guagua,STANDARD,74.86 | 74.86 | 74.86 | 74.86,Guagua RON 91 74.86 74.86 74.86 - 74.86 #N/A
+report_283.pdf,7,Magalang,STANDARD,77.00 | 77.00 | 77.00 | 77.00,Magalang RON 91 77.00 77.00 77.00 - 77.00 #N/A
+report_284.pdf,6,Mabalacat,STANDARD,67.75 | 67.75 | 0.00 | 0.00,Mabalacat City RON 91 67.75 67.75 0.00 - 0.00 #N/A
+report_284.pdf,6,Lubao,STANDARD,65.15 | 65.15 | 65.15 | 65.15 | 65.15,Lubao RON 91 65.15 65.15 65.15 - 65.15 65.15
+report_284.pdf,6,Mexico,STANDARD,66.25 | 66.25 | 66.25 | 66.25,Mexico RON 91 66.25 66.25 66.25 - 66.25 #N/A
+report_284.pdf,6,Arayat,STANDARD,66.60 | 66.60 | 66.60 | 66.60,Arayat RON 91 66.60 66.60 66.60 - 66.60 #N/A
+report_284.pdf,6,Bacolor,STANDARD,65.00 | 65.00 | 65.00 | 65.00,Bacolor RON 91 65.00 65.00 65.00 - 65.00 #N/A
+report_284.pdf,6,Guagua,STANDARD,68.10 | 68.10 | 68.10 | 68.10,Guagua RON 91 68.10 68.10 68.10 - 68.10 #N/A
+report_284.pdf,7,Guagua,STANDARD,No Price Found,Guagua
+report_284.pdf,7,Magalang,STANDARD,66.44 | 66.44 | 66.44 | 66.44,Magalang RON 91 66.44 66.44 66.44 - 66.44 #N/A
+report_284.pdf,7,Sta. Ana,STANDARD,66.60 | 66.60 | 66.60 | 66.60 | 66.60,Sta. Ana RON 91 66.60 66.60 66.60 - 66.60 66.60
+report_284.pdf,7,Sto. Tomas,STANDARD,66.65 | 66.65 | 66.65 | 66.65 | 66.65,Sto. Tomas RON 91 66.65 66.65 66.65 - 66.65 66.65
+report_285.pdf,7,Mabalacat,STANDARD,71.05 | 0.00 | 0.00,Mabalacat City RON 91 71.05 0.00 - 0.00 #N/A
+report_285.pdf,7,Lubao,STANDARD,67.31 | 69.31 | 67.31 | 69.31,Lubao RON 91 67.31 69.31 67.31 - 69.31 #N/A
+report_285.pdf,7,Mexico,STANDARD,69.43 | 69.43 | 69.43,Mexico RON 91 69.43 69.43 - 69.43 #N/A
+report_285.pdf,7,Arayat,STANDARD,69.30 | 69.30 | 69.30,Arayat RON 91 69.30 69.30 - 69.30 #N/A
+report_285.pdf,7,Bacolor,STANDARD,69.39 | 69.39 | 69.39,Bacolor RON 91 69.39 69.39 - 69.39 #N/A
+report_285.pdf,7,Guagua,STANDARD,69.45 | 69.45 | 69.45,Guagua RON 91 69.45 69.45 - 69.45 #N/A
+report_285.pdf,7,Magalang,STANDARD,68.03 | 68.03 | 68.03,Magalang RON 91 68.03 68.03 - 68.03 #N/A
+report_286.pdf,7,Mabalacat,STANDARD,69.75 | 69.75 | 0.00 | 0.00,Mabalacat City RON 91 69.75 69.75 0.00 - 0.00 #N/A
+report_286.pdf,7,Lubao,STANDARD,67.31 | 67.31 | 67.31 | 67.31 | 67.31,Lubao RON 91 67.31 67.31 67.31 - 67.31 67.31
+report_286.pdf,7,Mexico,STANDARD,69.00 | 69.00 | 69.00 | 69.00,Mexico RON 91 69.00 69.00 69.00 - 69.00 #N/A
+report_286.pdf,7,Arayat,STANDARD,69.45 | 69.45 | 69.45 | 69.45,Arayat RON 91 69.45 69.45 69.45 - 69.45 #N/A
+report_286.pdf,7,Bacolor,STANDARD,69.39 | 69.39 | 69.39 | 69.39,Bacolor RON 91 69.39 69.39 69.39 - 69.39 #N/A
+report_286.pdf,7,Guagua,STANDARD,69.05 | 69.05 | 69.05 | 69.05,Guagua RON 91 69.05 69.05 69.05 - 69.05 #N/A
+report_286.pdf,7,Magalang,STANDARD,70.15 | 70.15 | 70.15 | 70.15,Magalang RON 91 70.15 70.15 70.15 - 70.15 #N/A
+report_287.pdf,6,Mabalacat,STANDARD,73.70 | 73.70 | 0.00 | 0.00,Mabalacat City RON 91 73.70 73.70 0.00 - 0.00 #N/A
+report_287.pdf,6,Lubao,STANDARD,71.26 | 71.26 | 71.26 | 71.26 | 71.26,Lubao RON 91 71.26 71.26 71.26 - 71.26 71.26
+report_287.pdf,6,Mexico,STANDARD,72.95 | 72.95 | 72.95 | 72.95,Mexico RON 91 72.95 72.95 72.95 - 72.95 #N/A
+report_287.pdf,6,Arayat,STANDARD,72.80 | 72.80 | 72.80 | 72.80,Arayat RON 91 72.80 72.80 72.80 - 72.80 #N/A
+report_287.pdf,6,Bacolor,STANDARD,69.50 | 69.50 | 69.50 | 69.50,Bacolor RON 91 69.50 69.50 69.50 - 69.50 #N/A
+report_287.pdf,7,Guagua,STANDARD,73.00 | 73.00 | 73.00 | 73.00,Guagua RON 91 73.00 73.00 73.00 - 73.00 #N/A
+report_287.pdf,7,Magalang,STANDARD,70.53 | 70.53 | 70.53 | 70.53,Magalang RON 91 70.53 70.53 70.53 - 70.53 #N/A
+report_287.pdf,7,Sta. Ana,STANDARD,73.60 | 73.60 | 73.60 | 73.60 | 73.60,Sta. Ana RON 91 73.60 73.60 73.60 - 73.60 73.60
+report_287.pdf,7,Sto. Tomas,STANDARD,72.85 | 72.85 | 72.85 | 72.85 | 72.85,Sto. Tomas RON 91 72.85 72.85 72.85 - 72.85 72.85
+report_288.pdf,7,Mabalacat,STANDARD,76.95 | 76.95 | 67.60 | 67.60 | 69.75 | 74.60,Mabalacat City RON 91 76.95 76.95 67.60 67.60 69.75 - 74.60 #N/A
+report_288.pdf,7,Lubao,STANDARD,64.00 | 72.45 | 64.00 | 72.45,Lubao RON 91 64.00 72.45 64.00 - 72.45 #N/A
+report_288.pdf,7,Mexico,STANDARD,65.09 | 70.95 | 65.09 | 70.95,Mexico RON 91 65.09 70.95 65.09 - 70.95 #N/A
+report_288.pdf,7,Arayat,STANDARD,66.70 | 71.50 | 71.00 | 66.70 | 71.50,Arayat RON 91 66.70 71.50 71.00 66.70 - 71.50 #N/A
+report_288.pdf,7,Bacolor,STANDARD,66.45 | 66.45 | 66.45 | 66.45,Pampanga Bacolor RON 91 66.45 66.45 66.45 - 66.45 #N/A
+report_288.pdf,7,Candaba,STANDARD,69.95 | 69.95 | 69.95 | 69.95,Candaba RON 91 69.95 69.95 69.95 - 69.95 #N/A
+report_288.pdf,7,Guagua,STANDARD,68.10 | 72.45 | 68.10 | 72.45,Guagua RON 91 68.10 72.45 68.10 - 72.45 #N/A
+report_288.pdf,7,Magalang,STANDARD,66.30 | 66.30 | 66.30 | 66.30,Magalang RON 91 66.30 66.30 66.30 - 66.30 #N/A
+report_289.pdf,7,Mabalacat,STANDARD,65.30 | 65.30 | 0.00 | 0.00,Mabalacat City RON 91 65.30 65.30 0.00 - 0.00 #N/A
+report_289.pdf,7,Lubao,STANDARD,61.70 | 61.70 | 61.70 | 61.70,Lubao RON 91 61.70 61.70 61.70 - 61.70 #N/A
+report_289.pdf,7,Mexico,STANDARD,64.40 | 64.40 | 64.40 | 64.40,Mexico RON 91 64.40 64.40 64.40 - 64.40 #N/A
+report_289.pdf,7,Arayat,STANDARD,64.40 | 64.40 | 64.40 | 64.40,Arayat RON 91 64.40 64.40 64.40 - 64.40 #N/A
+report_289.pdf,7,Bacolor,STANDARD,66.45 | 66.45 | 66.45 | 66.45,Bacolor RON 91 66.45 66.45 66.45 - 66.45 #N/A
+report_289.pdf,7,Guagua,STANDARD,65.80 | 65.80 | 65.80 | 65.80,Guagua RON 91 65.80 65.80 65.80 - 65.80 #N/A
+report_289.pdf,7,Magalang,STANDARD,64.99 | 64.99 | 64.99 | 64.99,Magalang RON 91 64.99 64.99 64.99 - 64.99 #N/A
+report_290.pdf,7,Mabalacat,STANDARD,63.05 | 63.05 | 0.00 | 0.00,Mabalacat City RON 91 63.05 63.05 0.00 - 0.00 #N/A
+report_290.pdf,7,Lubao,STANDARD,60.70 | 60.70 | 60.70 | 60.70,Lubao RON 91 60.70 60.70 60.70 - 60.70 #N/A
+report_290.pdf,7,Mexico,STANDARD,63.40 | 63.40 | 63.40 | 63.40,Mexico RON 91 63.40 63.40 63.40 - 63.40 #N/A
+report_290.pdf,7,Arayat,STANDARD,63.40 | 63.40 | 63.40 | 63.40,Arayat RON 91 63.40 63.40 63.40 - 63.40 #N/A
+report_290.pdf,7,Bacolor,STANDARD,64.15 | 64.15 | 64.15 | 64.15,Bacolor RON 91 64.15 64.15 64.15 - 64.15 #N/A
+report_290.pdf,7,Guagua,STANDARD,64.65 | 64.65 | 64.65 | 64.65,Guagua RON 91 64.65 64.65 64.65 - 64.65 #N/A
+report_290.pdf,7,Magalang,STANDARD,64.99 | 64.99 | 64.99 | 64.99,Magalang RON 91 64.99 64.99 64.99 - 64.99 #N/A
+report_291.pdf,7,Mabalacat,STANDARD,64.75 | 64.75 | 0.00 | 0.00,Mabalacat City RON 91 64.75 64.75 0.00 - 0.00 #N/A
+report_291.pdf,7,Lubao,STANDARD,63.15 | 63.15 | 63.15 | 63.15 | 63.15,Lubao RON 91 63.15 63.15 63.15 - 63.15 63.15
+report_291.pdf,7,Mexico,STANDARD,63.85 | 63.85 | 63.85 | 63.85,Mexico RON 91 63.85 63.85 63.85 - 63.85 #N/A
+report_291.pdf,7,Arayat,STANDARD,63.85 | 63.85 | 63.85 | 63.85,Arayat RON 91 63.85 63.85 63.85 - 63.85 #N/A
+report_291.pdf,7,Bacolor,STANDARD,63.85 | 63.85 | 63.85 | 63.85,Bacolor RON 91 63.85 63.85 63.85 - 63.85 #N/A
+report_291.pdf,7,Guagua,STANDARD,65.10 | 65.10 | 65.10 | 65.10,Guagua RON 91 65.10 65.10 65.10 - 65.10 #N/A
+report_291.pdf,7,Magalang,STANDARD,65.30 | 65.30 | 65.30 | 65.30,Magalang RON 91 65.30 65.30 65.30 - 65.30 #N/A
+report_291.pdf,8,Sta. Ana,STANDARD,63.60 | 63.60 | 63.60 | 63.60 | 63.60,Sta. Ana RON 91 63.60 63.60 63.60 - 63.60 63.60
+report_291.pdf,8,Sto. Tomas,STANDARD,64.30 | 64.30 | 64.30 | 64.30 | 64.30,Sto. Tomas RON 91 64.30 64.30 64.30 - 64.30 64.30
+report_292.pdf,7,Mabalacat,STANDARD,71.50 | 71.50 | 77.10 | 77.10 | 67.75 | 67.75 | 68.95 | 70.40,Mabalacat City RON 91 71.50 71.50 77.10 77.10 67.75 67.75 68.95 - 70.40 #N/A
+report_292.pdf,7,Lubao,STANDARD,65.15 | 66.15 | 65.15 | 66.15,Lubao RON 91 65.15 66.15 65.15 - 66.15 #N/A
+report_292.pdf,7,Mexico,STANDARD,66.40 | 66.40 | 66.40 | 66.40,Mexico RON 91 66.40 66.40 66.40 - 66.40 #N/A
+report_292.pdf,7,Arayat,STANDARD,66.90 | 66.90 | 66.90 | 66.90,Pampanga Arayat RON 91 66.90 66.90 66.90 - 66.90 #N/A
+report_292.pdf,7,Bacolor,STANDARD,64.30 | 64.30 | 64.30 | 64.30,Bacolor RON 91 64.30 64.30 64.30 - 64.30 #N/A
+report_292.pdf,7,Guagua,STANDARD,68.10 | 68.10 | 68.10 | 68.10,Guagua RON 91 68.10 68.10 68.10 - 68.10 #N/A
+report_292.pdf,7,Magalang,STANDARD,65.70 | 65.70 | 65.70 | 65.70,Magalang RON 91 65.70 65.70 65.70 - 65.70 #N/A
+report_293.pdf,6,Mabalacat,STANDARD,59.10 | 59.10 | 0.00 | 0.00,Mabalacat CityRON 91 59.10 59.10 0.00 - 0.00 #N/A
+report_293.pdf,6,Lubao,STANDARD,59.50 | 59.50 | 59.50 | 59.50,Lubao RON 91 59.50 59.50 59.50 - 59.50 #N/A
+report_293.pdf,6,Mexico,STANDARD,59.15 | 59.15 | 59.15 | 59.15,Mexico RON 91 59.15 59.15 59.15 - 59.15 #N/A
+report_293.pdf,6,Arayat,STANDARD,58.99 | 58.99 | 58.99 | 58.99,Arayat RON 91 58.99 58.99 58.99 - 58.99 #N/A
+report_293.pdf,6,Bacolor,STANDARD,59.95 | 59.95 | 59.95 | 59.95,Bacolor RON 91 59.95 59.95 59.95 - 59.95 #N/A
+report_293.pdf,6,Guagua,STANDARD,No Price Found,Guagua
+report_293.pdf,7,Guagua,STANDARD,58.99 | 58.99 | 58.99 | 58.99,Guagua RON 91 58.99 58.99 58.99 - 58.99 #N/A
+report_293.pdf,7,Magalang,STANDARD,59.05 | 59.05 | 59.05 | 59.05,Magalang RON 91 59.05 59.05 59.05 - 59.05 #N/A
+report_293.pdf,7,Sta. Ana,STANDARD,58.85 | 58.85 | 58.85 | 58.85,Sta. Ana RON 91 58.85 58.85 58.85 - 58.85 #N/A
+report_293.pdf,7,Sto. Tomas,STANDARD,58.50 | 58.50 | 58.50 | 58.50,Sto. Tomas RON 91 58.50 58.50 58.50 - 58.50 #N/A
+report_294.pdf,6,Angeles City,STANDARD,65.20 | 65.20 | 65.75 | 65.75 | 71.56 | 71.56 | 72.59 | 64.80 | 66.24 | 66.24 | 67.10 | 72.75 | 68.85 | 64.80 | 72.75,Angeles City RON 91 65.20 65.20 65.75 65.75 71.56 71.56 72.59 64.80 66.24 66.24 67.10 72.75 68.85 64.80 - 72.75 #N/A
+report_294.pdf,6,Mabalacat,STANDARD,67.10 | 67.10 | 71.90 | 71.90 | 62.70 | 65.80 | 64.80 | 72.75,Mabalacat CityRON 91 67.10 67.10 71.90 71.90 62.70 65.80 64.80 - 72.75 #N/A
+report_294.pdf,6,Lubao,STANDARD,63.20 | 66.40 | 66.25 | 63.20 | 66.40,Lubao RON 91 63.20 66.40 66.25 63.20 - 66.40 #N/A
+report_294.pdf,6,Mexico,STANDARD,63.84 | 67.20 | 63.84 | 67.20,Mexico RON 91 63.84 67.20 63.84 - 67.20 #N/A
+report_294.pdf,6,Arayat,STANDARD,67.45 | 66.65 | 66.65 | 67.45,Arayat RON 91 67.45 66.65 66.65 - 67.45 #N/A
+report_294.pdf,6,Bacolor,STANDARD,65.30 | 65.30 | 65.30 | 65.30,Pampanga Bacolor RON 91 65.30 65.30 65.30 - 65.30 #N/A
+report_294.pdf,6,Candaba,STANDARD,No Price Found,Candaba
+report_294.pdf,7,Candaba,STANDARD,67.45 | 67.45 | 67.45 | 67.45,Candaba RON 91 67.45 67.45 67.45 - 67.45 #N/A
+report_294.pdf,7,Guagua,STANDARD,63.45 | 66.40 | 63.45 | 66.40,Guagua RON 91 63.45 66.40 63.45 - 66.40 #N/A
+report_294.pdf,7,Magalang,STANDARD,64.64 | 64.64 | 64.64 | 64.64,Magalang RON 91 64.64 64.64 64.64 - 64.64 #N/A
+report_294.pdf,7,San Simon,STANDARD,66.90 | 66.90 | 66.90 | 66.90,San Simon RON 91 66.90 66.90 66.90 - 66.90 #N/A
+report_294.pdf,7,Sta. Ana,STANDARD,66.22 | 67.20 | 66.22 | 67.20,Sta. Ana RON 91 66.22 67.20 66.22 - 67.20 #N/A
+report_294.pdf,7,Sto. Tomas,STANDARD,63.10 | 63.10 | 63.10 | 63.10,Sto. Tomas RON 91 63.10 63.10 63.10 - 63.10 #N/A
+report_296.pdf,7,Mabalacat,STANDARD,69.31 | 69.31 | 73.55 | 73.55 | 64.20 | 66.35 | 66.35 | 70.87,Mabalacat City RON 91 69.31 69.31 73.55 73.55 64.20 66.35 66.35 - 70.87 #N/A
+report_296.pdf,7,Lubao,STANDARD,63.65 | 63.65 | 63.65 | 63.65,Lubao RON 91 63.65 63.65 63.65 - 63.65 #N/A
+report_296.pdf,7,Mexico,STANDARD,65.09 | 65.09 | 65.09 | 65.09,Mexico RON 91 65.09 65.09 65.09 - 65.09 #N/A
+report_296.pdf,7,Arayat,STANDARD,66.20 | 66.20 | 66.20 | 66.20,Pampanga Arayat RON 91 66.20 66.20 66.20 - 66.20 #N/A
+report_296.pdf,7,Bacolor,STANDARD,63.05 | 63.05 | 63.05 | 63.05,Bacolor RON 91 63.05 63.05 63.05 - 63.05 #N/A
+report_296.pdf,7,Guagua,STANDARD,64.70 | 64.70 | 64.70 | 64.70,Guagua RON 91 64.70 64.70 64.70 - 64.70 #N/A
+report_296.pdf,7,Magalang,STANDARD,66.30 | 66.30 | 66.30 | 66.30,Magalang RON 91 66.30 66.30 66.30 - 66.30 #N/A
+report_298.pdf,5,Angeles City,STANDARD,No Price Found,Angeles City
+report_298.pdf,6,Angeles City,STANDARD,58.70 | 58.70 | 61.14 | 61.14 | 66.39 | 66.39 | 57.95 | 57.95 | 59.74 | 59.74 | 69.97 | 69.97 | 57.95 | 69.97,Angeles City RON 91 58.70 58.70 61.14 61.14 66.39 66.39 57.95 57.95 59.74 59.74 69.97 69.97 57.95 - 69.97 #N/A
+report_298.pdf,6,Mabalacat,STANDARD,61.14 | 61.14 | 69.00 | 69.00 | 57.98 | 57.98 | 57.95 | 69.97,Mabalacat CityRON 91 61.14 61.14 69.00 69.00 57.98 57.98 57.95 - 69.97 #N/A
+report_298.pdf,6,Lubao,STANDARD,56.60 | 56.60 | 56.60 | 56.60,Lubao RON 91 56.60 56.60 56.60 - 56.60 #N/A
+report_298.pdf,6,Mexico,STANDARD,56.20 | 56.20 | 56.20 | 56.20,Mexico RON 91 56.20 56.20 56.20 - 56.20 #N/A
+report_298.pdf,6,Arayat,STANDARD,56.40 | 56.40 | 56.40 | 56.40,Arayat RON 91 56.40 56.40 56.40 - 56.40 #N/A
+report_298.pdf,6,Bacolor,STANDARD,56.75 | 56.75 | 56.75 | 56.75,Pampanga Bacolor RON 91 56.75 56.75 56.75 - 56.75 #N/A
+report_298.pdf,6,Candaba,STANDARD,55.60 | 55.60 | 55.60 | 55.60,Candaba RON 91 55.60 55.60 55.60 - 55.60 #N/A
+report_298.pdf,6,Guagua,STANDARD,56.45 | 56.45 | 56.45 | 56.45,Guagua RON 91 56.45 56.45 56.45 - 56.45 #N/A
+report_298.pdf,6,Magalang,STANDARD,56.60 | 56.60 | 56.60 | 56.60,Magalang RON 91 56.60 56.60 56.60 - 56.60 #N/A
+report_298.pdf,6,San Simon,STANDARD,No Price Found,San Simon
+report_298.pdf,7,San Simon,STANDARD,53.85 | 53.85 | 53.85 | 53.85,San Simon RON 91 53.85 53.85 53.85 - 53.85 #N/A
+report_298.pdf,7,Sta. Ana,STANDARD,54.95 | 54.95 | 54.95 | 54.95,Sta. Ana RON 91 54.95 54.95 54.95 - 54.95 #N/A
+report_298.pdf,7,Sto. Tomas,STANDARD,57.24 | 57.24 | 57.24 | 57.24,Sto. Tomas RON 91 57.24 57.24 57.24 - 57.24 #N/A
+report_299.pdf,6,Angeles City,STANDARD,59.90 | 59.90 | 67.59 | 67.59 | 60.94 | 60.94 | 59.90 | 67.59,Angeles City RON 91 59.90 59.90 67.59 67.59 60.94 60.94 59.90 - 67.59 #N/A
+report_299.pdf,6,Mabalacat,STANDARD,59.18 | 59.18 | 59.90 | 67.59,Mabalacat CityRON 91 59.18 59.18 59.90 - 67.59 #N/A
+report_299.pdf,6,Lubao,STANDARD,57.30 | 57.30 | 57.30 | 57.30,Lubao RON 91 57.30 57.30 57.30 - 57.30 #N/A
+report_299.pdf,6,Mexico,STANDARD,57.65 | 57.65 | 57.65 | 57.65,Mexico RON 91 57.65 57.65 57.65 - 57.65 #N/A
+report_299.pdf,6,Arayat,STANDARD,56.90 | 56.90 | 56.90 | 56.90,Pampanga Arayat RON 91 56.90 56.90 56.90 - 56.90 #N/A
+report_299.pdf,6,Bacolor,STANDARD,No Price Found,Bacolor
+report_299.pdf,7,Bacolor,STANDARD,57.50 | 57.50 | 57.50 | 57.50,Bacolor RON 91 57.50 57.50 57.50 - 57.50 #N/A
+report_299.pdf,7,Guagua,STANDARD,57.59 | 57.59 | 57.59 | 57.59,Guagua RON 91 57.59 57.59 57.59 - 57.59 #N/A
+report_299.pdf,7,Magalang,STANDARD,57.65 | 57.65 | 57.65 | 57.65,Magalang RON 91 57.65 57.65 57.65 - 57.65 #N/A
+report_299.pdf,7,Sta. Ana,STANDARD,56.65 | 56.65 | 56.65 | 56.65,Sta. Ana RON 91 56.65 56.65 56.65 - 56.65 #N/A
+report_299.pdf,7,Sto. Tomas,STANDARD,57.35 | 57.35 | 57.35 | 57.35,Sto. Tomas RON 91 57.35 57.35 57.35 - 57.35 #N/A
+report_300.pdf,6,Angeles City,STANDARD,60.70 | 60.70 | 68.39 | 68.39 | 61.74 | 61.74 | 62.60 | 68.25 | 60.70 | 68.39,Angeles City RON 91 60.70 60.70 68.39 68.39 61.74 61.74 62.60 68.25 60.70 - 68.39 #N/A
+report_300.pdf,6,Mabalacat,STANDARD,71.00 | 71.00 | 58.20 | 58.20 | 60.70 | 68.39,Mabalacat CityRON 91 71.00 71.00 58.20 58.20 60.70 - 68.39 #N/A
+report_300.pdf,6,Lubao,STANDARD,58.60 | 58.60 | 61.90 | 58.60 | 61.90,Lubao RON 91 58.60 58.60 61.90 58.60 - 61.90 #N/A
+report_300.pdf,6,Mexico,STANDARD,58.45 | 58.90 | 58.45 | 58.90,Mexico RON 91 58.45 58.90 58.45 - 58.90 #N/A
+report_300.pdf,6,Arayat,STANDARD,58.05 | 62.95 | 62.60 | 58.05 | 62.95,Arayat RON 91 58.05 62.95 62.60 58.05 - 62.95 #N/A
+report_300.pdf,6,Bacolor,STANDARD,59.99 | 59.99 | 59.99 | 59.99,Pampanga Bacolor RON 91 59.99 59.99 59.99 - 59.99 #N/A
+report_300.pdf,6,Candaba,STANDARD,No Price Found,Candaba
+report_300.pdf,7,Candaba,STANDARD,62.95 | 62.95 | 62.95 | 62.95,Candaba RON 91 62.95 62.95 62.95 - 62.95 #N/A
+report_300.pdf,7,Guagua,STANDARD,58.39 | 61.90 | 58.39 | 61.90,Guagua RON 91 58.39 61.90 58.39 - 61.90 #N/A
+report_300.pdf,7,Magalang,STANDARD,58.60 | 58.60 | 58.60 | 58.60,Magalang RON 91 58.60 58.60 58.60 - 58.60 #N/A
+report_300.pdf,7,San Simon,STANDARD,61.20 | 61.20 | 61.20 | 61.20,San Simon RON 91 61.20 61.20 61.20 - 61.20 #N/A
+report_300.pdf,7,Sta. Ana,STANDARD,57.95 | 62.70 | 57.95 | 62.70,Sta. Ana RON 91 57.95 62.70 57.95 - 62.70 #N/A
+report_300.pdf,7,Sto. Tomas,STANDARD,58.15 | 58.15 | 58.15 | 58.15,Sto. Tomas RON 91 58.15 58.15 58.15 - 58.15 #N/A
+report_305.pdf,6,Angeles City,STANDARD,57.45 | 57.45 | 54.84 | 54.84 | 60.48 | 60.48 | 53.95 | 53.95 | 53.44 | 53.44 | 55.25 | 59.95 | 53.44 | 60.48,Angeles City RON 91 57.45 57.45 54.84 54.84 60.48 60.48 53.95 53.95 53.44 53.44 55.25 59.95 53.44 - 60.48 #N/A
+report_305.pdf,6,Mabalacat,STANDARD,54.84 | 54.84 | 62.70 | 62.70 | 52.98 | 52.98 | 53.44 | 60.48,Mabalacat CityRON 91 54.84 54.84 62.70 62.70 52.98 52.98 53.44 - 60.48 #N/A
+report_305.pdf,6,Lubao,STANDARD,50.40 | 54.55 | 50.40 | 54.55,Lubao RON 91 50.40 54.55 50.40 - 54.55 #N/A
+report_305.pdf,7,Mexico,STANDARD,53.10 | 50.98 | 50.98 | 53.10,Mexico RON 91 53.10 50.98 50.98 - 53.10 #N/A
+report_305.pdf,7,Arayat,STANDARD,55.60 | 51.20 | 51.20 | 55.60,Arayat RON 91 55.60 51.20 51.20 - 55.60 #N/A
+report_305.pdf,7,Bacolor,STANDARD,53.10 | 53.10 | 53.10 | 53.10,Pampanga Bacolor RON 91 53.10 53.10 53.10 - 53.10 #N/A
+report_305.pdf,7,Candaba,STANDARD,55.60 | 55.60 | 55.60 | 55.60,Candaba RON 91 55.60 55.60 55.60 - 55.60 #N/A
+report_305.pdf,7,Guagua,STANDARD,54.55 | 49.00 | 49.00 | 54.55,Guagua RON 91 54.55 49.00 49.00 - 54.55 #N/A
+report_305.pdf,7,Magalang,STANDARD,52.25 | 52.25 | 52.25 | 52.25,Magalang RON 91 52.25 52.25 52.25 - 52.25 #N/A
+report_305.pdf,7,San Simon,STANDARD,53.85 | 53.85 | 53.85 | 53.85,San Simon RON 91 53.85 53.85 53.85 - 53.85 #N/A
+report_305.pdf,7,Sta. Ana,STANDARD,55.35 | 51.10 | 51.10 | 55.35,Sta. Ana RON 91 55.35 51.10 51.10 - 55.35 #N/A
+report_305.pdf,8,Sto. Tomas,STANDARD,50.95 | 50.95 | 50.95 | 50.95,Sto. Tomas RON 91 50.95 50.95 50.95 - 50.95 #N/A
+report_307.pdf,5,Angeles City,STANDARD,58.69 | 58.69 | 59.15 | 59.15 | 58.69 | 59.15,Angeles City RON 91 58.69 58.69 59.15 59.15 58.69 - 59.15 #N/A
+report_307.pdf,5,Mabalacat,STANDARD,51.08 | 51.08 | 58.69 | 59.15,Mabalacat CityRON 91 51.08 51.08 58.69 - 59.15 #N/A
+report_307.pdf,5,Lubao,STANDARD,50.98 | 50.98 | 50.98 | 50.98,Lubao RON 91 50.98 50.98 50.98 - 50.98 #N/A
+report_307.pdf,6,Mexico,STANDARD,49.08 | 49.08 | 49.08 | 49.08,Mexico RON 91 49.08 49.08 49.08 - 49.08 #N/A
+report_307.pdf,6,Arayat,STANDARD,47.70 | 47.70 | 47.70 | 47.70,Arayat RON 91 47.70 47.70 47.70 - 47.70 #N/A
+report_307.pdf,6,Bacolor,STANDARD,49.60 | 49.60 | 49.60 | 49.60,Pampanga Bacolor RON 91 49.60 49.60 49.60 - 49.60 #N/A
+report_307.pdf,6,Candaba,STANDARD,55.60 | 55.60 | 55.60 | 55.60,Candaba RON 91 55.60 55.60 55.60 - 55.60 #N/A
+report_307.pdf,6,Guagua,STANDARD,50.69 | 50.69 | 50.69 | 50.69,Guagua RON 91 50.69 50.69 50.69 - 50.69 #N/A
+report_307.pdf,6,Magalang,STANDARD,49.35 | 49.35 | 49.35 | 49.35,Magalang RON 91 49.35 49.35 49.35 - 49.35 #N/A
+report_307.pdf,6,San Simon,STANDARD,53.85 | 53.85 | 53.85 | 53.85,San Simon RON 91 53.85 53.85 53.85 - 53.85 #N/A
+report_307.pdf,6,Sta. Ana,STANDARD,47.60 | 47.60 | 47.60 | 47.60,Sta. Ana RON 91 47.60 47.60 47.60 - 47.60 #N/A
+report_307.pdf,6,Sto. Tomas,STANDARD,No Price Found,Sto. Tomas
+report_307.pdf,7,Sto. Tomas,STANDARD,50.15 | 50.15 | 50.15 | 50.15,Sto. Tomas RON 91 50.15 50.15 50.15 - 50.15 #N/A
+report_308.pdf,6,Angeles City,STANDARD,57.20 | 57.20 | 59.48 | 59.48 | 53.50 | 53.50 | 53.19 | 53.19 | 59.70 | 59.70 | 53.19 | 59.70,Angeles City RON 91 57.20 57.20 59.48 59.48 53.50 53.50 53.19 53.19 59.70 59.70 53.19 - 59.70 #N/A
+report_308.pdf,6,Mabalacat,STANDARD,62.45 | 62.45 | 51.63 | 51.63 | 53.19 | 59.70,Mabalacat CityRON 91 62.45 62.45 51.63 51.63 53.19 - 59.70 #N/A
+report_308.pdf,6,Lubao,STANDARD,49.63 | 51.53 | 49.63 | 51.53,Lubao RON 91 49.63 51.53 49.63 - 51.53 #N/A
+report_308.pdf,7,Mexico,STANDARD,49.08 | 49.08 | 49.08 | 49.08,Mexico RON 91 49.08 49.08 49.08 - 49.08 #N/A
+report_308.pdf,7,Arayat,STANDARD,48.60 | 48.60 | 48.60 | 48.60,Arayat RON 91 48.60 48.60 48.60 - 48.60 #N/A
+report_308.pdf,7,Bacolor,STANDARD,51.75 | 51.75 | 51.75 | 51.75,Pampanga Bacolor RON 91 51.75 51.75 51.75 - 51.75 #N/A
+report_308.pdf,7,Candaba,STANDARD,55.60 | 55.60 | 55.60 | 55.60,Candaba RON 91 55.60 55.60 55.60 - 55.60 #N/A
+report_308.pdf,7,Guagua,STANDARD,51.20 | 51.20 | 51.20 | 51.20,Guagua RON 91 51.20 51.20 51.20 - 51.20 #N/A
+report_308.pdf,7,Magalang,STANDARD,50.90 | 50.90 | 50.90 | 50.90,Magalang RON 91 50.90 50.90 50.90 - 50.90 #N/A
+report_308.pdf,7,San Simon,STANDARD,53.85 | 53.85 | 53.85 | 53.85,San Simon RON 91 53.85 53.85 53.85 - 53.85 #N/A
+report_308.pdf,7,Sta. Ana,STANDARD,48.50 | 48.50 | 48.50 | 48.50,Sta. Ana RON 91 48.50 48.50 48.50 - 48.50 #N/A
+report_308.pdf,7,Sto. Tomas,STANDARD,50.70 | 50.70 | 50.70 | 50.70,Sto. Tomas RON 91 50.70 50.70 50.70 - 50.70 #N/A
+report_308.pdf,8,Sto. Tomas,STANDARD,No Price Found,Sto. Tomas OVERALL RANGE
+report_309.pdf,7,Angeles City,STANDARD,58.69 | 58.69 | 63.21 | 63.21 | 63.80 | 63.80 | 58.69 | 63.80,Angeles City RON 91 58.69 58.69 63.21 63.21 63.80 63.80 58.69 - 63.80 #N/A
+report_309.pdf,8,Mabalacat,STANDARD,58.69 | 58.69 | 53.23 | 53.23 | 58.69 | 63.80,Mabalacat CityRON 91 58.69 58.69 53.23 53.23 58.69 - 63.80 #N/A
+report_309.pdf,8,Lubao,STANDARD,52.75 | 53.73 | 52.75 | 53.73,Lubao RON 91 52.75 53.73 52.75 - 53.73 #N/A
+report_309.pdf,8,Mexico,STANDARD,51.43 | 51.43 | 51.43 | 51.43,Mexico RON 91 51.43 51.43 51.43 - 51.43 #N/A
+report_309.pdf,8,Arayat,STANDARD,52.20 | 52.20 | 52.20 | 52.20,Arayat RON 91 52.20 52.20 52.20 - 52.20 #N/A
+report_309.pdf,8,Bacolor,STANDARD,54.55 | 54.55 | 54.55 | 54.55,Pampanga Bacolor RON 91 54.55 54.55 54.55 - 54.55 #N/A
+report_309.pdf,8,Candaba,STANDARD,54.25 | 54.25 | 54.25 | 54.25,Candaba RON 91 54.25 54.25 54.25 - 54.25 #N/A
+report_309.pdf,8,Guagua,STANDARD,53.04 | 53.04 | 53.04 | 53.04,Guagua RON 91 53.04 53.04 53.04 - 53.04 #N/A
+report_309.pdf,8,Magalang,STANDARD,55.00 | 55.00 | 55.00 | 55.00,Magalang RON 91 55.00 55.00 55.00 - 55.00 #N/A
+report_309.pdf,9,San Simon,STANDARD,52.50 | 52.50 | 52.50 | 52.50,San Simon RON 91 52.50 52.50 52.50 - 52.50 #N/A
+report_309.pdf,9,Sta. Ana,STANDARD,51.53 | 52.10 | 51.53 | 52.10,Sta. Ana RON 91 51.53 52.10 51.53 - 52.10 #N/A
+report_309.pdf,9,Sto. Tomas,STANDARD,53.70 | 53.70 | 53.70 | 53.70,Sto. Tomas RON 91 53.70 53.70 53.70 - 53.70 #N/A
+report_310.pdf,6,Angeles City,STANDARD,60.30 | 60.30 | 62.15 | 62.15 | 65.55 | 65.55 | 56.29 | 56.29 | 62.80 | 54.53 | 58.40 | 54.53 | 65.55,Angeles City RON 91 60.30 60.30 62.15 62.15 65.55 65.55 56.29 56.29 62.80 54.53 58.40 54.53 - 65.55 #N/A
+report_310.pdf,6,Mabalacat,STANDARD,58.69 | 58.69 | 53.23 | 53.23 | 54.53 | 65.55,Mabalacat CityRON 91 58.69 58.69 53.23 53.23 54.53 - 65.55 #N/A
+report_310.pdf,6,Lubao,STANDARD,52.35 | 57.40 | 52.35 | 57.40,Lubao RON 91 52.35 57.40 52.35 - 57.40 #N/A
+report_310.pdf,6,Mexico,STANDARD,No Price Found,Mexico
+report_310.pdf,7,Mexico,STANDARD,55.45 | 52.73 | 52.73 | 55.45,Mexico RON 91 55.45 52.73 52.73 - 55.45 #N/A
+report_310.pdf,7,Arayat,STANDARD,58.45 | 52.94 | 52.94 | 58.45,Arayat RON 91 58.45 52.94 52.94 - 58.45 #N/A
+report_310.pdf,7,Bacolor,STANDARD,54.55 | 54.55 | 54.55 | 54.55,Pampanga Bacolor RON 91 54.55 54.55 54.55 - 54.55 #N/A
+report_310.pdf,7,Candaba,STANDARD,58.45 | 58.45 | 58.45 | 58.45,Candaba RON 91 58.45 58.45 58.45 - 58.45 #N/A
+report_310.pdf,7,Guagua,STANDARD,57.40 | 51.99 | 51.99 | 57.40,Guagua RON 91 57.40 51.99 51.99 - 57.40 #N/A
+report_310.pdf,7,Magalang,STANDARD,56.15 | 56.15 | 56.15 | 56.15,Magalang RON 91 56.15 56.15 56.15 - 56.15 #N/A
+report_310.pdf,7,San Simon,STANDARD,56.70 | 56.70 | 56.70 | 56.70,San Simon RON 91 56.70 56.70 56.70 - 56.70 #N/A
+report_310.pdf,7,Sta. Ana,STANDARD,58.20 | 52.85 | 52.85 | 58.20,Sta. Ana RON 91 58.20 52.85 52.85 - 58.20 #N/A
+report_310.pdf,7,Sto. Tomas,STANDARD,53.80 | 53.80 | 53.80 | 53.80,Sto. Tomas RON 91 53.80 53.80 53.80 - 53.80 #N/A
+report_311.pdf,7,Angeles City,STANDARD,59.40 | 59.40 | 56.79 | 56.79 | 61.25 | 61.25 | 55.65 | 55.65 | 55.39 | 55.39 | 65.30 | 57.70 | 57.70 | 55.39 | 65.30,Angeles City RON 91 59.40 59.40 56.79 56.79 61.25 61.25 55.65 55.65 55.39 55.39 65.30 57.70 57.70 55.39 - 65.30 #N/A
+report_311.pdf,7,Mabalacat,STANDARD,56.79 | 56.79 | 64.65 | 64.65 | 54.05 | 53.83 | 55.39 | 65.30,Mabalacat CityRON 91 56.79 56.79 64.65 64.65 54.05 53.83 55.39 - 65.30 #N/A
+report_311.pdf,7,Lubao,STANDARD,51.50 | 56.50 | 53.20 | 51.50 | 56.50,Lubao RON 91 51.50 56.50 53.20 51.50 - 56.50 #N/A
+report_311.pdf,7,Mexico,STANDARD,55.45 | 52.73 | 52.73 | 55.45,Mexico RON 91 55.45 52.73 52.73 - 55.45 #N/A
+report_311.pdf,7,Arayat,STANDARD,57.55 | 57.20 | 52.95 | 52.95 | 57.55,Arayat RON 91 57.55 57.20 52.95 52.95 - 57.55 #N/A
+report_311.pdf,7,Bacolor,STANDARD,53.95 | 53.95 | 53.95 | 53.95,Pampanga Bacolor RON 91 53.95 53.95 53.95 - 53.95 #N/A
+report_311.pdf,8,Candaba,STANDARD,57.55 | 57.55 | 57.55 | 57.55,Candaba RON 91 57.55 57.55 57.55 - 57.55 #N/A
+report_311.pdf,8,Guagua,STANDARD,56.50 | 51.09 | 51.09 | 56.50,Guagua RON 91 56.50 51.09 51.09 - 56.50 #N/A
+report_311.pdf,8,Magalang,STANDARD,53.10 | 53.10 | 53.10 | 53.10,Magalang RON 91 53.10 53.10 53.10 - 53.10 #N/A
+report_311.pdf,8,San Simon,STANDARD,55.80 | 55.80 | 55.80 | 55.80,San Simon RON 91 55.80 55.80 55.80 - 55.80 #N/A
+report_311.pdf,8,Sta. Ana,STANDARD,57.30 | 52.85 | 52.85 | 57.30,Sta. Ana RON 91 57.30 52.85 52.85 - 57.30 #N/A
+report_311.pdf,8,Sto. Tomas,STANDARD,52.90 | 52.90 | 52.90 | 52.90,Sto. Tomas RON 91 52.90 52.90 52.90 - 52.90 #N/A
+report_312.pdf,6,Angeles City,STANDARD,61.48 | 61.48 | 54.95 | 54.95 | 54.54 | 54.54 | 56.35 | 56.35 | 54.54 | 61.48,Angeles City RON 91 61.48 61.48 54.95 54.95 54.54 54.54 56.35 56.35 54.54 - 61.48 #N/A
+report_312.pdf,6,Mabalacat,STANDARD,63.80 | 63.80 | 52.98 | 52.98 | 54.54 | 61.48,Mabalacat CityRON 91 63.80 63.80 52.98 52.98 54.54 - 61.48 #N/A
+report_312.pdf,6,Lubao,STANDARD,51.50 | 55.65 | 51.50 | 55.65,Lubao RON 91 51.50 55.65 51.50 - 55.65 #N/A
+report_312.pdf,6,Mexico,STANDARD,No Price Found,Mexico
+report_312.pdf,7,Mexico,STANDARD,54.20 | 50.98 | 50.98 | 54.20,Mexico RON 91 54.20 50.98 50.98 - 54.20 #N/A
+report_312.pdf,7,Arayat,STANDARD,56.70 | 51.70 | 51.70 | 56.70,Arayat RON 91 56.70 51.70 51.70 - 56.70 #N/A
+report_312.pdf,7,Bacolor,STANDARD,53.10 | 53.10 | 53.10 | 53.10,Pampanga Bacolor RON 91 53.10 53.10 53.10 - 53.10 #N/A
+report_312.pdf,7,Candaba,STANDARD,56.70 | 56.70 | 56.70 | 56.70,Candaba RON 91 56.70 56.70 56.70 - 56.70 #N/A
+report_312.pdf,7,Guagua,STANDARD,55.65 | 50.20 | 50.20 | 55.65,Guagua RON 91 55.65 50.20 50.20 - 55.65 #N/A
+report_312.pdf,7,Magalang,STANDARD,52.25 | 52.25 | 52.25 | 52.25,Magalang RON 91 52.25 52.25 52.25 - 52.25 #N/A
+report_312.pdf,7,San Simon,STANDARD,54.95 | 54.95 | 54.95 | 54.95,San Simon RON 91 54.95 54.95 54.95 - 54.95 #N/A
+report_312.pdf,7,Sta. Ana,STANDARD,56.45 | 51.10 | 51.10 | 56.45,Sta. Ana RON 91 56.45 51.10 51.10 - 56.45 #N/A
+report_312.pdf,7,Sto. Tomas,STANDARD,52.05 | 52.05 | 52.05 | 52.05,Sto. Tomas RON 91 52.05 52.05 52.05 - 52.05 #N/A
+report_313.pdf,6,Angeles City,STANDARD,54.45 | 54.45 | 51.84 | 51.84 | 56.75 | 56.75 | 56.29 | 56.29 | 52.64 | 52.64 | 61.80 | 61.80 | 52.55 | 56.95 | 51.84 | 61.80,Angeles City RON 91 54.45 54.45 51.84 51.84 56.75 56.75 56.29 56.29 52.64 52.64 61.80 61.80 52.55 56.95 51.84 - 61.80 #N/A
+report_313.pdf,6,Mabalacat,STANDARD,51.84 | 51.84 | 59.70 | 59.70 | 48.68 | 48.68 | 51.84 | 61.80,Mabalacat CityRON 91 51.84 51.84 59.70 59.70 48.68 48.68 51.84 - 61.80 #N/A
+report_313.pdf,6,Lubao,STANDARD,49.45 | 51.85 | 49.45 | 51.85,Lubao RON 91 49.45 51.85 49.45 - 51.85 #N/A
+report_313.pdf,6,Mexico,STANDARD,49.40 | 46.54 | 46.54 | 49.40,Mexico RON 91 49.40 46.54 46.54 - 49.40 #N/A
+report_313.pdf,6,Arayat,STANDARD,52.90 | 50.25 | 50.25 | 52.90,Arayat RON 91 52.90 50.25 50.25 - 52.90 #N/A
+report_313.pdf,6,Bacolor,STANDARD,No Price Found,Pampanga Bacolor
+report_313.pdf,7,Bacolor,STANDARD,48.35 | 48.35 | 48.35 | 48.35,Pampanga Bacolor RON 91 48.35 48.35 48.35 - 48.35 #N/A
+report_313.pdf,7,Candaba,STANDARD,52.90 | 52.90 | 52.90 | 52.90,Candaba RON 91 52.90 52.90 52.90 - 52.90 #N/A
+report_313.pdf,7,Guagua,STANDARD,51.85 | 48.74 | 48.74 | 51.85,Guagua RON 91 51.85 48.74 48.74 - 51.85 #N/A
+report_313.pdf,7,Magalang,STANDARD,48.35 | 48.35 | 48.35 | 48.35,Magalang RON 91 48.35 48.35 48.35 - 48.35 #N/A
+report_313.pdf,7,San Simon,STANDARD,50.90 | 50.90 | 50.90 | 50.90,San Simon RON 91 50.90 50.90 50.90 - 50.90 #N/A
+report_313.pdf,7,Sta. Ana,STANDARD,52.45 | 46.95 | 46.95 | 52.45,Sta. Ana RON 91 52.45 46.95 46.95 - 52.45 #N/A
+report_313.pdf,7,Sto. Tomas,STANDARD,48.24 | 48.24 | 48.24 | 48.24,Sto. Tomas RON 91 48.24 48.24 48.24 - 48.24 #N/A
+report_314.pdf,6,Angeles City,STANDARD,55.90 | 55.90 | 53.29 | 53.29 | 57.96 | 57.96 | 51.65 | 51.65 | 54.14 | 54.14 | 61.80 | 61.80 | 53.90 | 58.40 | 51.65 | 61.80,Angeles City RON 91 55.90 55.90 53.29 53.29 57.96 57.96 51.65 51.65 54.14 54.14 61.80 61.80 53.90 58.40 51.65 - 61.80 #N/A
+report_314.pdf,6,Mabalacat,STANDARD,53.29 | 53.29 | 61.15 | 61.15 | 50.13 | 50.13 | 51.65 | 61.80,Mabalacat CityRON 91 53.29 53.29 61.15 61.15 50.13 50.13 51.65 - 61.80 #N/A
+report_314.pdf,6,Lubao,STANDARD,47.95 | 53.20 | 47.95 | 53.20,Lubao RON 91 47.95 53.20 47.95 - 53.20 #N/A
+report_314.pdf,6,Mexico,STANDARD,51.25 | 47.99 | 47.99 | 51.25,Mexico RON 91 51.25 47.99 47.99 - 51.25 #N/A
+report_314.pdf,6,Arayat,STANDARD,54.25 | 52.30 | 52.30 | 54.25,Arayat RON 91 54.25 52.30 52.30 - 54.25 #N/A
+report_314.pdf,6,Bacolor,STANDARD,48.90 | 48.90 | 48.90 | 48.90,Pampanga Bacolor RON 91 48.90 48.90 48.90 - 48.90 #N/A
+report_314.pdf,6,Candaba,STANDARD,54.25 | 54.25 | 54.25 | 54.25,Candaba RON 91 54.25 54.25 54.25 - 54.25 #N/A
+report_314.pdf,6,Guagua,STANDARD,No Price Found,Guagua
+report_314.pdf,7,Guagua,STANDARD,53.20 | 50.19 | 50.19 | 53.20,Guagua RON 91 53.20 50.19 50.19 - 53.20 #N/A
+report_314.pdf,7,Magalang,STANDARD,48.65 | 48.65 | 48.65 | 48.65,Magalang RON 91 48.65 48.65 48.65 - 48.65 #N/A
+report_314.pdf,7,San Simon,STANDARD,52.50 | 52.50 | 52.50 | 52.50,San Simon RON 91 52.50 52.50 52.50 - 52.50 #N/A
+report_314.pdf,7,Sta. Ana,STANDARD,54.00 | 47.95 | 47.95 | 54.00,Sta. Ana RON 91 54.00 47.95 47.95 - 54.00 #N/A
+report_314.pdf,7,Sto. Tomas,STANDARD,48.45 | 48.45 | 48.45 | 48.45,Sto. Tomas RON 91 48.45 48.45 48.45 - 48.45 #N/A
+report_315.pdf,5,Angeles City,STANDARD,57.20 | 57.20 | 54.59 | 54.59 | 58.80 | 58.80 | 52.95 | 52.95 | 55.44 | 55.44 | 65.90 | 65.90 | 59.70 | 59.70 | 52.95 | 65.90,Angeles City RON 91 57.20 57.20 54.59 54.59 58.80 58.80 52.95 52.95 55.44 55.44 65.90 65.90 59.70 59.70 52.95 - 65.90 #N/A
+report_315.pdf,5,Mabalacat,STANDARD,No Price Found,Mabalacat City
+report_315.pdf,6,Mabalacat,STANDARD,54.59 | 54.59 | 62.45 | 62.45 | 50.13 | 50.13 | 52.95 | 65.90,Mabalacat CityRON 91 54.59 54.59 62.45 62.45 50.13 50.13 52.95 - 65.90 #N/A
+report_315.pdf,6,Lubao,STANDARD,49.45 | 47.95 | 47.95 | 49.45,Lubao RON 91 49.45 47.95 47.95 - 49.45 #N/A
+report_315.pdf,6,Mexico,STANDARD,51.25 | 47.99 | 47.99 | 51.25,Mexico RON 91 51.25 47.99 47.99 - 51.25 #N/A
+report_315.pdf,6,Arayat,STANDARD,52.30 | 52.30 | 52.30 | 52.30,Arayat RON 91 52.30 52.30 52.30 - 52.30 #N/A
+report_315.pdf,6,Bacolor,STANDARD,48.90 | 48.90 | 48.90 | 48.90,Pampanga Bacolor RON 91 48.90 48.90 48.90 - 48.90 #N/A
+report_315.pdf,6,Candaba,STANDARD,54.25 | 54.25 | 54.25 | 54.25,Candaba RON 91 54.25 54.25 54.25 - 54.25 #N/A
+report_315.pdf,6,Guagua,STANDARD,50.19 | 50.19 | 50.19 | 50.19,Guagua RON 91 50.19 50.19 50.19 - 50.19 #N/A
+report_315.pdf,6,Magalang,STANDARD,48.65 | 48.65 | 48.65 | 48.65,Magalang RON 91 48.65 48.65 48.65 - 48.65 #N/A
+report_315.pdf,6,San Simon,STANDARD,52.50 | 52.50 | 52.50 | 52.50,San Simon RON 91 52.50 52.50 52.50 - 52.50 #N/A
+report_315.pdf,6,Sta. Ana,STANDARD,No Price Found,Sta. Ana
+report_315.pdf,7,Sta. Ana,STANDARD,48.35 | 47.95 | 47.95 | 48.35,Sta. Ana RON 91 48.35 47.95 47.95 - 48.35 #N/A
+report_315.pdf,7,Sto. Tomas,STANDARD,48.45 | 48.45 | 48.45 | 48.45,Sto. Tomas RON 91 48.45 48.45 48.45 - 48.45 #N/A
+report_316.pdf,6,Angeles City,STANDARD,59.00 | 59.00 | 56.39 | 56.39 | 60.78 | 60.78 | 55.10 | 55.10 | 54.99 | 54.99 | 54.99 | 60.78,Angeles City RON 91 59.00 59.00 56.39 56.39 60.78 60.78 55.10 55.10 54.99 54.99 54.99 - 60.78 #N/A
+report_316.pdf,6,Mabalacat,STANDARD,56.39 | 56.39 | 62.45 | 62.45 | 53.23 | 53.23 | 54.99 | 60.78,Mabalacat CityRON 91 56.39 56.39 62.45 62.45 53.23 53.23 54.99 - 60.78 #N/A
+report_316.pdf,6,Lubao,STANDARD,49.45 | 47.95 | 47.95 | 49.45,Lubao RON 91 49.45 47.95 47.95 - 49.45 #N/A
+report_316.pdf,6,Mexico,STANDARD,51.43 | 51.43 | 51.43 | 51.43,Mexico RON 91 51.43 51.43 51.43 - 51.43 #N/A
+report_316.pdf,6,Arayat,STANDARD,52.55 | 52.55 | 52.55 | 52.55,Arayat RON 91 52.55 52.55 52.55 - 52.55 #N/A
+report_316.pdf,6,Bacolor,STANDARD,53.35 | 53.35 | 53.35 | 53.35,Pampanga Bacolor RON 91 53.35 53.35 53.35 - 53.35 #N/A
+report_316.pdf,6,Candaba,STANDARD,No Price Found,Candaba
+report_316.pdf,7,Candaba,STANDARD,54.25 | 54.25 | 54.25 | 54.25,Candaba RON 91 54.25 54.25 54.25 - 54.25 #N/A
+report_316.pdf,7,Guagua,STANDARD,51.37 | 51.37 | 51.37 | 51.37,Guagua RON 91 51.37 51.37 51.37 - 51.37 #N/A
+report_316.pdf,7,Magalang,STANDARD,52.35 | 52.35 | 52.35 | 52.35,Magalang RON 91 52.35 52.35 52.35 - 52.35 #N/A
+report_316.pdf,7,San Simon,STANDARD,52.50 | 52.50 | 52.50 | 52.50,San Simon RON 91 52.50 52.50 52.50 - 52.50 #N/A
+report_316.pdf,7,Sta. Ana,STANDARD,51.53 | 52.55 | 51.53 | 52.55,Sta. Ana RON 91 51.53 52.55 51.53 - 52.55 #N/A
+report_316.pdf,7,Sto. Tomas,STANDARD,51.73 | 51.43 | 51.43 | 51.73,Sto. Tomas RON 91 51.73 51.43 51.43 - 51.73 #N/A
+report_318.pdf,6,Angeles City,STANDARD,51.95 | 51.95 | 49.99 | 49.99 | 55.30 | 55.30 | 49.95 | 49.95 | 54.59 | 54.59 | 62.40 | 62.40 | 54.70 | 54.70 | 49.95 | 62.40,Angeles City RON 91 51.95 51.95 49.99 49.99 55.30 55.30 49.95 49.95 54.59 54.59 62.40 62.40 54.70 54.70 49.95 - 62.40 #N/A
+report_318.pdf,6,Mabalacat,STANDARD,49.99 | 49.99 | 57.45 | 57.45 | 46.43 | 46.43 | 49.95 | 62.40,Mabalacat City RON 91 49.99 49.99 57.45 57.45 46.43 46.43 49.95 - 62.40 #N/A
+report_318.pdf,6,Lubao,STANDARD,48.35 | 48.35 | 48.35 | 48.35,Lubao RON 91 48.35 48.35 48.35 - 48.35 #N/A
+report_318.pdf,6,Mexico,STANDARD,45.59 | 45.59 | 45.59 | 45.59,Mexico RON 91 45.59 45.59 45.59 - 45.59 #N/A
+report_318.pdf,6,Arayat,STANDARD,48.75 | 48.75 | 48.75 | 48.75,Arayat RON 91 48.75 48.75 48.75 - 48.75 #N/A
+report_318.pdf,6,Bacolor,STANDARD,47.85 | 47.85 | 47.85 | 47.85,Bacolor RON 91 47.85 47.85 47.85 - 47.85 #N/A
+report_318.pdf,6,Candaba,STANDARD,52.05 | 52.05 | 52.05 | 52.05,Candaba RON 91 52.05 52.05 52.05 - 52.05 #N/A
+report_318.pdf,7,Guagua,STANDARD,47.14 | 47.14 | 47.14 | 47.14,Guagua RON 91 47.14 47.14 47.14 - 47.14 #N/A
+report_318.pdf,7,Magalang,STANDARD,47.45 | 47.45 | 47.45 | 47.45,Magalang RON 91 47.45 47.45 47.45 - 47.45 #N/A
+report_318.pdf,7,San Simon,STANDARD,50.05 | 50.05 | 50.05 | 50.05,Pampanga San Simon RON 91 50.05 50.05 50.05 - 50.05 #N/A
+report_318.pdf,7,Sta. Ana,STANDARD,44.35 | 44.35 | 44.35 | 44.35,Sta. Ana RON 91 44.35 44.35 44.35 - 44.35 #N/A
+report_318.pdf,7,Sto. Tomas,STANDARD,45.99 | 45.99 | 45.99 | 45.99,Sto. Tomas RON 91 45.99 45.99 45.99 - 45.99 #N/A
+report_319.pdf,6,Angeles City,STANDARD,52.45 | 52.45 | 50.09 | 50.09 | 54.95 | 54.95 | 49.60 | 49.60 | 55.09 | 55.09 | 63.40 | 63.40 | 55.20 | 55.20 | 49.60 | 63.40,Angeles City RON 91 52.45 52.45 50.09 50.09 54.95 54.95 49.60 49.60 55.09 55.09 63.40 63.40 55.20 55.20 49.60 - 63.40 #N/A
+report_319.pdf,6,Mabalacat,STANDARD,50.09 | 50.09 | 57.95 | 57.95 | 46.93 | 46.93 | 49.60 | 63.40,Mabalacat CityRON 91 50.09 50.09 57.95 57.95 46.93 46.93 49.60 - 63.40 #N/A
+report_319.pdf,6,Lubao,STANDARD,48.75 | 51.00 | 49.65 | 48.75 | 51.00,Lubao RON 91 48.75 51.00 49.65 48.75 - 51.00 #N/A
+report_319.pdf,7,Mexico,STANDARD,48.55 | 46.34 | 46.34 | 48.55,Mexico RON 91 48.55 46.34 46.34 - 48.55 #N/A
+report_319.pdf,7,Arayat,STANDARD,49.25 | 49.25 | 49.25 | 49.25,Arayat RON 91 49.25 49.25 49.25 - 49.25 #N/A
+report_319.pdf,7,Bacolor,STANDARD,47.99 | 47.99 | 47.99 | 47.99,Pampanga Bacolor RON 91 47.99 47.99 47.99 - 47.99 #N/A
+report_319.pdf,7,Candaba,STANDARD,52.05 | 52.05 | 52.05 | 52.05,Candaba RON 91 52.05 52.05 52.05 - 52.05 #N/A
+report_319.pdf,7,Guagua,STANDARD,47.64 | 47.64 | 47.64 | 47.64,Guagua RON 91 47.64 47.64 47.64 - 47.64 #N/A
+report_319.pdf,7,Magalang,STANDARD,47.45 | 47.45 | 47.45 | 47.45,Magalang RON 91 47.45 47.45 47.45 - 47.45 #N/A
+report_319.pdf,7,San Simon,STANDARD,50.05 | 50.05 | 50.05 | 50.05,San Simon RON 91 50.05 50.05 50.05 - 50.05 #N/A
+report_319.pdf,7,Sta. Ana,STANDARD,44.35 | 45.15 | 44.35 | 45.15,Sta. Ana RON 91 44.35 45.15 44.35 - 45.15 #N/A
+report_319.pdf,7,Sto. Tomas,STANDARD,No Price Found,Sto. Tomas
+report_319.pdf,8,Sto. Tomas,STANDARD,46.49 | 46.49 | 46.49 | 46.49,Sto. Tomas RON 91 46.49 46.49 46.49 - 46.49 #N/A
+report_320.pdf,5,Angeles City,STANDARD,52.85 | 52.85 | 50.49 | 50.49 | 55.38 | 55.38 | 49.65 | 49.65 | 55.49 | 55.49 | 61.80 | 61.80 | 51.75 | 55.60 | 49.65 | 61.80,Angeles City RON 91 52.85 52.85 50.49 50.49 55.38 55.38 49.65 49.65 55.49 55.49 61.80 61.80 51.75 55.60 49.65 - 61.80 #N/A
+report_320.pdf,5,Mabalacat,STANDARD,50.49 | 50.49 | 58.35 | 58.35 | 47.33 | 47.33 | 49.65 | 61.80,Mabalacat CityRON 91 50.49 50.49 58.35 58.35 47.33 47.33 49.65 - 61.80 #N/A
+report_320.pdf,5,Lubao,STANDARD,48.99 | 51.05 | 48.99 | 51.05,Lubao RON 91 48.99 51.05 48.99 - 51.05 #N/A
+report_320.pdf,5,Mexico,STANDARD,No Price Found,Mexico
+report_320.pdf,6,Mexico,STANDARD,48.60 | 45.99 | 45.99 | 48.60,Mexico RON 91 48.60 45.99 45.99 - 48.60 #N/A
+report_320.pdf,6,Arayat,STANDARD,52.10 | 49.40 | 49.40 | 52.10,Arayat RON 91 52.10 49.40 49.40 - 52.10 #N/A
+report_320.pdf,6,Bacolor,STANDARD,47.55 | 47.55 | 47.55 | 47.55,Pampanga Bacolor RON 91 47.55 47.55 47.55 - 47.55 #N/A
+report_320.pdf,6,Candaba,STANDARD,52.10 | 52.10 | 52.10 | 52.10,Candaba RON 91 52.10 52.10 52.10 - 52.10 #N/A
+report_320.pdf,6,Guagua,STANDARD,51.05 | 48.13 | 48.13 | 51.05,Guagua RON 91 51.05 48.13 48.13 - 51.05 #N/A
+report_320.pdf,6,Magalang,STANDARD,47.45 | 47.45 | 47.45 | 47.45,Magalang RON 91 47.45 47.45 47.45 - 47.45 #N/A
+report_320.pdf,6,San Simon,STANDARD,50.10 | 50.10 | 50.10 | 50.10,San Simon RON 91 50.10 50.10 50.10 - 50.10 #N/A
+report_320.pdf,6,Sta. Ana,STANDARD,51.65 | 45.20 | 45.20 | 51.65,Sta. Ana RON 91 51.65 45.20 45.20 - 51.65 #N/A
+report_320.pdf,6,Sto. Tomas,STANDARD,46.89 | 46.89 | 46.89 | 46.89,Sto. Tomas RON 91 46.89 46.89 46.89 - 46.89 #N/A
+report_321.pdf,5,Angeles City,STANDARD,No Price Found,Angeles City
+report_321.pdf,6,Angeles City,STANDARD,53.90 | 53.90 | 51.29 | 51.29 | 56.28 | 56.28 | 49.95 | 49.95 | 56.29 | 56.29 | 61.80 | 61.80 | 52.55 | 56.40 | 49.95 | 61.80,Angeles City RON 91 53.90 53.90 51.29 51.29 56.28 56.28 49.95 49.95 56.29 56.29 61.80 61.80 52.55 56.40 49.95 - 61.80 #N/A
+report_321.pdf,6,Mabalacat,STANDARD,51.29 | 51.29 | 58.35 | 58.35 | 48.13 | 48.13 | 49.95 | 61.80,Mabalacat CityRON 91 51.29 51.29 58.35 58.35 48.13 48.13 49.95 - 61.80 #N/A
+report_321.pdf,6,Lubao,STANDARD,47.95 | 51.85 | 47.95 | 51.85,Lubao RON 91 47.95 51.85 47.95 - 51.85 #N/A
+report_321.pdf,6,Mexico,STANDARD,49.40 | 45.99 | 45.99 | 49.40,Mexico RON 91 49.40 45.99 45.99 - 49.40 #N/A
+report_321.pdf,6,Arayat,STANDARD,52.90 | 50.20 | 50.20 | 52.90,Arayat RON 91 52.90 50.20 50.20 - 52.90 #N/A
+report_321.pdf,6,Bacolor,STANDARD,47.99 | 47.99 | 47.99 | 47.99,Pampanga Bacolor RON 91 47.99 47.99 47.99 - 47.99 #N/A
+report_321.pdf,6,Candaba,STANDARD,52.90 | 52.90 | 52.90 | 52.90,Candaba RON 91 52.90 52.90 52.90 - 52.90 #N/A
+report_321.pdf,6,Guagua,STANDARD,51.85 | 48.13 | 48.13 | 51.85,Guagua RON 91 51.85 48.13 48.13 - 51.85 #N/A
+report_321.pdf,6,Magalang,STANDARD,47.85 | 47.85 | 47.85 | 47.85,Magalang RON 91 47.85 47.85 47.85 - 47.85 #N/A
+report_321.pdf,6,San Simon,STANDARD,No Price Found,San Simon
+report_321.pdf,7,San Simon,STANDARD,50.90 | 50.90 | 50.90 | 50.90,San Simon RON 91 50.90 50.90 50.90 - 50.90 #N/A
+report_321.pdf,7,Sta. Ana,STANDARD,52.45 | 46.05 | 46.05 | 52.45,Sta. Ana RON 91 52.45 46.05 46.05 - 52.45 #N/A
+report_321.pdf,7,Sto. Tomas,STANDARD,47.69 | 47.49 | 47.49 | 47.69,Sto. Tomas RON 91 47.69 47.49 47.49 - 47.69 #N/A
+report_322.pdf,7,Angeles City,STANDARD,53.01 | 53.01 | 51.79 | 51.79 | 54.15 | 54.15 | 50.60 | 50.60 | 55.64 | 55.64 | 62.40 | 62.40 | 55.75 | 51.70 | 50.60 | 62.40,Angeles City RON 91 53.01 53.01 51.79 51.79 54.15 54.15 50.60 50.60 55.64 55.64 62.40 62.40 55.75 51.70 50.60 - 62.40 #N/A
+report_322.pdf,7,Mabalacat,STANDARD,52.84 | 52.84 | 58.50 | 58.50 | 46.43 | 46.43 | 50.60 | 62.40,Mabalacat City RON 91 52.84 52.84 58.50 58.50 46.43 46.43 50.60 - 62.40 #N/A
+report_322.pdf,7,Lubao,STANDARD,48.75 | 51.00 | 48.75 | 51.00,Lubao RON 91 48.75 51.00 48.75 - 51.00 #N/A
+report_322.pdf,7,Mexico,STANDARD,48.55 | 46.24 | 46.24 | 48.55,Mexico RON 91 48.55 46.24 46.24 - 48.55 #N/A
+report_322.pdf,7,Arayat,STANDARD,52.05 | 47.95 | 47.95 | 52.05,Arayat RON 91 52.05 47.95 47.95 - 52.05 #N/A
+report_322.pdf,7,Bacolor,STANDARD,49.09 | 49.09 | 49.09 | 49.09,Pampanga Bacolor RON 91 49.09 49.09 49.09 - 49.09 #N/A
+report_322.pdf,7,Candaba,STANDARD,52.05 | 52.05 | 52.05 | 52.05,Candaba RON 91 52.05 52.05 52.05 - 52.05 #N/A
+report_322.pdf,7,Guagua,STANDARD,51.00 | 47.99 | 47.99 | 51.00,Guagua RON 91 51.00 47.99 47.99 - 51.00 #N/A
+report_322.pdf,7,Magalang,STANDARD,49.30 | 49.30 | 49.30 | 49.30,Magalang RON 91 49.30 49.30 49.30 - 49.30 #N/A
+report_323.pdf,6,Angeles City,STANDARD,52.36 | 52.36 | 49.99 | 49.99 | 55.30 | 55.30 | 49.95 | 49.95 | 54.99 | 54.99 | 62.40 | 62.40 | 59.59 | 51.70 | 52.95 | 49.95 | 62.40,Angeles City RON 91 52.36 52.36 49.99 49.99 55.30 55.30 49.95 49.95 54.99 54.99 62.40 62.40 59.59 51.70 52.95 49.95 - 62.40 #N/A
+report_323.pdf,6,Mabalacat,STANDARD,49.99 | 49.99 | 57.85 | 57.85 | 49.05 | 46.83 | 49.95 | 62.40,Mabalacat City RON 91 49.99 49.99 57.85 57.85 49.05 46.83 49.95 - 62.40 #N/A
+report_323.pdf,6,Lubao,STANDARD,48.75 | 51.00 | 49.65 | 48.75 | 51.00,Lubao RON 91 48.75 51.00 49.65 48.75 - 51.00 #N/A
+report_323.pdf,6,Mexico,STANDARD,48.55 | 46.34 | 46.34 | 48.55,Mexico RON 91 48.55 46.34 46.34 - 48.55 #N/A
+report_323.pdf,6,Arayat,STANDARD,52.05 | 48.25 | 48.25 | 52.05,Arayat RON 91 52.05 48.25 48.25 - 52.05 #N/A
+report_323.pdf,6,Bacolor,STANDARD,48.45 | 48.45 | 48.45 | 48.45,Pampanga Bacolor RON 91 48.45 48.45 48.45 - 48.45 #N/A
+report_324.pdf,7,Arayat,STANDARD,52.05 | 48.55 | 48.55 | 52.05,Arayat RON 91 52.05 48.55 48.55 - 52.05 #N/A
+report_324.pdf,7,Bacolor,STANDARD,48.45 | 48.45 | 48.45 | 48.45,Pampanga Bacolor RON 91 48.45 48.45 48.45 - 48.45 #N/A
+report_324.pdf,7,Candaba,STANDARD,52.05 | 52.05 | 52.05 | 52.05,Candaba RON 91 52.05 52.05 52.05 - 52.05 #N/A
+report_324.pdf,7,Guagua,STANDARD,51.00 | 47.84 | 47.84 | 51.00,Guagua RON 91 51.00 47.84 47.84 - 51.00 #N/A
+report_324.pdf,7,Magalang,STANDARD,48.65 | 48.65 | 48.65 | 48.65,Magalang RON 91 48.65 48.65 48.65 - 48.65 #N/A
+report_324.pdf,7,San Simon,STANDARD,50.05 | 50.05 | 50.05 | 50.05,San Simon RON 91 50.05 50.05 50.05 - 50.05 #N/A
+report_324.pdf,7,Sta. Ana,STANDARD,51.60 | 45.50 | 45.50 | 51.60,Sta. Ana RON 91 51.60 45.50 45.50 - 51.60 #N/A
+report_324.pdf,7,Sto. Tomas,STANDARD,46.99 | 46.99 | 46.99 | 46.99,Sto. Tomas RON 91 46.99 46.99 46.99 - 46.99 #N/A
+report_326.pdf,7,Angeles City,STANDARD,50.85 | 50.85 | 51.25 | 51.25 | 52.98 | 52.98 | 51.90 | 47.45 | 53.49 | 53.49 | 60.00 | 60.00 | 53.60 | 53.60 | 47.45 | 60.00,Angeles City RON 91 50.85 50.85 51.25 51.25 52.98 52.98 51.90 47.45 53.49 53.49 60.00 60.00 53.60 53.60 47.45 - 60.00 #N/A
+report_326.pdf,7,Mabalacat,STANDARD,51.25 | 51.25 | 55.35 | 55.35 | 45.33 | 45.33 | 47.45 | 60.00,Mabalacat City RON 91 51.25 51.25 55.35 55.35 45.33 45.33 47.45 - 60.00 #N/A
+report_326.pdf,7,Lubao,STANDARD,46.80 | 46.80 | 46.80 | 46.80,Lubao RON 91 46.80 46.80 46.80 - 46.80 #N/A
+report_326.pdf,7,Mexico,STANDARD,45.24 | 45.24 | 45.24 | 45.24,Mexico RON 91 45.24 45.24 45.24 - 45.24 #N/A
+report_326.pdf,7,Arayat,STANDARD,46.60 | 46.60 | 46.60 | 46.60,Arayat RON 91 46.60 46.60 46.60 - 46.60 #N/A
+report_326.pdf,7,Bacolor,STANDARD,47.00 | 47.00 | 47.00 | 47.00,Pampanga Bacolor RON 91 47.00 47.00 47.00 - 47.00 #N/A
+report_326.pdf,7,Candaba,STANDARD,49.10 | 49.10 | 49.10 | 49.10,Candaba RON 91 49.10 49.10 49.10 - 49.10 #N/A
+report_326.pdf,7,Guagua,STANDARD,46.77 | 46.77 | 46.77 | 46.77,Guagua RON 91 46.77 46.77 46.77 - 46.77 #N/A
+report_326.pdf,7,Magalang,STANDARD,46.74 | 46.74 | 46.74 | 46.74,Magalang RON 91 46.74 46.74 46.74 - 46.74 #N/A
+report_327.pdf,7,Angeles City,STANDARD,51.85 | 51.85 | 52.98 | 52.98 | 51.90 | 47.45 | 54.09 | 54.09 | 60.00 | 60.00 | 53.60 | 53.60 | 47.45 | 60.00,Angeles City RON 91 51.85 51.85 52.98 52.98 51.90 47.45 54.09 54.09 60.00 60.00 53.60 53.60 47.45 - 60.00 #N/A
+report_327.pdf,7,Mabalacat,STANDARD,51.85 | 51.85 | 55.35 | 55.35 | 45.33 | 45.33 | 47.45 | 60.00,Mabalacat City RON 91 51.85 51.85 55.35 55.35 45.33 45.33 47.45 - 60.00 #N/A
+report_327.pdf,7,Lubao,STANDARD,47.40 | 47.40 | 47.40 | 47.40,Lubao RON 91 47.40 47.40 47.40 - 47.40 #N/A
+report_327.pdf,7,Mexico,STANDARD,45.24 | 45.24 | 45.24 | 45.24,Mexico RON 91 45.24 45.24 45.24 - 45.24 #N/A
+report_327.pdf,7,Arayat,STANDARD,46.90 | 46.90 | 46.90 | 46.90,Arayat RON 91 46.90 46.90 46.90 - 46.90 #N/A
+report_327.pdf,7,Bacolor,STANDARD,47.99 | 47.99 | 47.99 | 47.99,Pampanga Bacolor RON 91 47.99 47.99 47.99 - 47.99 #N/A
+report_327.pdf,7,Candaba,STANDARD,49.10 | 49.10 | 49.10 | 49.10,Candaba RON 91 49.10 49.10 49.10 - 49.10 #N/A
+report_327.pdf,7,Guagua,STANDARD,47.59 | 47.59 | 47.59 | 47.59,Guagua RON 91 47.59 47.59 47.59 - 47.59 #N/A
+report_327.pdf,7,Magalang,STANDARD,47.75 | 47.75 | 47.75 | 47.75,Magalang RON 91 47.75 47.75 47.75 - 47.75 #N/A
+report_328.pdf,7,Angeles City,STANDARD,52.61 | 52.61 | 54.79 | 54.79 | 49.45 | 49.45 | 55.24 | 55.24 | 62.40 | 62.40 | 55.35 | 55.35 | 49.45 | 62.40,Angeles City RON 91 52.61 52.61 54.79 54.79 49.45 49.45 55.24 55.24 62.40 62.40 55.35 55.35 49.45 - 62.40 #N/A
+report_328.pdf,7,Mabalacat,STANDARD,58.10 | 58.10 | 45.93 | 45.93 | 49.45 | 62.40,Mabalacat City RON 91 58.10 58.10 45.93 45.93 49.45 - 62.40 #N/A
+report_328.pdf,7,Lubao,STANDARD,48.55 | 48.55 | 48.55 | 48.55,Lubao RON 91 48.55 48.55 48.55 - 48.55 #N/A
+report_328.pdf,7,Mexico,STANDARD,45.84 | 45.84 | 45.84 | 45.84,Mexico RON 91 45.84 45.84 45.84 - 45.84 #N/A
+report_328.pdf,7,Arayat,STANDARD,47.20 | 47.20 | 47.20 | 47.20,Arayat RON 91 47.20 47.20 47.20 - 47.20 #N/A
+report_328.pdf,7,Bacolor,STANDARD,47.99 | 47.99 | 47.99 | 47.99,Pampanga Bacolor RON 91 47.99 47.99 47.99 - 47.99 #N/A
+report_328.pdf,7,Candaba,STANDARD,49.10 | 49.10 | 49.10 | 49.10,Candaba RON 91 49.10 49.10 49.10 - 49.10 #N/A
+report_328.pdf,7,Guagua,STANDARD,48.19 | 48.19 | 48.19 | 48.19,Guagua RON 91 48.19 48.19 48.19 - 48.19 #N/A
+report_328.pdf,7,Magalang,STANDARD,47.75 | 47.75 | 47.75 | 47.75,Magalang RON 91 47.75 47.75 47.75 - 47.75 #N/A
+report_329.pdf,7,Angeles City,STANDARD,51.96 | 51.96 | 51.79 | 51.79 | 54.79 | 54.79 | 54.80 | 49.65 | 54.59 | 54.59 | 62.90 | 62.90 | 54.70 | 51.70 | 49.65 | 62.90,Angeles City RON 91 51.96 51.96 51.79 51.79 54.79 54.79 54.80 49.65 54.59 54.59 62.90 62.90 54.70 51.70 49.65 - 62.90 #N/A
+report_329.pdf,7,Mabalacat,STANDARD,51.79 | 51.79 | 57.45 | 57.45 | 46.43 | 46.43 | 49.65 | 62.90,Mabalacat City RON 91 51.79 51.79 57.45 57.45 46.43 46.43 49.65 - 62.90 #N/A
+report_329.pdf,7,Lubao,STANDARD,47.90 | 51.00 | 47.90 | 51.00,Lubao RON 91 47.90 51.00 47.90 - 51.00 #N/A
+report_329.pdf,7,Mexico,STANDARD,48.55 | 46.24 | 46.24 | 48.55,Mexico RON 91 48.55 46.24 46.24 - 48.55 #N/A
+report_329.pdf,7,Arayat,STANDARD,52.05 | 48.65 | 48.65 | 52.05,Arayat RON 91 52.05 48.65 48.65 - 52.05 #N/A
+report_329.pdf,7,Bacolor,STANDARD,48.49 | 48.49 | 48.49 | 48.49,Pampanga Bacolor RON 91 48.49 48.49 48.49 - 48.49 #N/A
+report_329.pdf,7,Candaba,STANDARD,52.05 | 52.05 | 52.05 | 52.05,Candaba RON 91 52.05 52.05 52.05 - 52.05 #N/A
+report_329.pdf,7,Guagua,STANDARD,51.00 | 47.77 | 47.77 | 51.00,Guagua RON 91 51.00 47.77 47.77 - 51.00 #N/A
+report_329.pdf,7,Magalang,STANDARD,48.25 | 48.25 | 48.25 | 48.25,Magalang RON 91 48.25 48.25 48.25 - 48.25 #N/A
+report_330.pdf,7,Angeles City,STANDARD,48.40 | 48.40 | 48.49 | 48.49 | 49.98 | 49.98 | 45.95 | 45.95 | 53.53 | 53.53 | 59.30 | 59.30 | 56.50 | 56.50 | 45.95 | 59.30,Angeles City RON 91 48.40 48.40 48.49 48.49 49.98 49.98 45.95 45.95 53.53 53.53 59.30 59.30 56.50 56.50 45.95 - 59.30 #N/A
+report_330.pdf,7,Mabalacat,STANDARD,53.90 | 53.90 | 41.95 | 41.95 | 45.95 | 59.30,Mabalacat City RON 91 53.90 53.90 41.95 41.95 45.95 - 59.30 #N/A
+report_330.pdf,7,Lubao,STANDARD,44.14 | 44.14 | 44.14 | 44.14,Lubao RON 91 44.14 44.14 44.14 - 44.14 #N/A
+report_330.pdf,7,Mexico,STANDARD,43.69 | 43.69 | 43.69 | 43.69,Mexico RON 91 43.69 43.69 43.69 - 43.69 #N/A
+report_330.pdf,7,Arayat,STANDARD,45.60 | 45.60 | 45.60 | 45.60,Arayat RON 91 45.60 45.60 45.60 - 45.60 #N/A
+report_330.pdf,7,Bacolor,STANDARD,45.39 | 45.39 | 45.39 | 45.39,Bacolor RON 91 45.39 45.39 45.39 - 45.39 #N/A
+report_330.pdf,7,Magalang,STANDARD,45.90 | 45.90 | 45.90 | 45.90,Magalang RON 91 45.90 45.90 45.90 - 45.90 #N/A
+report_330.pdf,7,Sta. Ana,STANDARD,43.65 | 43.65 | 43.65 | 43.65,Sta. Ana RON 91 43.65 43.65 43.65 - 43.65 #N/A
+report_330.pdf,7,Sto. Tomas,STANDARD,43.09 | 43.09 | 43.09 | 43.09,Sto. Tomas RON 91 43.09 43.09 43.09 - 43.09 #N/A
+report_331.pdf,7,Angeles City,STANDARD,48.60 | 48.60 | 49.50 | 49.50 | 50.78 | 50.78 | 46.60 | 46.60 | 53.73 | 53.73 | 59.50 | 59.50 | 51.35 | 51.35 | 46.60 | 59.50,Angeles City RON 91 48.60 48.60 49.50 49.50 50.78 50.78 46.60 46.60 53.73 53.73 59.50 59.50 51.35 51.35 46.60 - 59.50 #N/A
+report_331.pdf,7,Mabalacat,STANDARD,52.10 | 52.10 | 54.10 | 54.10 | 42.75 | 42.75 | 46.60 | 59.50,Mabalacat City RON 91 52.10 52.10 54.10 54.10 42.75 42.75 46.60 - 59.50 #N/A
+report_331.pdf,7,Lubao,STANDARD,44.70 | 44.70 | 44.70 | 44.70,Lubao RON 91 44.70 44.70 44.70 - 44.70 #N/A
+report_331.pdf,7,Mexico,STANDARD,42.99 | 42.99 | 42.99 | 42.99,Mexico RON 91 42.99 42.99 42.99 - 42.99 #N/A
+report_331.pdf,7,Arayat,STANDARD,46.40 | 46.40 | 46.40 | 46.40,Arayat RON 91 46.40 46.40 46.40 - 46.40 #N/A
+report_331.pdf,7,Bacolor,STANDARD,45.49 | 45.49 | 45.49 | 45.49,Bacolor RON 91 45.49 45.49 45.49 - 45.49 #N/A
+report_331.pdf,7,Magalang,STANDARD,45.95 | 45.95 | 45.95 | 45.95,Magalang RON 91 45.95 45.95 45.95 - 45.95 #N/A
+report_331.pdf,7,Sta. Ana,STANDARD,43.85 | 43.85 | 43.85 | 43.85,Sta. Ana RON 91 43.85 43.85 43.85 - 43.85 #N/A
+report_331.pdf,7,Sto. Tomas,STANDARD,43.19 | 43.19 | 43.19 | 43.19,Sto. Tomas RON 91 43.19 43.19 43.19 - 43.19 #N/A
+report_332.pdf,7,Angeles City,STANDARD,49.10 | 49.10 | 50.00 | 50.00 | 51.28 | 51.28 | 51.20 | 46.40 | 51.74 | 51.74 | 60.00 | 60.00 | 51.85 | 51.85 | 46.40 | 60.00,Angeles City RON 91 49.10 49.10 50.00 50.00 51.28 51.28 51.20 46.40 51.74 51.74 60.00 60.00 51.85 51.85 46.40 - 60.00 #N/A
+report_332.pdf,7,Mabalacat,STANDARD,52.60 | 52.60 | 54.60 | 54.60 | 42.75 | 42.75 | 46.40 | 60.00,Mabalacat City RON 91 52.60 52.60 54.60 54.60 42.75 42.75 46.40 - 60.00 #N/A
+report_332.pdf,7,Lubao,STANDARD,45.20 | 45.20 | 45.20 | 45.20,Lubao RON 91 45.20 45.20 45.20 - 45.20 #N/A
+report_332.pdf,7,Mexico,STANDARD,43.49 | 43.49 | 43.49 | 43.49,Mexico RON 91 43.49 43.49 43.49 - 43.49 #N/A
+report_332.pdf,7,Arayat,STANDARD,46.40 | 46.40 | 46.40 | 46.40,Arayat RON 91 46.40 46.40 46.40 - 46.40 #N/A
+report_332.pdf,7,Bacolor,STANDARD,45.49 | 45.49 | 45.49 | 45.49,Bacolor RON 91 45.49 45.49 45.49 - 45.49 #N/A
+report_332.pdf,7,Magalang,STANDARD,46.45 | 46.45 | 46.45 | 46.45,Magalang RON 91 46.45 46.45 46.45 - 46.45 #N/A
+report_332.pdf,7,Sta. Ana,STANDARD,44.35 | 44.35 | 44.35 | 44.35,Sta. Ana RON 91 44.35 44.35 44.35 - 44.35 #N/A
+report_332.pdf,7,Sto. Tomas,STANDARD,43.69 | 43.69 | 43.69 | 43.69,Sto. Tomas RON 91 43.69 43.69 43.69 - 43.69 #N/A
+report_333.pdf,7,Angeles City,STANDARD,49.85 | 49.85 | 50.50 | 50.50 | 51.98 | 51.98 | 51.90 | 47.45 | 52.49 | 52.49 | 60.00 | 60.00 | 49.05 | 52.60 | 49.80 | 47.45 | 60.00,Angeles City RON 91 49.85 49.85 50.50 50.50 51.98 51.98 51.90 47.45 52.49 52.49 60.00 60.00 49.05 52.60 49.80 47.45 - 60.00 #N/A
+report_333.pdf,7,Mabalacat,STANDARD,50.50 | 50.50 | 55.35 | 55.35 | 47.30 | 43.93 | 47.45 | 60.00,Mabalacat City RON 91 50.50 50.50 55.35 55.35 47.30 43.93 47.45 - 60.00 #N/A
+report_333.pdf,7,Lubao,STANDARD,45.95 | 48.05 | 46.05 | 45.95 | 48.05,Lubao RON 91 45.95 48.05 46.05 45.95 - 48.05 #N/A
+report_333.pdf,7,Mexico,STANDARD,45.60 | 44.24 | 44.24 | 45.60,Mexico RON 91 45.60 44.24 44.24 - 45.60 #N/A
+report_333.pdf,7,Arayat,STANDARD,49.10 | 46.40 | 46.40 | 49.10,Arayat RON 91 49.10 46.40 46.40 - 49.10 #N/A
+report_333.pdf,7,Bacolor,STANDARD,45.99 | 45.99 | 45.99 | 45.99,Pampanga Bacolor RON 91 45.99 45.99 45.99 - 45.99 #N/A
+report_333.pdf,7,Candaba,STANDARD,49.10 | 49.10 | 49.10 | 49.10,Candaba RON 91 49.10 49.10 49.10 - 49.10 #N/A
+report_333.pdf,7,Guagua,STANDARD,48.05 | 49.40 | 48.05 | 49.40,Guagua RON 91 48.05 49.40 48.05 - 49.40 #N/A
+report_333.pdf,7,Magalang,STANDARD,46.74 | 46.74 | 46.74 | 46.74,Magalang RON 91 46.74 46.74 46.74 - 46.74 #N/A
+report_333.pdf,8,San Simon,STANDARD,47.10 | 47.10 | 47.10 | 47.10,San Simon RON 91 47.10 47.10 47.10 - 47.10 #N/A
+report_333.pdf,8,Sta. Ana,STANDARD,48.65 | 44.60 | 44.60 | 48.65,Sta. Ana RON 91 48.65 44.60 44.60 - 48.65 #N/A
+report_333.pdf,8,Sto. Tomas,STANDARD,44.50 | 44.50 | 44.50 | 44.50,Sto. Tomas RON 91 44.50 44.50 44.50 - 44.50 #N/A
+report_334.pdf,6,Angeles City,STANDARD,46.90 | 46.90 | 47.79 | 47.79 | 49.69 | 49.69 | 48.66 | 45.20 | 52.03 | 52.03 | 57.87 | 57.87 | 49.25 | 49.45 | 47.00 | 45.20 | 57.87,Angeles City RON 91 46.90 46.90 47.79 47.79 49.69 49.69 48.66 45.20 52.03 52.03 57.87 57.87 49.25 49.45 47.00 45.20 - 57.87 #N/A
+report_334.pdf,6,Mabalacat,STANDARD,50.39 | 50.39 | 52.40 | 52.40 | 45.45 | 41.45 | 45.20 | 57.87,Mabalacat City RON 91 50.39 50.39 52.40 52.40 45.45 41.45 45.20 - 57.87 #N/A
+report_334.pdf,6,Lubao,STANDARD,43.45 | 44.30 | 43.45 | 44.30,Lubao RON 91 43.45 44.30 43.45 - 44.30 #N/A
+report_334.pdf,6,Mexico,STANDARD,42.60 | 42.60 | 42.60 | 42.60,Mexico RON 91 42.60 42.60 42.60 - 42.60 #N/A
+report_334.pdf,6,Arayat,STANDARD,45.25 | 45.25 | 45.25 | 45.25,Arayat RON 91 45.25 45.25 45.25 - 45.25 #N/A
+report_334.pdf,6,Bacolor,STANDARD,44.00 | 44.00 | 44.00 | 44.00,Bacolor RON 91 44.00 44.00 44.00 - 44.00 #N/A
+report_334.pdf,7,Bacolor,STANDARD,No Price Found,Bacolor
+report_334.pdf,7,Magalang,STANDARD,44.25 | 44.25 | 44.25 | 44.25,Magalang RON 91 44.25 44.25 44.25 - 44.25 #N/A
+report_334.pdf,7,Sta. Ana,STANDARD,43.00 | 43.00 | 43.00 | 43.00,Sta. Ana RON 91 43.00 43.00 43.00 - 43.00 #N/A
+report_334.pdf,7,Sto. Tomas,STANDARD,41.65 | 41.65 | 41.65 | 41.65,Sto. Tomas RON 91 41.65 41.65 41.65 - 41.65 #N/A
+report_335.pdf,7,Angeles City,STANDARD,47.65 | 47.65 | 49.98 | 49.98 | 48.66 | 45.20 | 52.78 | 52.78 | 58.57 | 58.57 | 50.00 | 50.00 | 45.20 | 58.57,Angeles City RON 91 47.65 47.65 49.98 49.98 48.66 45.20 52.78 52.78 58.57 58.57 50.00 50.00 45.20 - 58.57 #N/A
+report_335.pdf,7,Mabalacat,STANDARD,53.15 | 53.15 | 41.65 | 41.65 | 45.20 | 58.57,Mabalacat City RON 91 53.15 53.15 41.65 41.65 45.20 - 58.57 #N/A
+report_335.pdf,7,Lubao,STANDARD,44.20 | 44.30 | 44.20 | 44.30,Lubao RON 91 44.20 44.30 44.20 - 44.30 #N/A
+report_335.pdf,7,Mexico,STANDARD,43.25 | 43.25 | 43.25 | 43.25,Mexico RON 91 43.25 43.25 43.25 - 43.25 #N/A
+report_335.pdf,7,Arayat,STANDARD,45.45 | 45.45 | 45.45 | 45.45,Arayat RON 91 45.45 45.45 45.45 - 45.45 #N/A
+report_335.pdf,7,Bacolor,STANDARD,44.50 | 44.50 | 44.50 | 44.50,Bacolor RON 91 44.50 44.50 44.50 - 44.50 #N/A
+report_335.pdf,7,Magalang,STANDARD,44.95 | 44.95 | 44.95 | 44.95,Magalang RON 91 44.95 44.95 44.95 - 44.95 #N/A
+report_335.pdf,7,Sta. Ana,STANDARD,43.60 | 43.60 | 43.60 | 43.60,Sta. Ana RON 91 43.60 43.60 43.60 - 43.60 #N/A
+report_335.pdf,7,Sto. Tomas,STANDARD,42.40 | 42.40 | 42.40 | 42.40,Sto. Tomas RON 91 42.40 42.40 42.40 - 42.40 #N/A
+report_336.pdf,6,Angeles City,STANDARD,47.45 | 47.45 | 48.34 | 48.34 | 49.98 | 49.98 | 49.54 | 45.95 | 52.58 | 52.58 | 58.37 | 58.37 | 47.60 | 50.20 | 45.95 | 58.37,Angeles City RON 91 47.45 47.45 48.34 48.34 49.98 49.98 49.54 45.95 52.58 52.58 58.37 58.37 47.60 50.20 45.95 - 58.37 #N/A
+report_336.pdf,6,Mabalacat,STANDARD,50.94 | 50.94 | 52.95 | 52.95 | 41.95 | 41.95 | 45.95 | 58.37,Mabalacat City RON 91 50.94 50.94 52.95 52.95 41.95 41.95 45.95 - 58.37 #N/A
+report_336.pdf,6,Lubao,STANDARD,43.99 | 43.99 | 43.99 | 43.99,Lubao RON 91 43.99 43.99 43.99 - 43.99 #N/A
+report_336.pdf,6,Mexico,STANDARD,43.05 | 43.05 | 43.05 | 43.05,Mexico RON 91 43.05 43.05 43.05 - 43.05 #N/A
+report_336.pdf,6,Arayat,STANDARD,45.45 | 45.45 | 45.45 | 45.45,Arayat RON 91 45.45 45.45 45.45 - 45.45 #N/A
+report_336.pdf,6,Bacolor,STANDARD,45.29 | 45.29 | 45.29 | 45.29,Bacolor RON 91 45.29 45.29 45.29 - 45.29 #N/A
+report_336.pdf,6,Magalang,STANDARD,44.95 | 44.95 | 44.95 | 44.95,Magalang RON 91 44.95 44.95 44.95 - 44.95 #N/A
+report_336.pdf,7,Sta. Ana,STANDARD,43.35 | 43.35 | 43.35 | 43.35,Sta. Ana RON 91 43.35 43.35 43.35 - 43.35 #N/A
+report_336.pdf,7,Sto. Tomas,STANDARD,42.14 | 42.14 | 42.14 | 42.14,Sto. Tomas RON 91 42.14 42.14 42.14 - 42.14 #N/A
+report_337.pdf,7,Angeles City,STANDARD,47.60 | 47.60 | 48.49 | 48.49 | 49.98 | 49.98 | 52.73 | 52.73 | 58.52 | 58.52 | 55.70 | 55.70 | 47.60 | 58.52,Angeles City RON 91 47.60 47.60 48.49 48.49 49.98 49.98 52.73 52.73 58.52 58.52 55.70 55.70 47.60 - 58.52 #N/A
+report_337.pdf,7,Mabalacat,STANDARD,51.09 | 51.09 | 53.10 | 53.10 | 41.95 | 41.95 | 47.60 | 58.52,Mabalacat City RON 91 51.09 51.09 53.10 53.10 41.95 41.95 47.60 - 58.52 #N/A
+report_337.pdf,7,Lubao,STANDARD,44.14 | 44.14 | 44.14 | 44.14,Lubao RON 91 44.14 44.14 44.14 - 44.14 #N/A
+report_337.pdf,7,Mexico,STANDARD,42.25 | 42.25 | 42.25 | 42.25,Mexico RON 91 42.25 42.25 42.25 - 42.25 #N/A
+report_337.pdf,7,Arayat,STANDARD,45.45 | 45.45 | 45.45 | 45.45,Arayat RON 91 45.45 45.45 45.45 - 45.45 #N/A
+report_337.pdf,7,Bacolor,STANDARD,45.25 | 45.25 | 45.25 | 45.25,Bacolor RON 91 45.25 45.25 45.25 - 45.25 #N/A
+report_337.pdf,7,Magalang,STANDARD,45.10 | 45.10 | 45.10 | 45.10,Magalang RON 91 45.10 45.10 45.10 - 45.10 #N/A
+report_337.pdf,7,Sta. Ana,STANDARD,42.85 | 42.85 | 42.85 | 42.85,Sta. Ana RON 91 42.85 42.85 42.85 - 42.85 #N/A
+report_337.pdf,7,Sto. Tomas,STANDARD,42.29 | 42.29 | 42.29 | 42.29,Sto. Tomas RON 91 42.29 42.29 42.29 - 42.29 #N/A
+report_338.pdf,7,Angeles City,STANDARD,45.90 | 45.90 | 46.79 | 46.79 | 47.96 | 47.96 | 44.60 | 44.60 | 51.03 | 51.03 | 56.87 | 56.87 | 54.00 | 48.65 | 44.60 | 56.87,Angeles City RON 91 45.90 45.90 46.79 46.79 47.96 47.96 44.60 44.60 51.03 51.03 56.87 56.87 54.00 48.65 44.60 - 56.87 #N/A
+report_338.pdf,7,Mabalacat,STANDARD,49.79 | 49.79 | 51.40 | 51.40 | 45.55 | 40.90 | 44.60 | 56.87,Mabalacat City RON 91 49.79 49.79 51.40 51.40 45.55 40.90 44.60 - 56.87 #N/A
+report_338.pdf,7,Lubao,STANDARD,42.45 | 43.15 | 42.45 | 43.15,Lubao RON 91 42.45 43.15 42.45 - 43.15 #N/A
+report_338.pdf,7,Mexico,STANDARD,42.15 | 42.15 | 42.15 | 42.15,Mexico RON 91 42.15 42.15 42.15 - 42.15 #N/A
+report_338.pdf,7,Arayat,STANDARD,44.55 | 44.55 | 44.55 | 44.55,Arayat RON 91 44.55 44.55 44.55 - 44.55 #N/A
+report_338.pdf,7,Bacolor,STANDARD,42.95 | 42.95 | 42.95 | 42.95,Bacolor RON 91 42.95 42.95 42.95 - 42.95 #N/A
+report_338.pdf,7,Magalang,STANDARD,43.25 | 43.25 | 43.25 | 43.25,Magalang RON 91 43.25 43.25 43.25 - 43.25 #N/A
+report_338.pdf,7,Sta. Ana,STANDARD,42.95 | 42.95 | 42.95 | 42.95,Sta. Ana RON 91 42.95 42.95 42.95 - 42.95 #N/A
+report_338.pdf,7,Sto. Tomas,STANDARD,39.94 | 39.94 | 39.94 | 39.94,Sto. Tomas RON 91 39.94 39.94 39.94 - 39.94 #N/A
+report_339.pdf,7,Angeles City,STANDARD,45.65 | 45.65 | 46.50 | 46.50 | 47.96 | 47.96 | 44.60 | 44.60 | 50.78 | 50.78 | 48.00 | 48.40 | 44.60 | 50.78,Angeles City RON 91 45.65 45.65 46.50 46.50 47.96 47.96 44.60 44.60 50.78 50.78 48.00 48.40 44.60 - 50.78 #N/A
+report_339.pdf,7,Mabalacat,STANDARD,49.10 | 49.10 | 51.15 | 51.15 | 45.55 | 40.90 | 44.60 | 50.78,Mabalacat City RON 91 49.10 49.10 51.15 51.15 45.55 40.90 44.60 - 50.78 #N/A
+report_339.pdf,7,Lubao,STANDARD,42.20 | 43.05 | 42.20 | 43.05,Lubao RON 91 42.20 43.05 42.20 - 43.05 #N/A
+report_339.pdf,7,Mexico,STANDARD,41.90 | 41.90 | 41.90 | 41.90,Mexico RON 91 41.90 41.90 41.90 - 41.90 #N/A
+report_339.pdf,7,Arayat,STANDARD,44.40 | 44.40 | 44.40 | 44.40,Arayat RON 91 44.40 44.40 44.40 - 44.40 #N/A
+report_339.pdf,7,Bacolor,STANDARD,42.95 | 42.95 | 42.95 | 42.95,Bacolor RON 91 42.95 42.95 42.95 - 42.95 #N/A
+report_339.pdf,7,Magalang,STANDARD,43.00 | 43.00 | 43.00 | 43.00,Magalang RON 91 43.00 43.00 43.00 - 43.00 #N/A
+report_339.pdf,7,Sta. Ana,STANDARD,42.70 | 42.70 | 42.70 | 42.70,Sta. Ana RON 91 42.70 42.70 42.70 - 42.70 #N/A
+report_339.pdf,7,Sto. Tomas,STANDARD,39.50 | 39.50 | 39.50 | 39.50,Sto. Tomas RON 91 39.50 39.50 39.50 - 39.50 #N/A
+report_340.pdf,7,Angeles City,STANDARD,46.70 | 46.70 | 47.59 | 47.59 | 48.73 | 48.73 | 48.66 | 45.20 | 51.83 | 51.83 | 57.67 | 57.67 | 49.05 | 49.45 | 45.20 | 57.67,Angeles City RON 91 46.70 46.70 47.59 47.59 48.73 48.73 48.66 45.20 51.83 51.83 57.67 57.67 49.05 49.45 45.20 - 57.67 #N/A
+report_340.pdf,7,Mabalacat,STANDARD,50.19 | 50.19 | 52.20 | 52.20 | 45.45 | 40.90 | 45.20 | 57.67,Mabalacat City RON 91 50.19 50.19 52.20 52.20 45.45 40.90 45.20 - 57.67 #N/A
+report_340.pdf,7,Lubao,STANDARD,43.25 | 44.10 | 43.25 | 44.10,Lubao RON 91 43.25 44.10 43.25 - 44.10 #N/A
+report_340.pdf,7,Mexico,STANDARD,42.60 | 42.60 | 42.60 | 42.60,Mexico RON 91 42.60 42.60 42.60 - 42.60 #N/A
+report_340.pdf,7,Arayat,STANDARD,44.80 | 44.80 | 44.80 | 44.80,Arayat RON 91 44.80 44.80 44.80 - 44.80 #N/A
+report_340.pdf,7,Bacolor,STANDARD,43.35 | 43.35 | 43.35 | 43.35,Bacolor RON 91 43.35 43.35 43.35 - 43.35 #N/A
+report_340.pdf,7,Magalang,STANDARD,44.05 | 44.05 | 44.05 | 44.05,Magalang RON 91 44.05 44.05 44.05 - 44.05 #N/A
+report_340.pdf,7,Sta. Ana,STANDARD,42.99 | 42.99 | 42.99 | 42.99,Sta. Ana RON 91 42.99 42.99 42.99 - 42.99 #N/A
+report_340.pdf,7,Sto. Tomas,STANDARD,41.45 | 41.45 | 41.45 | 41.45,Sto. Tomas RON 91 41.45 41.45 41.45 - 41.45 #N/A
+report_342.pdf,6,Angeles City,STANDARD,45.20 | 45.20 | 47.68 | 47.68 | 44.85 | 44.85 | 52.05 | 52.05 | 59.20 | 59.20 | 53.30 | 53.30 | 44.85 | 59.20,Angeles City RON 91 45.20 45.20 47.68 47.68 44.85 44.85 52.05 52.05 59.20 59.20 53.30 53.30 44.85 - 59.20 #N/A
+report_342.pdf,6,Mabalacat,STANDARD,50.70 | 50.70 | 44.85 | 59.20,Pampanga Mabalacat City RON 91 50.70 50.70 44.85 - 59.20 #N/A
+report_343.pdf,5,Angeles City,STANDARD,46.45 | 46.45 | 47.09 | 47.09 | 48.96 | 48.96 | 48.41 | 44.85 | 53.30 | 53.30 | 57.42 | 57.42 | 48.80 | 50.35 | 44.85 | 57.42,Angeles City RON 91 46.45 46.45 47.09 47.09 48.96 48.96 48.41 44.85 53.30 53.30 57.42 57.42 48.80 50.35 44.85 - 57.42 #N/A
+report_343.pdf,5,Mabalacat,STANDARD,49.69 | 49.69 | 51.95 | 51.95 | 45.35 | 42.25 | 44.85 | 57.42,Mabalacat City RON 91 49.69 49.69 51.95 51.95 45.35 42.25 44.85 - 57.42 #N/A
+report_343.pdf,6,Lubao,STANDARD,43.00 | 44.85 | 43.00 | 44.85,Lubao RON 91 43.00 44.85 43.00 - 44.85 #N/A
+report_343.pdf,6,Mexico,STANDARD,42.70 | 42.70 | 42.70 | 42.70,Mexico RON 91 42.70 42.70 42.70 - 42.70 #N/A
+report_343.pdf,6,Arayat,STANDARD,44.60 | 44.60 | 44.60 | 44.60,Arayat RON 91 44.60 44.60 44.60 - 44.60 #N/A
+report_343.pdf,6,Bacolor,STANDARD,43.20 | 43.20 | 43.20 | 43.20,Bacolor RON 91 43.20 43.20 43.20 - 43.20 #N/A
+report_343.pdf,6,Magalang,STANDARD,42.25 | 42.25 | 42.25 | 42.25,Magalang RON 91 42.25 42.25 42.25 - 42.25 #N/A
+report_343.pdf,6,Sta. Ana,STANDARD,42.95 | 42.95 | 42.95 | 42.95,Sta. Ana RON 91 42.95 42.95 42.95 - 42.95 #N/A
+report_343.pdf,6,Sto. Tomas,STANDARD,40.49 | 40.49 | 40.49 | 40.49,Sto. Tomas RON 91 40.49 40.49 40.49 - 40.49 #N/A
+report_344.pdf,6,Angeles City,STANDARD,46.45 | 46.45 | 47.09 | 47.09 | 48.96 | 48.96 | 45.90 | 45.90 | 53.30 | 53.30 | 57.42 | 57.42 | 48.80 | 50.35 | 45.90 | 57.42,Angeles City RON 91 46.45 46.45 47.09 47.09 48.96 48.96 45.90 45.90 53.30 53.30 57.42 57.42 48.80 50.35 45.90 - 57.42 #N/A
+report_344.pdf,6,Mabalacat,STANDARD,50.09 | 50.09 | 51.95 | 51.95 | 45.35 | 45.35 | 45.90 | 57.42,Mabalacat City RON 91 50.09 50.09 51.95 51.95 45.35 45.35 45.90 - 57.42 #N/A
+report_344.pdf,6,Lubao,STANDARD,44.85 | 44.85 | 44.85 | 44.85,Lubao RON 91 44.85 44.85 44.85 - 44.85 #N/A
+report_345.pdf,7,Angeles City,STANDARD,45.25 | 45.25 | 46.14 | 46.14 | 47.96 | 47.96 | 44.60 | 44.60 | 52.10 | 52.10 | 56.22 | 56.22 | 53.35 | 48.15 | 44.60 | 56.22,Angeles City RON 91 45.25 45.25 46.14 46.14 47.96 47.96 44.60 44.60 52.10 52.10 56.22 56.22 53.35 48.15 44.60 - 56.22 #N/A
+report_345.pdf,7,Mabalacat,STANDARD,49.14 | 49.14 | 50.75 | 50.75 | 46.05 | 40.45 | 44.60 | 56.22,Mabalacat City RON 91 49.14 49.14 50.75 50.75 46.05 40.45 44.60 - 56.22 #N/A
+report_345.pdf,7,Lubao,STANDARD,41.80 | 42.65 | 41.80 | 42.65,Lubao RON 91 41.80 42.65 41.80 - 42.65 #N/A
+report_345.pdf,7,Mexico,STANDARD,41.50 | 41.50 | 41.50 | 41.50,Mexico RON 91 41.50 41.50 41.50 - 41.50 #N/A
+report_345.pdf,7,Arayat,STANDARD,43.95 | 43.95 | 43.95 | 43.95,Arayat RON 91 43.95 43.95 43.95 - 43.95 #N/A
+report_345.pdf,7,Bacolor,STANDARD,43.15 | 43.15 | 43.15 | 43.15,Bacolor RON 91 43.15 43.15 43.15 - 43.15 #N/A
+report_345.pdf,7,Magalang,STANDARD,42.25 | 42.25 | 42.25 | 42.25,Magalang RON 91 42.25 42.25 42.25 - 42.25 #N/A
+report_345.pdf,7,Sta. Ana,STANDARD,43.00 | 43.00 | 43.00 | 43.00,Sta. Ana RON 91 43.00 43.00 43.00 - 43.00 #N/A
+report_345.pdf,7,Sto. Tomas,STANDARD,39.29 | 39.29 | 39.29 | 39.29,Sto. Tomas RON 91 39.29 39.29 39.29 - 39.29 #N/A
+report_346.pdf,6,Angeles City,STANDARD,43.05 | 43.05 | 42.64 | 42.64 | 45.59 | 45.59 | 48.34 | 42.25 | 48.86 | 48.86 | 55.47 | 55.47 | 42.50 | 49.60 | 45.40 | 42.25 | 55.47,Angeles City RON 91 43.05 43.05 42.64 42.64 45.59 45.59 48.34 42.25 48.86 48.86 55.47 55.47 42.50 49.60 45.40 42.25 - 55.47 #N/A
+report_346.pdf,6,Mabalacat,STANDARD,44.74 | 44.74 | 47.00 | 47.50 | 45.40 | 45.40 | 42.25 | 55.47,Mabalacat City RON 91 44.74 44.74 47.00 47.50 45.40 45.40 42.25 - 55.47 #N/A
+report_346.pdf,6,Lubao,STANDARD,39.80 | 39.80 | 39.80 | 39.80,Lubao RON 91 39.80 39.80 39.80 - 39.80 #N/A
+report_347.pdf,6,Angeles City,STANDARD,43.10 | 43.10 | 44.24 | 44.24 | 45.98 | 45.98 | 47.94 | 42.85 | 49.95 | 49.95 | 57.07 | 57.07 | 45.45 | 45.45 | 42.85 | 57.07,Angeles City RON 91 43.10 43.10 44.24 44.24 45.98 45.98 47.94 42.85 49.95 49.95 57.07 57.07 45.45 45.45 42.85 - 57.07 #N/A
+report_347.pdf,6,Mabalacat,STANDARD,46.34 | 46.34 | 49.10 | 49.10 | 42.85 | 57.07,Pampanga Mabalacat City RON 91 46.34 46.34 49.10 49.10 42.85 - 57.07 #N/A
+report_348.pdf,6,Angeles City,STANDARD,44.30 | 44.30 | 44.94 | 44.94 | 45.39 | 45.39 | 48.64 | 43.95 | 51.15 | 51.15 | 46.65 | 46.65 | 43.95 | 51.15,Angeles City RON 91 44.30 44.30 44.94 44.94 45.39 45.39 48.64 43.95 51.15 51.15 46.65 46.65 43.95 - 51.15 #N/A
+report_348.pdf,6,Mabalacat,STANDARD,47.54 | 47.54 | 50.30 | 50.30 | 43.95 | 51.15,Pampanga Mabalacat City RON 91 47.54 47.54 50.30 50.30 43.95 - 51.15 #N/A
+report_349.pdf,6,Angeles City,STANDARD,41.95 | 41.95 | 42.54 | 42.54 | 43.78 | 43.78 | 48.24 | 41.40 | 47.76 | 47.76 | 54.37 | 54.37 | 42.50 | 48.50 | 45.55 | 41.40 | 54.37,Angeles City RON 91 41.95 41.95 42.54 42.54 43.78 43.78 48.24 41.40 47.76 47.76 54.37 54.37 42.50 48.50 45.55 41.40 - 54.37 #N/A
+report_349.pdf,6,Mabalacat,STANDARD,44.54 | 44.54 | 55.85 | 55.85 | 39.55 | 39.55 | 41.40 | 54.37,Mabalacat City RON 91 44.54 44.54 55.85 55.85 39.55 39.55 41.40 - 54.37 #N/A
+report_349.pdf,6,Lubao,STANDARD,38.05 | 38.05 | 38.05 | 38.05,Lubao RON 91 38.05 38.05 38.05 - 38.05 #N/A
+report_350.pdf,6,Angeles City,STANDARD,42.95 | 42.95 | 42.54 | 42.54 | 44.59 | 44.59 | 42.40 | 42.40 | 48.76 | 48.76 | 54.37 | 54.37 | 43.50 | 44.95 | 45.55 | 42.40 | 54.37,Angeles City RON 91 42.95 42.95 42.54 42.54 44.59 44.59 42.40 42.40 48.76 48.76 54.37 54.37 43.50 44.95 45.55 42.40 - 54.37 #N/A
+report_350.pdf,6,Mabalacat,STANDARD,44.64 | 44.64 | 47.00 | 47.00 | 39.55 | 39.55 | 42.40 | 54.37,Mabalacat City RON 91 44.64 44.64 47.00 47.00 39.55 39.55 42.40 - 54.37 #N/A
+report_350.pdf,6,Lubao,STANDARD,38.05 | 38.05 | 38.05 | 38.05,Lubao RON 91 38.05 38.05 38.05 - 38.05 #N/A
+report_351.pdf,6,Angeles City,STANDARD,42.80 | 42.80 | 42.39 | 42.39 | 45.59 | 45.59 | 42.25 | 42.25 | 48.61 | 48.61 | 55.22 | 55.22 | 43.30 | 44.80 | 45.40 | 42.25 | 55.22,Angeles City RON 91 42.80 42.80 42.39 42.39 45.59 45.59 42.25 42.25 48.61 48.61 55.22 55.22 43.30 44.80 45.40 42.25 - 55.22 #N/A
+report_351.pdf,6,Mabalacat,STANDARD,44.49 | 44.49 | 47.25 | 47.25 | 40.40 | 40.40 | 42.25 | 55.22,Mabalacat City RON 91 44.49 44.49 47.25 47.25 40.40 40.40 42.25 - 55.22 #N/A
+report_351.pdf,6,Lubao,STANDARD,39.35 | 39.35 | 39.35 | 39.35,Lubao RON 91 39.35 39.35 39.35 - 39.35 #N/A
+report_352.pdf,6,Angeles City,STANDARD,42.70 | 42.70 | 46.28 | 46.28 | 49.40 | 49.40 | 46.50 | 46.50 | 51.57 | 51.57 | 40.50 | 46.40 | 40.50 | 51.57,Angeles City RON 91 42.70 42.70 46.28 46.28 49.40 49.40 46.50 46.50 51.57 51.57 40.50 46.40 40.50 - 51.57 #N/A
+report_352.pdf,6,Mabalacat,STANDARD,41.74 | 41.74 | 40.59 | 53.05 | 40.50 | 51.57,Pampanga Mabalacat City RON 91 41.74 41.74 40.59 53.05 40.50 - 51.57 #N/A
+report_353.pdf,6,Angeles City,STANDARD,42.95 | 42.95 | 46.28 | 46.28 | 49.40 | 49.40 | 46.75 | 46.75 | 51.57 | 51.57 | 40.50 | 45.95 | 40.50 | 51.57,Angeles City RON 91 42.95 42.95 46.28 46.28 49.40 49.40 46.75 46.75 51.57 51.57 40.50 45.95 40.50 - 51.57 #N/A
+report_353.pdf,6,Mabalacat,STANDARD,40.99 | 40.99 | 40.59 | 53.30 | 40.50 | 51.57,Pampanga Mabalacat City RON 91 40.99 40.99 40.59 53.30 40.50 - 51.57 #N/A
+report_354.pdf,6,Angeles City,STANDARD,39.90 | 39.90 | 46.49 | 46.49 | 46.19 | 39.90 | 45.71 | 45.71 | 52.32 | 42.00 | 47.15 | 39.90 | 52.32 | 39.90,Angeles City RON 91 39.90 39.90 46.49 46.49 46.19 39.90 45.71 45.71 52.32 42.00 47.15 39.90 - 52.32 39.90
+report_354.pdf,6,Mabalacat,STANDARD,42.49 | 42.49 | 53.80 | 53.80 | 39.90 | 52.32,Pampanga Mabalacat City RON 91 42.49 42.49 53.80 53.80 39.90 - 52.32 #N/A
+report_355.pdf,6,Angeles City,STANDARD,40.70 | 40.70 | 42.74 | 42.74 | 44.78 | 44.78 | 47.58 | 47.58 | 44.50 | 44.50 | 40.00 | 43.70 | 42.05 | 40.00 | 47.58,Angeles City RON 91 40.70 40.70 42.74 42.74 44.78 44.78 47.58 47.58 44.50 44.50 40.00 43.70 42.05 40.00 - 47.58 #N/A
+report_355.pdf,6,Mabalacat,STANDARD,41.74 | 41.74 | 40.74 | 51.05 | 40.00 | 47.58,Mabalacat City RON 91 41.74 41.74 40.74 51.05 40.00 - 47.58 #N/A
+report_355.pdf,6,Lubao,STANDARD,33.90 | 33.90 | 33.90 | 33.90,Lubao RON 91 33.90 33.90 33.90 - 33.90 #N/A
+report_356.pdf,6,Angeles City,STANDARD,40.50 | 40.50 | 40.54 | 40.54 | 44.78 | 44.78 | 47.38 | 47.38 | 44.30 | 44.30 | 50.72 | 50.72 | 39.50 | 44.20 | 39.50 | 50.72,Angeles City RON 91 40.50 40.50 40.54 40.54 44.78 44.78 47.38 47.38 44.30 44.30 50.72 50.72 39.50 44.20 39.50 - 50.72 #N/A
+report_356.pdf,6,Mabalacat,STANDARD,41.54 | 41.54 | 40.54 | 50.85 | 39.50 | 50.72,Pampanga Mabalacat City RON 91 41.54 41.54 40.54 50.85 39.50 - 50.72 #N/A
+report_357.pdf,6,Angeles City,STANDARD,41.55 | 41.55 | 45.78 | 45.78 | 48.43 | 48.43 | 45.35 | 45.35 | 50.42 | 50.42 | 40.50 | 44.55 | 40.50 | 50.42,Angeles City RON 91 41.55 41.55 45.78 45.78 48.43 48.43 45.35 45.35 50.42 50.42 40.50 44.55 40.50 - 50.42 #N/A
+report_357.pdf,6,Mabalacat,STANDARD,40.59 | 51.90 | 40.50 | 50.42,Pampanga Mabalacat City RON 91 40.59 51.90 40.50 - 50.42 #N/A
+report_358.pdf,6,Angeles City,STANDARD,41.55 | 41.55 | 45.78 | 45.78 | 44.29 | 48.43 | 45.35 | 45.35 | 50.42 | 50.42 | 40.50 | 45.25 | 42.90 | 40.50 | 50.42,Angeles City RON 91 41.55 41.55 45.78 45.78 44.29 48.43 45.35 45.35 50.42 50.42 40.50 45.25 42.90 40.50 - 50.42 #N/A
+report_358.pdf,6,Mabalacat,STANDARD,41.59 | 41.59 | 40.59 | 51.90 | 40.50 | 50.42,Pampanga Mabalacat City RON 91 41.59 41.59 40.59 51.90 40.50 - 50.42 #N/A
+report_359.pdf,6,Angeles City,STANDARD,45.15 | 43.79 | 45.37 | 48.63 | 45.55 | 50.62 | 40.85 | 44.75 | 43.30 | 40.85 | 50.62,Angeles City RON 91 45.15 43.79 45.37 48.63 45.55 50.62 40.85 44.75 43.30 40.85 - 50.62 #N/A
+report_359.pdf,6,Mabalacat,STANDARD,43.29 | 43.58 | 53.50 | 40.85 | 50.62,Mabalacat City RON 91 43.29 43.58 53.50 40.85 - 50.62 #N/A
+report_359.pdf,6,Lubao,STANDARD,36.75 | 36.75 | 36.75,Lubao RON 91 36.75 36.75 - 36.75 #N/A
+report_360.pdf,6,Angeles City,STANDARD,45.25 | 45.25 | 43.89 | 43.89 | 45.37 | 45.37 | 48.73 | 48.73 | 45.65 | 45.65 | 50.72 | 50.72 | 40.85 | 45.55 | 40.85 | 50.72,Angeles City RON 91 45.25 45.25 43.89 43.89 45.37 45.37 48.73 48.73 45.65 45.65 50.72 50.72 40.85 45.55 40.85 - 50.72 #N/A
+report_360.pdf,6,Mabalacat,STANDARD,43.39 | 43.39 | 42.88 | 53.60 | 40.85 | 50.72,Pampanga Mabalacat City RON 91 43.39 43.39 42.88 53.60 40.85 - 50.72 #N/A
+report_361.pdf,6,Angeles City,STANDARD,45.15 | 45.15 | 43.79 | 43.79 | 45.87 | 45.87 | 48.63 | 48.63 | 45.55 | 45.55 | 50.72 | 50.72 | 40.75 | 44.75 | 43.20 | 40.75 | 50.72,Angeles City RON 91 45.15 45.15 43.79 43.79 45.87 45.87 48.63 48.63 45.55 45.55 50.72 50.72 40.75 44.75 43.20 40.75 - 50.72 #N/A
+report_361.pdf,6,Mabalacat,STANDARD,43.29 | 43.29 | 42.79 | 52.10 | 40.75 | 50.72,Mabalacat City RON 91 43.29 43.29 42.79 52.10 40.75 - 50.72 #N/A
+report_361.pdf,6,Lubao,STANDARD,36.60 | 36.60 | 36.60 | 36.60,Lubao RON 91 36.60 36.60 36.60 - 36.60 #N/A
+report_362.pdf,6,Angeles City,STANDARD,44.90 | 45.87 | 48.38 | 45.30 | 50.37 | 40.50 | 44.50 | 40.50 | 50.37,Angeles City RON 91 44.90 45.87 48.38 45.30 50.37 40.50 44.50 40.50 - 50.37 #N/A
+report_362.pdf,6,Mabalacat,STANDARD,41.54 | 51.85 | 40.50 | 50.37,Mabalacat City RON 91 41.54 51.85 40.50 - 50.37 #N/A
+report_362.pdf,6,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_363.pdf,6,Angeles City,STANDARD,41.50 | 41.50 | 43.54 | 43.54 | 45.87 | 45.87 | 48.38 | 48.38 | 45.30 | 50.37 | 50.37 | 44.50 | 44.50 | 41.50 | 50.37,Angeles City RON 91 41.50 41.50 43.54 43.54 45.87 45.87 48.38 48.38 45.30 50.37 50.37 44.50 44.50 41.50 - 50.37 #N/A
+report_363.pdf,6,Mabalacat,STANDARD,42.54 | 42.54 | 41.54 | 51.85 | 41.50 | 50.37,Mabalacat City RON 91 42.54 42.54 41.54 51.85 41.50 - 50.37 #N/A
+report_363.pdf,6,Lubao,STANDARD,0.00 | 0.00,Lubao RON 91 0.00 - 0.00 #N/A
+report_364.pdf,6,Angeles City,STANDARD,45.65 | 45.65 | 45.34 | 45.34 | 46.57 | 46.57 | 49.78 | 49.78 | 46.05 | 46.05 | 41.55 | 51.12 | 45.95 | 44.45 | 43.15 | 41.55 | 51.12,Angeles City RON 91 45.65 45.65 45.34 45.34 46.57 46.57 49.78 49.78 46.05 46.05 41.55 51.12 45.95 44.45 43.15 41.55 - 51.12 #N/A
+report_364.pdf,6,Mabalacat,STANDARD,44.32 | 44.32 | 45.20 | 54.00 | 41.55 | 51.12,Mabalacat City RON 91 44.32 44.32 45.20 54.00 41.55 - 51.12 #N/A
+report_364.pdf,6,Lubao,STANDARD,36.15 | 36.15 | 36.15 | 36.15,Lubao RON 91 36.15 36.15 36.15 - 36.15 #N/A
+report_365.pdf,6,Angeles City,STANDARD,45.35 | 45.35 | 45.04 | 45.04 | 45.76 | 45.76 | 45.69 | 48.83 | 45.75 | 45.75 | 41.25 | 50.82 | 46.20 | 43.70 | 42.50 | 41.25 | 50.82,Angeles City RON 91 45.35 45.35 45.04 45.04 45.76 45.76 45.69 48.83 45.75 45.75 41.25 50.82 46.20 43.70 42.50 41.25 - 50.82 #N/A
+report_365.pdf,6,Mabalacat,STANDARD,44.02 | 44.02 | 44.56 | 53.70 | 41.25 | 50.82,Mabalacat City RON 91 44.02 44.02 44.56 53.70 41.25 - 50.82 #N/A
+report_365.pdf,6,Lubao,STANDARD,36.15 | 36.15 | 36.15 | 36.15,Lubao RON 91 36.15 36.15 36.15 - 36.15 #N/A
+report_366.pdf,6,Angeles City,STANDARD,45.65 | 45.65 | 45.34 | 45.34 | 46.57 | 46.57 | 49.78 | 49.78 | 46.05 | 46.05 | 41.55 | 51.12 | 45.95 | 44.45 | 43.15 | 41.55 | 51.12,Angeles City RON 91 45.65 45.65 45.34 45.34 46.57 46.57 49.78 49.78 46.05 46.05 41.55 51.12 45.95 44.45 43.15 41.55 - 51.12 #N/A
+report_366.pdf,6,Mabalacat,STANDARD,44.32 | 44.32 | 45.20 | 54.00 | 41.55 | 51.12,Mabalacat City RON 91 44.32 44.32 45.20 54.00 41.55 - 51.12 #N/A
+report_366.pdf,6,Lubao,STANDARD,36.15 | 36.15 | 36.15 | 36.15,Lubao RON 91 36.15 36.15 36.15 - 36.15 #N/A
+report_367.pdf,6,Angeles City,STANDARD,44.95 | 43.59 | 44.48 | 45.29 | 48.43 | 45.35 | 40.85 | 44.55 | 43.30 | 40.85 | 48.43,Angeles City RON 91 44.95 43.59 44.48 45.29 48.43 45.35 40.85 44.55 43.30 40.85 - 48.43 #N/A
+report_367.pdf,6,Mabalacat,STANDARD,43.62 | 43.58 | 40.85 | 48.43,Mabalacat City RON 91 43.62 43.58 40.85 - 48.43 #N/A
+report_367.pdf,6,Lubao,STANDARD,36.15 | 36.15 | 36.15,Lubao RON 91 36.15 36.15 - 36.15 #N/A
+report_368.pdf,6,Angeles City,STANDARD,45.92 | 45.92 | 45.74 | 45.74 | 44.89 | 48.68 | 46.50 | 46.50 | 41.25 | 38.16 | 44.15 | 42.45 | 38.16 | 48.68,Angeles City RON 91 45.92 45.92 45.74 45.74 44.89 48.68 46.50 46.50 41.25 38.16 44.15 42.45 38.16 - 48.68 #VALUE!
+report_368.pdf,6,Mabalacat,STANDARD,44.72 | 44.72 | 44.10 | 52.90 | 38.16 | 48.68,Pampanga Mabalacat City RON 91 44.72 44.72 44.10 52.90 38.16 - 48.68 #VALUE!
+report_369.pdf,6,Mabalacat,STANDARD,43.47 | 43.47 | 44.35 | 44.35 | 41.50 | 50.27,Pampanga Mabalacat City RON 91 43.47 43.47 44.35 44.35 41.50 - 50.27 #N/A
+report_370.pdf,7,Angeles City,STANDARD,45.40 | 45.40 | 45.09 | 45.09 | 45.97 | 45.97 | 45.75 | 49.53 | 45.80 | 45.80 | 41.50 | 50.87 | 45.70 | 43.30 | 41.50 | 50.87,Angeles City RON 91 45.40 45.40 45.09 45.09 45.97 45.97 45.75 49.53 45.80 45.80 41.50 50.87 45.70 43.30 41.50 - 50.87 #VALUE!
+report_370.pdf,7,Mabalacat,STANDARD,44.07 | 44.07 | 44.95 | 53.75 | 41.50 | 50.87,Pampanga Mabalacat City RON 91 44.07 44.07 44.95 53.75 41.50 - 50.87 #VALUE!
+report_371.pdf,6,Angeles City,STANDARD,45.55 | 45.55 | 45.24 | 45.24 | 46.57 | 46.57 | 45.89 | 49.68 | 45.95 | 45.95 | 41.65 | 50.87 | 45.85 | 43.45 | 41.65 | 50.87,Angeles City RON 91 45.55 45.55 45.24 45.24 46.57 46.57 45.89 49.68 45.95 45.95 41.65 50.87 45.85 43.45 41.65 - 50.87 #VALUE!
+report_371.pdf,6,Mabalacat,STANDARD,44.22 | 44.22 | 45.10 | 53.90 | 41.65 | 50.87,Pampanga Mabalacat City RON 91 44.22 44.22 45.10 53.90 41.65 - 50.87 #VALUE!
+report_372.pdf,5,Angeles City,STANDARD,44.42 | 44.42 | 45.29 | 45.29 | 44.20 | 44.20 | 47.98 | 47.98 | 45.00 | 45.00 | 39.60 | 50.07 | 44.20 | 42.55 | 39.60 | 50.07 | 44.20,Angeles City RON 91 44.42 44.42 45.29 45.29 44.20 44.20 47.98 47.98 45.00 45.00 39.60 50.07 44.20 42.55 39.60 - 50.07 44.20
+report_372.pdf,5,Mabalacat,STANDARD,43.27 | 43.27 | 44.15 | 51.80 | 39.60 | 50.07,Pampanga Mabalacat City RON 91 43.27 43.27 44.15 51.80 39.60 - 50.07 #N/A
+report_373.pdf,7,Angeles City,STANDARD,45.32 | 45.32 | 45.14 | 45.17 | 44.20 | 44.20 | 44.92 | 47.98 | 45.90 | 45.90 | 40.60 | 49.42 | 43.55 | 41.85 | 40.60 | 49.42,Angeles City RON 91 45.32 45.32 45.14 45.17 44.20 44.20 44.92 47.98 45.90 45.90 40.60 49.42 43.55 41.85 40.60 - 49.42 #N/A
+report_373.pdf,7,Mabalacat,STANDARD,44.12 | 44.12 | 43.50 | 51.12 | 40.60 | 49.42,Pampanga Mabalacat City RON 91 44.12 44.12 43.50 51.12 40.60 - 49.42 #N/A
+report_374.pdf,6,Angeles City,STANDARD,45.97 | 45.97 | 45.79 | 45.79 | 48.63 | 48.63 | 46.55 | 46.55 | 41.25 | 41.25 | 42.50 | 42.50 | 41.25 | 48.63,Angeles City RON 91 45.97 45.97 45.79 45.79 48.63 48.63 46.55 46.55 41.25 41.25 42.50 42.50 41.25 - 48.63 #VALUE!
+report_374.pdf,6,Mabalacat,STANDARD,44.77 | 44.77 | 44.15 | 44.15 | 41.25 | 48.63,Pampanga Mabalacat City RON 91 44.77 44.77 44.15 44.15 41.25 - 48.63 #VALUE!
+report_375.pdf,6,Angeles City,STANDARD,45.87 | 45.87 | 48.53 | 48.53 | 46.45 | 46.45 | 41.25 | 41.25 | 43.10 | 42.40 | 41.25 | 48.53,Angeles City RON 91 45.87 45.87 48.53 48.53 46.45 46.45 41.25 41.25 43.10 42.40 41.25 - 48.53 #N/A
+report_375.pdf,6,Mabalacat,STANDARD,44.05 | 44.05 | 41.25 | 48.53,Pampanga Mabalacat City RON 91 44.05 44.05 41.25 - 48.53 #N/A
+report_376.pdf,7,Angeles City,STANDARD,46.17 | 46.17 | 45.14 | 45.14 | 46.75 | 46.75 | 41.25 | 50.27 | 45.10 | 45.10 | 41.25 | 50.27,Angeles City RON 91 46.17 46.17 45.14 45.14 46.75 46.75 41.25 50.27 45.10 45.10 41.25 - 50.27 #VALUE!
+report_377.pdf,5,Angeles City,STANDARD,39.67 | 39.67 | 39.54 | 39.54 | 40.88 | 40.88 | 44.33 | 44.33 | 40.25 | 40.25 | 36.90 | 45.32 | 37.85 | 37.85 | 36.90 | 45.32 | 37.85,Angeles City RON 91 39.67 39.67 39.54 39.54 40.88 40.88 44.33 44.33 40.25 40.25 36.90 45.32 37.85 37.85 36.90 - 45.32 37.85
+report_377.pdf,5,Mabalacat,STANDARD,38.52 | 38.52 | 39.40 | 46.40 | 36.90 | 45.32,Pampanga Mabalacat City RON 91 38.52 38.52 39.40 46.40 36.90 - 45.32 #VALUE!
+report_378.pdf,5,Angeles City,STANDARD,41.42 | 41.42 | 41.29 | 41.29 | 42.68 | 42.68 | 45.68 | 45.68 | 42.00 | 42.00 | 38.40 | 47.07 | 41.20 | 41.20 | 38.40 | 47.07 | 41.20,Angeles City RON 91 41.42 41.42 41.29 41.29 42.68 42.68 45.68 45.68 42.00 42.00 38.40 47.07 41.20 41.20 38.40 - 47.07 41.20
+report_378.pdf,5,Mabalacat,STANDARD,40.27 | 40.27 | 41.15 | 48.15 | 38.40 | 47.07,Pampanga Mabalacat City RON 91 40.27 40.27 41.15 48.15 38.40 - 47.07 #N/A
+report_379.pdf,5,Angeles City,STANDARD,42.67 | 42.67 | 42.54 | 42.54 | 42.15 | 42.15 | 46.93 | 43.25 | 43.25 | 39.60 | 39.60 | 42.45 | 40.80 | 39.60 | 46.93,Angeles City RON 91 42.67 42.67 42.54 42.54 42.15 42.15 46.93 46..93 43.25 43.25 39.60 39.60 42.45 40.80 39.60 - 46.93 #N/A
+report_379.pdf,5,Mabalacat,STANDARD,41.52 | 41.52 | 42.40 | 50.05 | 39.60 | 46.93,Pampanga Mabalacat City RON 91 41.52 41.52 42.40 50.05 39.60 - 46.93 #N/A
+report_380.pdf,5,Angeles City,STANDARD,43.72 | 43.72 | 43.59 | 43.59 | 43.15 | 43.15 | 47.98 | 47.98 | 44.30 | 44.30 | 39.60 | 49.37 | 43.50 | 41.85 | 39.60 | 49.37,Angeles City RON 91 43.72 43.72 43.59 43.59 43.15 43.15 47.98 47.98 44.30 44.30 39.60 49.37 43.50 41.85 39.60 - 49.37 #N/A
+report_380.pdf,5,Mabalacat,STANDARD,42.57 | 42.57 | 43.45 | 51.10 | 39.60 | 49.37,Pampanga Mabalacat City RON 91 42.57 42.57 43.45 51.10 39.60 - 49.37 #N/A
+report_381.pdf,4,Angeles City,STANDARD,34.87 | 34.87 | 34.74 | 34.74 | 34.50 | 34.50 | 35.22 | 39.13 | 35.45 | 35.45 | 31.90 | 31.90 | 34.11 | 34.45 | 31.90 | 39.13,Angeles City RON 91 34.87 34.87 34.74 34.74 34.50 34.50 35.22 39.13 35.45 35.45 31.90 31.90 34.11 34.45 31.90 - 39.13 #VALUE!
+report_381.pdf,4,Mabalacat,STANDARD,33.72 | 33.72 | 34.60 | 41.60 | 31.90 | 39.13,Pampanga Mabalacat City RON 91 33.72 33.72 34.60 41.60 31.90 - 39.13 #VALUE!
+report_384.pdf,5,Angeles City,STANDARD,39.87 | 39.87 | 39.74 | 39.74 | 40.48 | 40.48 | 44.13 | 44.13 | 40.45 | 40.45 | 36.90 | 45.52 | 39.11 | 38.05 | 36.90 | 45.52,Angeles City RON 91 39.87 39.87 39.74 39.74 40.48 40.48 44.13 44.13 40.45 40.45 36.90 45.52 39.11 38.05 36.90 - 45.52 #VALUE!
+report_384.pdf,5,Mabalacat,STANDARD,38.72 | 38.72 | 39.60 | 46.60 | 36.90 | 45.52,Pampanga Mabalacat City RON 91 38.72 38.72 39.60 46.60 36.90 - 45.52 #VALUE!
+report_386.pdf,4,Angeles City,STANDARD,34.32 | 34.32 | 34.19 | 34.19 | 34.70 | 34.70 | 38.58 | 38.58 | 33.78 | 33.78 | 32.20 | 32.20 | 40.47 | 40.47 | 34.70 | 34.70 | 32.20 | 40.47 | 34.70,Angeles City RON 91 34.32 34.32 34.19 34.19 34.70 34.70 38.58 38.58 33.78 33.78 32.20 32.20 40.47 40.47 34.70 34.70 32.20 - 40.47 34.70
+report_386.pdf,4,Mabalacat,STANDARD,32.62 | 32.62 | 34.05 | 41.05 | 32.20 | 40.47,Pampanga Mabalacat City RON 91 32.62 32.62 34.05 41.05 32.20 - 40.47 #VALUE!
+report_387.pdf,4,Angeles City,STANDARD,34.87 | 34.87 | 34.70 | 34.70 | 39.13 | 39.13 | 34.33 | 34.33 | 32.75 | 32.75 | 34.11 | 34.25 | 32.75 | 39.13,Angeles City RON 91 34.87 34.87 34.70 34.70 39.13 39.13 34.33 34.33 32.75 32.75 34.11 34.25 32.75 - 39.13 #VALUE!
+report_387.pdf,4,Mabalacat,STANDARD,34.60 | 41.60 | 32.75 | 39.13,Pampanga Mabalacat City RON 91 34.60 41.60 32.75 - 39.13 #VALUE!
+report_388.pdf,4,Angeles City,STANDARD,45.24 | 45.24 | 49.63 | 49.63 | 51.27 | 51.27 | 45.24 | 51.27 | 45.24,Angeles City RON 91 45.24 45.24 49.63 49.63 51.27 51.27 45.24 - 51.27 45.24
+report_388.pdf,4,Mabalacat,STANDARD,43.92 | 43.92 | 45.24 | 51.27 | 43.92,Pampanga Mabalacat City RON 91 43.92 43.92 45.24 - 51.27 43.92
+report_389.pdf,4,Angeles City,STANDARD,44.17 | 44.17 | 44.04 | 44.04 | 46.87 | 46.87 | 43.63 | 43.63 | 50.07 | 50.07 | 43.63 | 50.07 | 43.63,Angeles City RON 91 44.17 44.17 44.04 44.04 46.87 46.87 43.63 43.63 50.07 50.07 43.63 - 50.07 43.63
+report_389.pdf,4,Mabalacat,STANDARD,42.72 | 42.72 | 51.15 | 51.15 | 43.63 | 50.07 | 42.72,Pampanga Mabalacat City RON 91 42.72 42.72 51.15 51.15 43.63 - 50.07 42.72
+report_391.pdf,5,Angeles City,STANDARD,40.17 | 40.17 | 40.04 | 40.04 | 44.43 | 44.43 | 39.63 | 39.63 | 39.63 | 44.43,Angeles City RON 91 40.17 40.17 40.04 40.04 44.43 44.43 39.63 39.63 39.63 - 44.43 #VALUE!
+report_391.pdf,5,Mabalacat,STANDARD,38.47 | 38.47 | 38.47 | 38.47 | 39.63 | 44.43 | 38.47,Pampanga Mabalacat City RON 91 38.47 38.47 38.47 38.47 39.63 - 44.43 38.47
+report_393.pdf,4,Angeles City,STANDARD,45.30 | 45.30 | 46.62 | 46.62 | 48.49 | 48.49 | 49.56 | 49.56 | 47.48 | 47.48 | 44.10 | 52.20 | 44.10 | 52.20,Angeles City RON 91 45.30 45.30 46.62 46.62 48.49 48.49 49.56 49.56 47.48 47.48 44.10 52.20 44.10 - 52.20 #N/A
+report_393.pdf,4,Mabalacat,STANDARD,43.75 | 43.75 | 52.28 | 52.28 | 44.10 | 52.20,Pampanga Mabalacat City RON 91 43.75 43.75 52.28 52.28 44.10 - 52.20 #N/A
+report_394.pdf,4,Angeles City,STANDARD,0.00 | 0.00,Angeles City RON 91 0.00 - 0.00 #N/A
+report_394.pdf,4,Mabalacat,STANDARD,0.00 | 0.00,Pampanga Mabalacat City RON 91 0.00 - 0.00 #VALUE!
+report_395.pdf,4,Angeles City,STANDARD,0.00 | 0.00,Angeles City RON 91 0.00 - 0.00 #N/A
+report_395.pdf,4,Mabalacat,STANDARD,46.34 | 46.34 | 48.84 | 48.54 | 49.61 | 49.61 | 52.57 | 52.57 | 0.00 | 0.00,Pampanga Mabalacat City RON 91 46.34 46.34 48.84 48.54 49.61 49.61 52.57 52.57 0.00 - 0.00 #VALUE!
+report_396.pdf,4,Angeles City,STANDARD,46.64 | 46.64 | 48.89 | 48.89 | 46.23 | 46.23 | 52.67 | 52.67 | 45.30 | 45.30 | 45.30 | 52.67 | 52.67,Angeles City RON 91 46.64 46.64 48.89 48.89 46.23 46.23 52.67 52.67 45.30 45.30 45.30 - 52.67 52.67
+report_396.pdf,4,Mabalacat,STANDARD,53.75 | 53.75 | 45.30 | 52.67,Pampanga Mabalacat City RON 91 53.75 53.75 45.30 - 52.67 #N/A
+report_397.pdf,4,Angeles City,STANDARD,48.05 | 48.05 | 49.37 | 49.37 | 50.89 | 50.89 | 52.31 | 52.31 | 45.90 | 54.95 | 45.90 | 54.95 | 52.31,Angeles City RON 91 48.05 48.05 49.37 49.37 50.89 50.89 52.31 52.31 45.90 54.95 45.90 - 54.95 52.31
+report_397.pdf,4,Mabalacat,STANDARD,55.03 | 55.03 | 45.90 | 54.95,Pampanga Mabalacat City RON 91 55.03 55.03 45.90 - 54.95 #VALUE!
+report_398.pdf,4,Angeles City,STANDARD,46.90 | 46.90 | 49.58 | 49.58 | 51.16 | 51.16 | 44.60 | 53.80 | 44.60 | 53.80 | 51.16,Angeles City RON 91 46.90 46.90 49.58 49.58 51.16 51.16 44.60 53.80 44.60 - 53.80 51.16
+report_398.pdf,4,Mabalacat,STANDARD,48.77 | 48.77 | 53.88 | 53.88 | 44.60 | 53.80,Pampanga Mabalacat City RON 91 48.77 48.77 53.88 53.88 44.60 - 53.80 #VALUE!
+report_399.pdf,4,Angeles City,STANDARD,48.94 | 47.20 | 50.66 | 45.30 | 53.40 | 50.64 | 45.30 | 53.40,Angeles City RON 91 48.94 47.20 50.66 45.30 53.40 50.64 45.30 - 53.40 #N/A
+report_399.pdf,4,Mabalacat,STANDARD,45.85 | 45.85 | 45.30 | 53.40,Pampanga Mabalacat City RON 91 45.85 45.85 45.30 - 53.40 #N/A
+report_400.pdf,4,Angeles City,STANDARD,47.80 | 47.80 | 47.71 | 47.71 | 49.45 | 49.45 | 50.96 | 50.96 | 53.65 | 53.65 | 47.70 | 47.70 | 47.70 | 53.65 | 50.96,Angeles City RON 91 47.80 47.80 47.71 47.71 49.45 49.45 50.96 50.96 53.65 53.65 47.70 47.70 47.70 - 53.65 50.96
+report_400.pdf,4,Mabalacat,STANDARD,46.70 | 46.70 | 47.70 | 53.65 | 50.96,Pampanga Mabalacat City RON 91 46.70 46.70 47.70 - 53.65 50.96
+report_401.pdf,4,Angeles City,STANDARD,47.50 | 47.50 | 49.45 | 49.45 | 51.76 | 51.76 | 47.50 | 51.76 | 51.76,Angeles City RON 91 47.50 47.50 49.45 49.45 51.76 51.76 47.50 - 51.76 51.76
+report_401.pdf,4,Mabalacat,STANDARD,47.50 | 51.76,Pampanga Mabalacat City RON 91 47.50 - 51.76 #VALUE!
+report_402.pdf,3,Angeles City,STANDARD,47.30 | 47.30 | 47.40 | 47.40 | 49.45 | 49.45 | 48.10 | 51.56 | 47.88 | 47.88 | 45.45 | 45.45 | 45.45 | 51.56 | 45.45,Angeles City RON 91 47.30 47.30 47.40 47.40 49.45 49.45 48.10 51.56 47.88 47.88 45.45 45.45 45.45 - 51.56 45.45
+report_402.pdf,3,Mabalacat,STANDARD,45.45 | 51.56,Pampanga Mabalacat City RON 91 45.45 - 51.56 #VALUE!
+report_403.pdf,4,Angeles City,STANDARD,47.20 | 47.20 | 49.94 | 49.94 | 51.46 | 51.46 | 46.10 | 54.20 | 50.05 | 50.05 | 46.10 | 54.20 | 51.46,Angeles City RON 91 47.20 47.20 49.94 49.94 51.46 51.46 46.10 54.20 50.05 50.05 46.10 - 54.20 51.46
+report_403.pdf,4,Mabalacat,STANDARD,55.29 | 55.29 | 46.10 | 54.20 | 51.46,Pampanga Mabalacat City RON 91 55.29 55.29 46.10 - 54.20 51.46
+report_404.pdf,4,Angeles City,STANDARD,46.40 | 46.40 | 49.99 | 49.99 | 47.20 | 50.66 | 47.48 | 47.48 | 46.80 | 53.40 | 51.19 | 51.19 | 46.40 | 53.40 | 51.19,Angeles City RON 91 46.40 46.40 49.99 49.99 47.20 50.66 47.48 47.48 46.80 53.40 51.19 51.19 46.40 - 53.40 51.19
+report_404.pdf,4,Mabalacat,STANDARD,46.40 | 46.40 | 46.40 | 53.40,Pampanga Mabalacat City RON 91 46.40 46.40 46.40 - 53.40 #N/A
+report_405.pdf,4,Angeles City,STANDARD,48.94 | 48.94 | 47.20 | 50.66 | 43.40 | 43.40 | 43.40 | 50.66 | 43.40,Angeles City RON 91 48.94 48.94 47.20 50.66 43.40 43.40 43.40 - 50.66 43.40
+report_405.pdf,4,Mabalacat,STANDARD,46.40 | 46.40 | 43.40 | 50.66,Pampanga Mabalacat City RON 91 46.40 46.40 43.40 - 50.66 #VALUE!
+report_406.pdf,4,Angeles City,STANDARD,45.95 | 45.95 | 47.98 | 47.98 | 52.95 | 52.95 | 45.95 | 52.95 | 52.95,Angeles City RON 91 45.95 45.95 47.98 47.98 52.95 52.95 45.95 - 52.95 52.95
+report_406.pdf,4,Mabalacat,STANDARD,45.95 | 52.95,Pampanga Mabalacat City RON 91 45.95 - 52.95 #VALUE!
+report_407.pdf,4,Angeles City,STANDARD,47.96 | 47.96 | 49.47 | 49.47 | 46.53 | 46.53 | 47.15 | 47.15 | 46.53 | 49.47 | 49.47,Angeles City RON 91 47.96 47.96 49.47 49.47 46.53 46.53 47.15 47.15 46.53 - 49.47 49.47
+report_407.pdf,4,Mabalacat,STANDARD,46.74 | 46.74 | 53.54 | 53.54 | 46.53 | 49.47 | 49.47,Pampanga Mabalacat City RON 91 46.74 46.74 53.54 53.54 46.53 - 49.47 49.47
+report_408.pdf,4,Angeles City,STANDARD,44.95 | 44.95 | 47.96 | 47.96 | 47.50 | 47.50 | 43.90 | 52.07 | 49.74 | 47.15 | 43.90 | 52.07 | 47.50,Angeles City RON 91 44.95 44.95 47.96 47.96 47.50 47.50 43.90 52.07 49.74 47.15 43.90 - 52.07 47.50
+report_408.pdf,4,Mabalacat,STANDARD,44.95 | 44.95 | 43.90 | 52.07 | 47.50,Pampanga Mabalacat City RON 91 44.95 44.95 43.90 - 52.07 47.50
+report_409.pdf,4,Angeles City,STANDARD,46.30 | 46.30 | 48.99 | 48.99 | 50.46 | 50.46 | 44.99 | 53.42 | 48.30 | 48.30 | 44.99 | 53.42 | 50.46,Angeles City RON 91 46.30 46.30 48.99 48.99 50.46 50.46 44.99 53.42 48.30 48.30 44.99 - 53.42 50.46
+report_409.pdf,4,Mabalacat,STANDARD,46.30 | 46.30 | 44.99 | 53.42 | 50.46,Pampanga Mabalacat City RON 91 46.30 46.30 44.99 - 53.42 50.46
+report_410.pdf,4,Angeles City,STANDARD,48.65 | 48.65 | 51.68 | 51.68 | 49.45 | 49.45 | 56.15 | 56.15 | 48.65 | 56.15 | 49.45,Angeles City RON 91 48.65 48.65 51.68 51.68 49.45 49.45 56.15 56.15 48.65 - 56.15 49.45
+report_410.pdf,4,Mabalacat,STANDARD,48.65 | 48.65 | 56.74 | 56.74 | 48.65 | 56.15,Pampanga Mabalacat City RON 91 48.65 48.65 56.74 56.74 48.65 - 56.15 #VALUE!
+report_411.pdf,4,Angeles City,STANDARD,46.15 | 46.15 | 47.65 | 47.65 | 46.10 | 49.32 | 47.53 | 47.53 | 43.95 | 52.42 | 47.40 | 47.40 | 43.95 | 52.42 | 47.40,Angeles City RON 91 46.15 46.15 47.65 47.65 46.10 49.32 47.53 47.53 43.95 52.42 47.40 47.40 43.95 - 52.42 47.40
+report_411.pdf,4,Mabalacat,STANDARD,46.59 | 46.59 | 43.95 | 52.42,Pampanga Mabalacat City RON 91 46.59 46.59 43.95 - 52.42 #N/A
+report_412.pdf,4,Angeles City,STANDARD,46.50 | 46.50 | 47.98 | 47.98 | 46.45 | 49.67 | 44.00 | 44.00 | 45.15 | 45.15 | 44.00 | 49.67 | 44.00,Angeles City RON 91 46.50 46.50 47.98 47.98 46.45 49.67 44.00 44.00 45.15 45.15 44.00 - 49.67 44.00
+report_412.pdf,4,Mabalacat,STANDARD,46.94 | 46.94 | 42.96 | 42.96 | 44.00 | 49.67,Pampanga Mabalacat City RON 91 46.94 46.94 42.96 42.96 44.00 - 49.67 #N/A
+report_413.pdf,4,Angeles City,STANDARD,46.40 | 46.40 | 48.29 | 48.29 | 46.85 | 49.57 | 44.30 | 44.30 | 47.15 | 47.15 | 44.30 | 49.57 | 44.30,Angeles City RON 91 46.40 46.40 48.29 48.29 46.85 49.57 44.30 44.30 47.15 47.15 44.30 - 49.57 44.30
+report_413.pdf,4,Mabalacat,STANDARD,53.64 | 53.64 | 44.30 | 49.57,Pampanga Mabalacat City RON 91 53.64 53.64 44.30 - 49.57 #N/A
+report_414.pdf,4,Angeles City,STANDARD,46.55 | 46.55 | 49.64 | 49.64 | 46.84 | 46.84 | 47.93 | 47.93 | 48.10 | 48.10 | 46.55 | 49.64 | 46.84,Angeles City RON 91 46.55 46.55 49.64 49.64 46.84 46.84 47.93 47.93 48.10 48.10 46.55 - 49.64 46.84
+report_414.pdf,4,Mabalacat,STANDARD,47.87 | 47.87 | 47.87 | 47.87,Pampanga Mabalacat City RON 91 47.87 47.87 47.87 - 47.87 #N/A
+report_416.pdf,4,Angeles City,STANDARD,45.05 | 45.05 | 48.14 | 48.14 | 46.74 | 46.74 | 46.04 | 48.22 | 46.43 | 46.43 | 45.55 | 51.57 | 47.90 | 47.90 | 45.05 | 51.57,Angeles City RON 91 45.05 45.05 48.14 48.14 46.74 46.74 46.04 48.22 46.43 46.43 45.55 51.57 47.90 47.90 45.05 - 51.57 #N/A
+report_416.pdf,4,Mabalacat,STANDARD,52.29 | 52.29 | 52.29 | 52.29,Pampanga Mabalacat City RON 91 52.29 52.29 52.29 - 52.29 #N/A
+report_417.pdf,4,Angeles City,STANDARD,45.35 | 45.35 | 48.44 | 48.44 | 46.99 | 46.99 | 48.52 | 48.52 | 46.73 | 46.73 | 51.87 | 51.87 | 49.19 | 48.20 | 45.35 | 51.87,Angeles City RON 91 45.35 45.35 48.44 48.44 46.99 46.99 48.52 48.52 46.73 46.73 51.87 51.87 49.19 48.20 45.35 - 51.87 #N/A
+report_417.pdf,4,Mabalacat,STANDARD,46.67 | 46.67 | 52.59 | 52.59 | 46.67 | 52.59,Pampanga Mabalacat City RON 91 46.67 46.67 52.59 52.59 46.67 - 52.59 #N/A

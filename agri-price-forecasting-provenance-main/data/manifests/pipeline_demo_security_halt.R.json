@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "demo_security_halt.R",
+    "sha256_hash": "f5d3f6b4777fd631a6e298ff1822809ade90b50173bbaef78e5174e9acb0b194",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3044022037d2d4037fbe3daa4c8e076836a74f8cea479e5b57608294ca8a1024ab150cc602206aae2bb8eec6273b9d5e7eb5b04c69f40b8e5f471e7ba35b716e05092b47a53f"
+}

@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/raw/Fuel_Prices_Pampanga_filtered.csv",
+    "sha256_hash": "1e050f9d3fe45bc9df5b513c48d81f6b53bd308c6ba59c89ffaea40a2490583c",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100fe4e89cf46c717f863a2993b2c92ede945f6e6388ae214d941e1b12bc8424782022100bbbc85af99eb016d5bc3aadf48cb7593228f197affa1e05de0654c582c921cb0"
+}

@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/psa_retail_prices_pampanga.csv",
+    "sha256_hash": "a5f73cd1375f478eb77e3d8fa65910880934146d155837844bc2ae53b7bcf257",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022036854e336b50fcb3023199c55a2ca3e507c527f41f2b37e6022c3658e13135c3022100b67937d88982d7039f55d9eac5d40c44562ae31c51e65ae0e757c7941cf7fef1"
+}

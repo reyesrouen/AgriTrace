@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/pagasa_normals.csv",
+    "sha256_hash": "9d063f2490006dbd1a55fb25681652f6b81e03d5497f25bd6ed9ea4d3a47380c",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100efe7e8951bac4e3016a6b45713de3bfb2a6f3a306a3ead865686f87bffacddaa02207ce054c0f540a9b1a102b24fb6e5e9f02a976195c70e31fb8ba4416b7de55dd0"
+}

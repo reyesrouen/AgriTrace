@@ -1,0 +1,2662 @@
+[
+  {
+    "year_week": "2020 W20",
+    "commodity": "Onions (red)",
+    "price_php_kg": 73.92,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W25",
+    "commodity": "Onions (red)",
+    "price_php_kg": 82.65,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W29",
+    "commodity": "Onions (red)",
+    "price_php_kg": 73.29,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W33",
+    "commodity": "Onions (red)",
+    "price_php_kg": 74.48,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W38",
+    "commodity": "Onions (red)",
+    "price_php_kg": 121.05,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W42",
+    "commodity": "Onions (red)",
+    "price_php_kg": 146.6,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W46",
+    "commodity": "Onions (red)",
+    "price_php_kg": 97.4,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W51",
+    "commodity": "Onions (red)",
+    "price_php_kg": 84.82,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W02",
+    "commodity": "Onions (red)",
+    "price_php_kg": 100,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W07",
+    "commodity": "Onions (red)",
+    "price_php_kg": 80.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W11",
+    "commodity": "Onions (red)",
+    "price_php_kg": 78.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W15",
+    "commodity": "Onions (red)",
+    "price_php_kg": 80.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W19",
+    "commodity": "Onions (red)",
+    "price_php_kg": 85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W24",
+    "commodity": "Onions (red)",
+    "price_php_kg": 76.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W28",
+    "commodity": "Onions (red)",
+    "price_php_kg": 93.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W32",
+    "commodity": "Onions (red)",
+    "price_php_kg": 116.42,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W37",
+    "commodity": "Onions (red)",
+    "price_php_kg": 112.01,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W41",
+    "commodity": "Onions (red)",
+    "price_php_kg": 129.01,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W46",
+    "commodity": "Onions (red)",
+    "price_php_kg": 132.15,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W50",
+    "commodity": "Onions (red)",
+    "price_php_kg": 159.21,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W02",
+    "commodity": "Onions (red)",
+    "price_php_kg": 189.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W07",
+    "commodity": "Onions (red)",
+    "price_php_kg": 159.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W11",
+    "commodity": "Onions (red)",
+    "price_php_kg": 68.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W15",
+    "commodity": "Onions (red)",
+    "price_php_kg": 63.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W19",
+    "commodity": "Onions (red)",
+    "price_php_kg": 73.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W24",
+    "commodity": "Onions (red)",
+    "price_php_kg": 76.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W28",
+    "commodity": "Onions (red)",
+    "price_php_kg": 86.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W33",
+    "commodity": "Onions (red)",
+    "price_php_kg": 132.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W37",
+    "commodity": "Onions (red)",
+    "price_php_kg": 141.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W41",
+    "commodity": "Onions (red)",
+    "price_php_kg": 188.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W46",
+    "commodity": "Onions (red)",
+    "price_php_kg": 253.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W50",
+    "commodity": "Onions (red)",
+    "price_php_kg": 297.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W02",
+    "commodity": "Onions (red)",
+    "price_php_kg": 456.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W07",
+    "commodity": "Onions (red)",
+    "price_php_kg": 260,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W11",
+    "commodity": "Onions (red)",
+    "price_php_kg": 121,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W15",
+    "commodity": "Onions (red)",
+    "price_php_kg": 111.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W20",
+    "commodity": "Onions (red)",
+    "price_php_kg": 165,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W24",
+    "commodity": "Onions (red)",
+    "price_php_kg": 172.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W28",
+    "commodity": "Onions (red)",
+    "price_php_kg": 170,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W33",
+    "commodity": "Onions (red)",
+    "price_php_kg": 167.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W37",
+    "commodity": "Onions (red)",
+    "price_php_kg": 160,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W41",
+    "commodity": "Onions (red)",
+    "price_php_kg": 139.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W46",
+    "commodity": "Onions (red)",
+    "price_php_kg": 118.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W50",
+    "commodity": "Onions (red)",
+    "price_php_kg": 128.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W03",
+    "commodity": "Onions (red)",
+    "price_php_kg": 145,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W07",
+    "commodity": "Onions (red)",
+    "price_php_kg": 102.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W11",
+    "commodity": "Onions (red)",
+    "price_php_kg": 80.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W16",
+    "commodity": "Onions (red)",
+    "price_php_kg": 73.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W20",
+    "commodity": "Onions (red)",
+    "price_php_kg": 92.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W24",
+    "commodity": "Onions (red)",
+    "price_php_kg": 101.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W29",
+    "commodity": "Onions (red)",
+    "price_php_kg": 103.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W33",
+    "commodity": "Onions (red)",
+    "price_php_kg": 107.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W37",
+    "commodity": "Onions (red)",
+    "price_php_kg": 104.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W42",
+    "commodity": "Onions (red)",
+    "price_php_kg": 101.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W46",
+    "commodity": "Onions (red)",
+    "price_php_kg": 94,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W50",
+    "commodity": "Onions (red)",
+    "price_php_kg": 96.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W03",
+    "commodity": "Onions (red)",
+    "price_php_kg": 127.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W07",
+    "commodity": "Onions (red)",
+    "price_php_kg": 155.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W11",
+    "commodity": "Onions (red)",
+    "price_php_kg": 128.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W16",
+    "commodity": "Onions (red)",
+    "price_php_kg": 109.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W20",
+    "commodity": "Onions (red)",
+    "price_php_kg": 119.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W24",
+    "commodity": "Onions (red)",
+    "price_php_kg": 127.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W29",
+    "commodity": "Onions (red)",
+    "price_php_kg": 133.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W33",
+    "commodity": "Onions (red)",
+    "price_php_kg": 163.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W38",
+    "commodity": "Onions (red)",
+    "price_php_kg": 167,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W42",
+    "commodity": "Onions (red)",
+    "price_php_kg": 153.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W46",
+    "commodity": "Onions (red)",
+    "price_php_kg": 185.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W51",
+    "commodity": "Onions (red)",
+    "price_php_kg": 235,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W03",
+    "commodity": "Onions (red)",
+    "price_php_kg": 176.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W07",
+    "commodity": "Onions (red)",
+    "price_php_kg": 135.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W11",
+    "commodity": "Onions (red)",
+    "price_php_kg": 95,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W16",
+    "commodity": "Onions (red)",
+    "price_php_kg": 75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W20",
+    "commodity": "Onions (red)",
+    "price_php_kg": 79.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W25",
+    "commodity": "Onions (red)",
+    "price_php_kg": 81.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W29",
+    "commodity": "Onions (red)",
+    "price_php_kg": 86.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W33",
+    "commodity": "Onions (red)",
+    "price_php_kg": 93.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W20",
+    "commodity": "Onions (white)",
+    "price_php_kg": 55.69,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W25",
+    "commodity": "Onions (white)",
+    "price_php_kg": 67.68,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W29",
+    "commodity": "Onions (white)",
+    "price_php_kg": 62.11,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W33",
+    "commodity": "Onions (white)",
+    "price_php_kg": 76.03,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W38",
+    "commodity": "Onions (white)",
+    "price_php_kg": 116.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W42",
+    "commodity": "Onions (white)",
+    "price_php_kg": 137.97,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W46",
+    "commodity": "Onions (white)",
+    "price_php_kg": 86.9,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W51",
+    "commodity": "Onions (white)",
+    "price_php_kg": 71.08,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W20",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 46.02,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W25",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 45.71,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W29",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 45.68,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W33",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 46.95,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W38",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 47.6,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W42",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 46.26,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W46",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 47.12,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W51",
+    "commodity": "Rice (premium)",
+    "price_php_kg": 47.95,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W20",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 41,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W25",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 39.61,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W29",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.15,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W33",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.4,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W38",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.34,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W42",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 36.65,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W46",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.85,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W51",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.05,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W02",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.98,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W07",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 36.9,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W11",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.1,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W15",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.25,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W19",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.13,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W24",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.25,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W28",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.58,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W32",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 36.48,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W37",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.03,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W41",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.13,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W46",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 36.86,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2021 W50",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.78,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W02",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.65,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W07",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.55,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W11",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.03,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W15",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.3,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W19",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.5,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W24",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.98,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W28",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.25,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W33",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.35,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W37",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.38,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W41",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.45,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W46",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.64,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2022 W50",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.7,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W02",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 39.65,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W07",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 39.75,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W11",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 40.13,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W15",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 40.23,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W20",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 40.88,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W24",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 41.5,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W28",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 41.78,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W33",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 44.28,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W37",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 48.75,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W41",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 44.48,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W46",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 48.25,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2023 W50",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 50.23,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W03",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 51.98,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W07",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 52.03,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W11",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 50.73,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W16",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 50.8,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W20",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 50.4,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W24",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 50.7,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W29",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 50.5,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W33",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 49.2,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W37",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 48.93,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W42",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 48.03,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W46",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 47.03,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2024 W50",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 47.23,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W03",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 46.73,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W07",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 43.78,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W11",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 42.33,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W16",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 40.85,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W20",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 39.8,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W24",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 38.8,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W29",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.83,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W33",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.03,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W38",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.3,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W42",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 36.9,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W46",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 37.68,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2025 W51",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 39.03,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W03",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 40.9,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W07",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 46.53,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W11",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 52.35,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W16",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 54.18,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W20",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 51.28,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W25",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 48.3,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W29",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 47.6,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2026 W33",
+    "commodity": "\"Rice (regular",
+    "price_php_kg": null,
+    "diesel_price_lag_7": 47.48,
+    "rainfall_lag_14": 65.5
+  },
+  {
+    "year_week": "2020 W20",
+    "commodity": "Rice (special)",
+    "price_php_kg": 48.77,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W29",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.94,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W33",
+    "commodity": "Rice (special)",
+    "price_php_kg": 51.02,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W38",
+    "commodity": "Rice (special)",
+    "price_php_kg": 50.34,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W42",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.11,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W46",
+    "commodity": "Rice (special)",
+    "price_php_kg": 50.05,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W51",
+    "commodity": "Rice (special)",
+    "price_php_kg": 50.18,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W02",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.78,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W07",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.33,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W24",
+    "commodity": "Rice (special)",
+    "price_php_kg": 50,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W28",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.55,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W32",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.93,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W37",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.3,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W41",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W46",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.73,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W50",
+    "commodity": "Rice (special)",
+    "price_php_kg": 50.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W02",
+    "commodity": "Rice (special)",
+    "price_php_kg": 50.45,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W07",
+    "commodity": "Rice (special)",
+    "price_php_kg": 50.93,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W28",
+    "commodity": "Rice (special)",
+    "price_php_kg": 52.23,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W33",
+    "commodity": "Rice (special)",
+    "price_php_kg": 52.48,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W37",
+    "commodity": "Rice (special)",
+    "price_php_kg": 52.7,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W41",
+    "commodity": "Rice (special)",
+    "price_php_kg": 52.85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W46",
+    "commodity": "Rice (special)",
+    "price_php_kg": 53.09,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W50",
+    "commodity": "Rice (special)",
+    "price_php_kg": 53.24,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W02",
+    "commodity": "Rice (special)",
+    "price_php_kg": 53.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W07",
+    "commodity": "Rice (special)",
+    "price_php_kg": 53.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W15",
+    "commodity": "Rice (special)",
+    "price_php_kg": 53.65,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W20",
+    "commodity": "Rice (special)",
+    "price_php_kg": 54.03,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W28",
+    "commodity": "Rice (special)",
+    "price_php_kg": 54.83,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W33",
+    "commodity": "Rice (special)",
+    "price_php_kg": 55.85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W37",
+    "commodity": "Rice (special)",
+    "price_php_kg": 57.58,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W41",
+    "commodity": "Rice (special)",
+    "price_php_kg": 55.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W46",
+    "commodity": "Rice (special)",
+    "price_php_kg": 57.2,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W50",
+    "commodity": "Rice (special)",
+    "price_php_kg": 58.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W03",
+    "commodity": "Rice (special)",
+    "price_php_kg": 60.05,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W07",
+    "commodity": "Rice (special)",
+    "price_php_kg": 59.93,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W11",
+    "commodity": "Rice (special)",
+    "price_php_kg": 59.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W24",
+    "commodity": "Rice (special)",
+    "price_php_kg": 59.08,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W29",
+    "commodity": "Rice (special)",
+    "price_php_kg": 58.53,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W33",
+    "commodity": "Rice (special)",
+    "price_php_kg": 57.83,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W37",
+    "commodity": "Rice (special)",
+    "price_php_kg": 57.58,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W42",
+    "commodity": "Rice (special)",
+    "price_php_kg": 56.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W46",
+    "commodity": "Rice (special)",
+    "price_php_kg": 56.03,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W50",
+    "commodity": "Rice (special)",
+    "price_php_kg": 56.08,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W03",
+    "commodity": "Rice (special)",
+    "price_php_kg": 55.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W07",
+    "commodity": "Rice (special)",
+    "price_php_kg": 54.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W11",
+    "commodity": "Rice (special)",
+    "price_php_kg": 54.45,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W16",
+    "commodity": "Rice (special)",
+    "price_php_kg": 52.65,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W29",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.48,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W33",
+    "commodity": "Rice (special)",
+    "price_php_kg": 48.53,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W38",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.03,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W42",
+    "commodity": "Rice (special)",
+    "price_php_kg": 48.85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W46",
+    "commodity": "Rice (special)",
+    "price_php_kg": 49.55,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W51",
+    "commodity": "Rice (special)",
+    "price_php_kg": 51.35,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W03",
+    "commodity": "Rice (special)",
+    "price_php_kg": 52.91,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W16",
+    "commodity": "Rice (special)",
+    "price_php_kg": 60,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W20",
+    "commodity": "Rice (special)",
+    "price_php_kg": 59.1,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W25",
+    "commodity": "Rice (special)",
+    "price_php_kg": 57.68,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W29",
+    "commodity": "Rice (special)",
+    "price_php_kg": 57.2,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W33",
+    "commodity": "Rice (special)",
+    "price_php_kg": 56.84,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W20",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.78,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W25",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 42.18,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W29",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 41.56,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W33",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 41.83,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W38",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.4,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W42",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 41.06,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W46",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 41.65,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W51",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.18,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W02",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 41.4,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W07",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 44.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W11",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.6,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W15",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W19",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W24",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W28",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.08,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W32",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.6,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W37",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.84,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W41",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 44.61,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W46",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 44.01,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W50",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 44.44,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W02",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 44.28,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W07",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.65,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W11",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 44.23,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W15",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.18,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W19",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.33,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W24",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 46.05,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W28",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 46.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W33",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 46.68,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W37",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 46.85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W41",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 47,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W46",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 47.18,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W50",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 47.6,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W02",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.08,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W07",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 47.83,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W11",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 47.95,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W15",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.03,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W20",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.18,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W24",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.3,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W28",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.48,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W33",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 49.78,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W37",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 53.03,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W41",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.93,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W46",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 52.93,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W50",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 53.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W03",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 54.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W07",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 54.95,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W11",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 54.43,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W16",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 54.43,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W20",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 53.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W24",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 54,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W29",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 53.65,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W33",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 52.85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W37",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 52.7,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W42",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 52.28,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W46",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 50.9,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W50",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 51.05,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W03",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 50.45,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W07",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 49.03,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W11",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.48,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W16",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 46,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W20",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 44.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W24",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.23,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W29",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 42.48,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W33",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 42.08,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W38",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 42.23,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W42",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 41.8,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W46",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 42.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W51",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 43.78,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W03",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 45.68,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W07",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 50.09,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W11",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 53.85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W16",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 55.33,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W20",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 53.22,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W25",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 50.73,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W29",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 49.05,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W33",
+    "commodity": "Rice (well milled)",
+    "price_php_kg": 48.09,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W20",
+    "commodity": "Tomatoes",
+    "price_php_kg": 48.91,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W25",
+    "commodity": "Tomatoes",
+    "price_php_kg": 21.6,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W29",
+    "commodity": "Tomatoes",
+    "price_php_kg": 29.8,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W33",
+    "commodity": "Tomatoes",
+    "price_php_kg": 58.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W38",
+    "commodity": "Tomatoes",
+    "price_php_kg": 58.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W42",
+    "commodity": "Tomatoes",
+    "price_php_kg": 77.18,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W46",
+    "commodity": "Tomatoes",
+    "price_php_kg": 103.22,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2020 W51",
+    "commodity": "Tomatoes",
+    "price_php_kg": 139.98,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W02",
+    "commodity": "Tomatoes",
+    "price_php_kg": 158.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W07",
+    "commodity": "Tomatoes",
+    "price_php_kg": 41.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W11",
+    "commodity": "Tomatoes",
+    "price_php_kg": 21.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W15",
+    "commodity": "Tomatoes",
+    "price_php_kg": 18.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W19",
+    "commodity": "Tomatoes",
+    "price_php_kg": 22.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W24",
+    "commodity": "Tomatoes",
+    "price_php_kg": 33.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W28",
+    "commodity": "Tomatoes",
+    "price_php_kg": 56.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W32",
+    "commodity": "Tomatoes",
+    "price_php_kg": 82.83,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W37",
+    "commodity": "Tomatoes",
+    "price_php_kg": 69.85,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W41",
+    "commodity": "Tomatoes",
+    "price_php_kg": 61.2,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W46",
+    "commodity": "Tomatoes",
+    "price_php_kg": 48.21,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2021 W50",
+    "commodity": "Tomatoes",
+    "price_php_kg": 41.42,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W02",
+    "commodity": "Tomatoes",
+    "price_php_kg": 37.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W07",
+    "commodity": "Tomatoes",
+    "price_php_kg": 43.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W11",
+    "commodity": "Tomatoes",
+    "price_php_kg": 53,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W15",
+    "commodity": "Tomatoes",
+    "price_php_kg": 83.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W19",
+    "commodity": "Tomatoes",
+    "price_php_kg": 78.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W24",
+    "commodity": "Tomatoes",
+    "price_php_kg": 56.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W28",
+    "commodity": "Tomatoes",
+    "price_php_kg": 36.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W33",
+    "commodity": "Tomatoes",
+    "price_php_kg": 39.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W37",
+    "commodity": "Tomatoes",
+    "price_php_kg": 47.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W41",
+    "commodity": "Tomatoes",
+    "price_php_kg": 103.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W46",
+    "commodity": "Tomatoes",
+    "price_php_kg": 109.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2022 W50",
+    "commodity": "Tomatoes",
+    "price_php_kg": 83.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W02",
+    "commodity": "Tomatoes",
+    "price_php_kg": 79.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W07",
+    "commodity": "Tomatoes",
+    "price_php_kg": 34.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W11",
+    "commodity": "Tomatoes",
+    "price_php_kg": 36.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W15",
+    "commodity": "Tomatoes",
+    "price_php_kg": 28.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W20",
+    "commodity": "Tomatoes",
+    "price_php_kg": 27.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W24",
+    "commodity": "Tomatoes",
+    "price_php_kg": 38.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W28",
+    "commodity": "Tomatoes",
+    "price_php_kg": 62.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W33",
+    "commodity": "Tomatoes",
+    "price_php_kg": 103.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W37",
+    "commodity": "Tomatoes",
+    "price_php_kg": 146.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W41",
+    "commodity": "Tomatoes",
+    "price_php_kg": 107.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W46",
+    "commodity": "Tomatoes",
+    "price_php_kg": 92.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2023 W50",
+    "commodity": "Tomatoes",
+    "price_php_kg": 46.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W03",
+    "commodity": "Tomatoes",
+    "price_php_kg": 54.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W07",
+    "commodity": "Tomatoes",
+    "price_php_kg": 99.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W11",
+    "commodity": "Tomatoes",
+    "price_php_kg": 59.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W16",
+    "commodity": "Tomatoes",
+    "price_php_kg": 54.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W20",
+    "commodity": "Tomatoes",
+    "price_php_kg": 52.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W24",
+    "commodity": "Tomatoes",
+    "price_php_kg": 65.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W29",
+    "commodity": "Tomatoes",
+    "price_php_kg": 154.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W33",
+    "commodity": "Tomatoes",
+    "price_php_kg": 127.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W37",
+    "commodity": "Tomatoes",
+    "price_php_kg": 71.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W42",
+    "commodity": "Tomatoes",
+    "price_php_kg": 78.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W46",
+    "commodity": "Tomatoes",
+    "price_php_kg": 123.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2024 W50",
+    "commodity": "Tomatoes",
+    "price_php_kg": 162.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W03",
+    "commodity": "Tomatoes",
+    "price_php_kg": 191.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W07",
+    "commodity": "Tomatoes",
+    "price_php_kg": 50.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W11",
+    "commodity": "Tomatoes",
+    "price_php_kg": 32.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W16",
+    "commodity": "Tomatoes",
+    "price_php_kg": 48.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W20",
+    "commodity": "Tomatoes",
+    "price_php_kg": 54.38,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W24",
+    "commodity": "Tomatoes",
+    "price_php_kg": 55,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W29",
+    "commodity": "Tomatoes",
+    "price_php_kg": 57.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W33",
+    "commodity": "Tomatoes",
+    "price_php_kg": 63.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W38",
+    "commodity": "Tomatoes",
+    "price_php_kg": 96.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W42",
+    "commodity": "Tomatoes",
+    "price_php_kg": 119.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W46",
+    "commodity": "Tomatoes",
+    "price_php_kg": 91.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2025 W51",
+    "commodity": "Tomatoes",
+    "price_php_kg": 103.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W03",
+    "commodity": "Tomatoes",
+    "price_php_kg": 145.75,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W07",
+    "commodity": "Tomatoes",
+    "price_php_kg": 56.25,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W11",
+    "commodity": "Tomatoes",
+    "price_php_kg": 33.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W16",
+    "commodity": "Tomatoes",
+    "price_php_kg": 35.63,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W20",
+    "commodity": "Tomatoes",
+    "price_php_kg": 46,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W25",
+    "commodity": "Tomatoes",
+    "price_php_kg": 56.88,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W29",
+    "commodity": "Tomatoes",
+    "price_php_kg": 67.5,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  },
+  {
+    "year_week": "2026 W33",
+    "commodity": "Tomatoes",
+    "price_php_kg": 83.13,
+    "diesel_price_lag_7": 65.5,
+    "rainfall_lag_14": 12
+  }
+]

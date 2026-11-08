@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-01-04",
+    "price_php_kg": 180,
+    "diesel_index": 100,
+    "typhoon_impact_index": 0
+  },
+  {
+    "date": "2026-01-11",
+    "price_php_kg": 185.5,
+    "diesel_index": 101.2,
+    "typhoon_impact_index": 0
+  },
+  {
+    "date": "2026-01-18",
+    "price_php_kg": 190,
+    "diesel_index": 102,
+    "typhoon_impact_index": 1
+  },
+  {
+    "date": "2026-01-25",
+    "price_php_kg": 195,
+    "diesel_index": 102.5,
+    "typhoon_impact_index": 0
+  },
+  {
+    "date": "2026-02-01",
+    "price_php_kg": 200,
+    "diesel_index": 103,
+    "typhoon_impact_index": 0
+  },
+  {
+    "date": "2026-02-08",
+    "price_php_kg": 198,
+    "diesel_index": 102.8,
+    "typhoon_impact_index": 0
+  }
+]

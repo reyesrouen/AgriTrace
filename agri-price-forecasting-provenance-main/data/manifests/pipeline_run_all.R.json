@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "run_all.R",
+    "sha256_hash": "a75420b8ee03272396c60f56e0ed9e32d8991b471efb42ef8319b3c31288f37d",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "30450220038bb34ef7f829467236ca8d2a2423943c8a178b992a2c01b110e04e069eabb4022100b0cf35f735180243487c2499d7f7fee02e3efea9e45d9f679556eb15dce869fe"
+}

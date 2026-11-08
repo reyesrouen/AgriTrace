@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/price_spike_sensitivity.csv",
+    "sha256_hash": "186ebff2b70e4c6b2add273a4c359b7f19f99c303a1423defa85c0d296516297",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "30450220097b365392360388011bd9ebbb46e5584fde81f5be370ab7833f4fb836a2e61f022100ea74280ab363ed2272acf5ec6a36430c4380b8d4aa91b0523e311d025a474b85"
+}

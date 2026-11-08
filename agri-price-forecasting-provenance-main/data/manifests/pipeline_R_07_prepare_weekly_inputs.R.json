@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "R/07_prepare_weekly_inputs.R",
+    "sha256_hash": "6e621ce69232a20ab8719ca3b8665c9439731ad54b119c0644e4557383ee323b",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100fbcaed7e86b14b10b06d496b098095f61b521fd3c04cc79347606f6c494aaeb902207b13f62d018e2b6830139245a2cc29e59f1a27367953b8feb7dbbbeea641c3d1"
+}

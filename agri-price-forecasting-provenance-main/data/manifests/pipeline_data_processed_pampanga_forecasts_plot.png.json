@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/pampanga_forecasts_plot.png",
+    "sha256_hash": "12400f147e5221f51dd3a15fe918d035f693f320461227d71495e628f4485650",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "30450221008d34d4b65bca8d9fe59591a188cae19b969947e77a67d730271a5c027b6e282c02203da6020de4eb05a42cba6550f7ee8ce04b54f35abb4fb3399fb5c098a9e67f4a"
+}

@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "R/03_forecasting_models.R",
+    "sha256_hash": "31b5f25d2b7a04a8afa0474a1e90ac5cd42e873015af9191603c2ca66cf4a24d",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100e1e1f9021bf6199a04b4450e69b77a1c1a80214503b95732861507c0bab4c6ed022021bae94aa5b0d204179642d8bfb58a48dbea3df1a1a8306157c96d52b2bb91fd"
+}

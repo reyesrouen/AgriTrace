@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/wfp_food_prices_phl.csv",
+    "sha256_hash": "d22a1e80b369a163b6df2bc06d03f71051f83b97c7ab806e5ee4a78101d29765",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100cf86dfca479269f6a8b5c24e4726f0a259a7400f9b8f05b23f5cb7c81be93c0602207e08d3759d2515fe33c00be70da19659ab839766d410d1b3fb6cf743dd5b9249"
+}

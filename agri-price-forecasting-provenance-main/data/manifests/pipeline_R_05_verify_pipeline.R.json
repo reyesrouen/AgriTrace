@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "R/05_verify_pipeline.R",
+    "sha256_hash": "51970198cc14dbe37c11af47ecb96f99b4670bd85d3b093bebe3d707618bb533",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100ae2b8b8d1fd8fba3b12edc8bd894a48f9422e4445b8ae6608d98e2d595bec31b022100cd3c07e801975124486f9f8f2a51633f78e0ce485cfa0ec70b1ca34a2fed52a4"
+}

@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/weekly_climatology_normal_estimates.csv",
+    "sha256_hash": "ee67e745d7df995a1afb8845dd9551df0fb9c8d5b8ec6cccb6bca7eece68e248",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "304402207d7a1742657f2d32cb1669f019d5115464504bd6bd332c1b82ca7a2ca88a33b002206a2030363260230a49609c96f5cead895a5d52cbd042d6e06d632932ccc04433"
+}

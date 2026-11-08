@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/weekly_prices_interpolated.csv",
+    "sha256_hash": "77344a498fefb9eb3a0457d9510abb0f4ac218f842d26900238e728b80166b6c",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100cd6b14de917d0f7457434e477f72027f575681b55ca7155b9c0b61ff32e9e4dc02201b612e7b6676d97daeb070b40367284118fcce5e32ebd710365af9aa2ec283f1"
+}

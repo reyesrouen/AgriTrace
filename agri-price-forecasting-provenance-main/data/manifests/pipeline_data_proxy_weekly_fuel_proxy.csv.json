@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/proxy/weekly_fuel_proxy.csv",
+    "sha256_hash": "8b16b0ae0a24fb2ed4b4d0547446d199f858c4619744af7a1395681424f6fac6",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100a0b3bd5b3595caca3895919309a8be9af4ad22f0a3fd07c3f16a04b31d4787e7022100a0fc95b50b1842011bb7e8e88ae85eafc92c1033d0ee7a5d3bce2d3c493d0a84"
+}

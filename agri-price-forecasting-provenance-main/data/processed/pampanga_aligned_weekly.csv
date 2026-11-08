@@ -1,0 +1,381 @@
+year_week,commodity,price_php_kg,diesel_price_lag_7,rainfall_lag_14
+2020 W20,Onions (red),73.92,65.5,12
+2020 W25,Onions (red),82.65,65.5,12
+2020 W29,Onions (red),73.29,65.5,12
+2020 W33,Onions (red),74.48,65.5,12
+2020 W38,Onions (red),121.05,65.5,12
+2020 W42,Onions (red),146.6,65.5,12
+2020 W46,Onions (red),97.4,65.5,12
+2020 W51,Onions (red),84.82,65.5,12
+2021 W02,Onions (red),100,65.5,12
+2021 W07,Onions (red),80.63,65.5,12
+2021 W11,Onions (red),78.13,65.5,12
+2021 W15,Onions (red),80.38,65.5,12
+2021 W19,Onions (red),85,65.5,12
+2021 W24,Onions (red),76.88,65.5,12
+2021 W28,Onions (red),93.13,65.5,12
+2021 W32,Onions (red),116.42,65.5,12
+2021 W37,Onions (red),112.01,65.5,12
+2021 W41,Onions (red),129.01,65.5,12
+2021 W46,Onions (red),132.15,65.5,12
+2021 W50,Onions (red),159.21,65.5,12
+2022 W02,Onions (red),189.38,65.5,12
+2022 W07,Onions (red),159.38,65.5,12
+2022 W11,Onions (red),68.75,65.5,12
+2022 W15,Onions (red),63.13,65.5,12
+2022 W19,Onions (red),73.13,65.5,12
+2022 W24,Onions (red),76.88,65.5,12
+2022 W28,Onions (red),86.25,65.5,12
+2022 W33,Onions (red),132.5,65.5,12
+2022 W37,Onions (red),141.25,65.5,12
+2022 W41,Onions (red),188.13,65.5,12
+2022 W46,Onions (red),253.75,65.5,12
+2022 W50,Onions (red),297.5,65.5,12
+2023 W02,Onions (red),456.13,65.5,12
+2023 W07,Onions (red),260,65.5,12
+2023 W11,Onions (red),121,65.5,12
+2023 W15,Onions (red),111.25,65.5,12
+2023 W20,Onions (red),165,65.5,12
+2023 W24,Onions (red),172.5,65.5,12
+2023 W28,Onions (red),170,65.5,12
+2023 W33,Onions (red),167.13,65.5,12
+2023 W37,Onions (red),160,65.5,12
+2023 W41,Onions (red),139.75,65.5,12
+2023 W46,Onions (red),118.25,65.5,12
+2023 W50,Onions (red),128.75,65.5,12
+2024 W03,Onions (red),145,65.5,12
+2024 W07,Onions (red),102.38,65.5,12
+2024 W11,Onions (red),80.5,65.5,12
+2024 W16,Onions (red),73.5,65.5,12
+2024 W20,Onions (red),92.13,65.5,12
+2024 W24,Onions (red),101.5,65.5,12
+2024 W29,Onions (red),103.75,65.5,12
+2024 W33,Onions (red),107.5,65.5,12
+2024 W37,Onions (red),104.5,65.5,12
+2024 W42,Onions (red),101.25,65.5,12
+2024 W46,Onions (red),94,65.5,12
+2024 W50,Onions (red),96.5,65.5,12
+2025 W03,Onions (red),127.5,65.5,12
+2025 W07,Onions (red),155.5,65.5,12
+2025 W11,Onions (red),128.75,65.5,12
+2025 W16,Onions (red),109.88,65.5,12
+2025 W20,Onions (red),119.25,65.5,12
+2025 W24,Onions (red),127.38,65.5,12
+2025 W29,Onions (red),133.63,65.5,12
+2025 W33,Onions (red),163.63,65.5,12
+2025 W38,Onions (red),167,65.5,12
+2025 W42,Onions (red),153.75,65.5,12
+2025 W46,Onions (red),185.13,65.5,12
+2025 W51,Onions (red),235,65.5,12
+2026 W03,Onions (red),176.88,65.5,12
+2026 W07,Onions (red),135.25,65.5,12
+2026 W11,Onions (red),95,65.5,12
+2026 W16,Onions (red),75,65.5,12
+2026 W20,Onions (red),79.38,65.5,12
+2026 W25,Onions (red),81.88,65.5,12
+2026 W29,Onions (red),86.63,65.5,12
+2026 W33,Onions (red),93.13,65.5,12
+2020 W20,Onions (white),55.69,65.5,12
+2020 W25,Onions (white),67.68,65.5,12
+2020 W29,Onions (white),62.11,65.5,12
+2020 W33,Onions (white),76.03,65.5,12
+2020 W38,Onions (white),116.38,65.5,12
+2020 W42,Onions (white),137.97,65.5,12
+2020 W46,Onions (white),86.9,65.5,12
+2020 W51,Onions (white),71.08,65.5,12
+2020 W20,Rice (premium),46.02,65.5,12
+2020 W25,Rice (premium),45.71,65.5,12
+2020 W29,Rice (premium),45.68,65.5,12
+2020 W33,Rice (premium),46.95,65.5,12
+2020 W38,Rice (premium),47.6,65.5,12
+2020 W42,Rice (premium),46.26,65.5,12
+2020 W46,Rice (premium),47.12,65.5,12
+2020 W51,Rice (premium),47.95,65.5,12
+2020 W20,"Rice (regular, milled)",41,65.5,12
+2020 W25,"Rice (regular, milled)",39.61,65.5,12
+2020 W29,"Rice (regular, milled)",38.15,65.5,12
+2020 W33,"Rice (regular, milled)",37.4,65.5,12
+2020 W38,"Rice (regular, milled)",38.34,65.5,12
+2020 W42,"Rice (regular, milled)",36.65,65.5,12
+2020 W46,"Rice (regular, milled)",37.85,65.5,12
+2020 W51,"Rice (regular, milled)",38.05,65.5,12
+2021 W02,"Rice (regular, milled)",37.98,65.5,12
+2021 W07,"Rice (regular, milled)",36.9,65.5,12
+2021 W11,"Rice (regular, milled)",37.1,65.5,12
+2021 W15,"Rice (regular, milled)",37.25,65.5,12
+2021 W19,"Rice (regular, milled)",37.13,65.5,12
+2021 W24,"Rice (regular, milled)",37.25,65.5,12
+2021 W28,"Rice (regular, milled)",37.58,65.5,12
+2021 W32,"Rice (regular, milled)",36.48,65.5,12
+2021 W37,"Rice (regular, milled)",37.03,65.5,12
+2021 W41,"Rice (regular, milled)",37.13,65.5,12
+2021 W46,"Rice (regular, milled)",36.86,65.5,12
+2021 W50,"Rice (regular, milled)",37.78,65.5,12
+2022 W02,"Rice (regular, milled)",37.65,65.5,12
+2022 W07,"Rice (regular, milled)",37.55,65.5,12
+2022 W11,"Rice (regular, milled)",37.03,65.5,12
+2022 W15,"Rice (regular, milled)",37.3,65.5,12
+2022 W19,"Rice (regular, milled)",37.5,65.5,12
+2022 W24,"Rice (regular, milled)",37.98,65.5,12
+2022 W28,"Rice (regular, milled)",38.25,65.5,12
+2022 W33,"Rice (regular, milled)",38.35,65.5,12
+2022 W37,"Rice (regular, milled)",38.38,65.5,12
+2022 W41,"Rice (regular, milled)",38.45,65.5,12
+2022 W46,"Rice (regular, milled)",38.64,65.5,12
+2022 W50,"Rice (regular, milled)",38.7,65.5,12
+2023 W02,"Rice (regular, milled)",39.65,65.5,12
+2023 W07,"Rice (regular, milled)",39.75,65.5,12
+2023 W11,"Rice (regular, milled)",40.13,65.5,12
+2023 W15,"Rice (regular, milled)",40.23,65.5,12
+2023 W20,"Rice (regular, milled)",40.88,65.5,12
+2023 W24,"Rice (regular, milled)",41.5,65.5,12
+2023 W28,"Rice (regular, milled)",41.78,65.5,12
+2023 W33,"Rice (regular, milled)",44.28,65.5,12
+2023 W37,"Rice (regular, milled)",48.75,65.5,12
+2023 W41,"Rice (regular, milled)",44.48,65.5,12
+2023 W46,"Rice (regular, milled)",48.25,65.5,12
+2023 W50,"Rice (regular, milled)",50.23,65.5,12
+2024 W03,"Rice (regular, milled)",51.98,65.5,12
+2024 W07,"Rice (regular, milled)",52.03,65.5,12
+2024 W11,"Rice (regular, milled)",50.73,65.5,12
+2024 W16,"Rice (regular, milled)",50.8,65.5,12
+2024 W20,"Rice (regular, milled)",50.4,65.5,12
+2024 W24,"Rice (regular, milled)",50.7,65.5,12
+2024 W29,"Rice (regular, milled)",50.5,65.5,12
+2024 W33,"Rice (regular, milled)",49.2,65.5,12
+2024 W37,"Rice (regular, milled)",48.93,65.5,12
+2024 W42,"Rice (regular, milled)",48.03,65.5,12
+2024 W46,"Rice (regular, milled)",47.03,65.5,12
+2024 W50,"Rice (regular, milled)",47.23,65.5,12
+2025 W03,"Rice (regular, milled)",46.73,65.5,12
+2025 W07,"Rice (regular, milled)",43.78,65.5,12
+2025 W11,"Rice (regular, milled)",42.33,65.5,12
+2025 W16,"Rice (regular, milled)",40.85,65.5,12
+2025 W20,"Rice (regular, milled)",39.8,65.5,12
+2025 W24,"Rice (regular, milled)",38.8,65.5,12
+2025 W29,"Rice (regular, milled)",37.83,65.5,12
+2025 W33,"Rice (regular, milled)",37.03,65.5,12
+2025 W38,"Rice (regular, milled)",37.3,65.5,12
+2025 W42,"Rice (regular, milled)",36.9,65.5,12
+2025 W46,"Rice (regular, milled)",37.68,65.5,12
+2025 W51,"Rice (regular, milled)",39.03,65.5,12
+2026 W03,"Rice (regular, milled)",40.9,65.5,12
+2026 W07,"Rice (regular, milled)",46.53,65.5,12
+2026 W11,"Rice (regular, milled)",52.35,65.5,12
+2026 W16,"Rice (regular, milled)",54.18,65.5,12
+2026 W20,"Rice (regular, milled)",51.28,65.5,12
+2026 W25,"Rice (regular, milled)",48.3,65.5,12
+2026 W29,"Rice (regular, milled)",47.6,65.5,12
+2026 W33,"Rice (regular, milled)",47.48,65.5,12
+2020 W20,Rice (special),48.77,65.5,12
+2020 W29,Rice (special),49.94,65.5,12
+2020 W33,Rice (special),51.02,65.5,12
+2020 W38,Rice (special),50.34,65.5,12
+2020 W42,Rice (special),49.11,65.5,12
+2020 W46,Rice (special),50.05,65.5,12
+2020 W51,Rice (special),50.18,65.5,12
+2021 W02,Rice (special),49.78,65.5,12
+2021 W07,Rice (special),49.33,65.5,12
+2021 W24,Rice (special),50,65.5,12
+2021 W28,Rice (special),49.55,65.5,12
+2021 W32,Rice (special),49.93,65.5,12
+2021 W37,Rice (special),49.3,65.5,12
+2021 W41,Rice (special),49.88,65.5,12
+2021 W46,Rice (special),49.73,65.5,12
+2021 W50,Rice (special),50.13,65.5,12
+2022 W02,Rice (special),50.45,65.5,12
+2022 W07,Rice (special),50.93,65.5,12
+2022 W28,Rice (special),52.23,65.5,12
+2022 W33,Rice (special),52.48,65.5,12
+2022 W37,Rice (special),52.7,65.5,12
+2022 W41,Rice (special),52.85,65.5,12
+2022 W46,Rice (special),53.09,65.5,12
+2022 W50,Rice (special),53.24,65.5,12
+2023 W02,Rice (special),53.63,65.5,12
+2023 W07,Rice (special),53.63,65.5,12
+2023 W15,Rice (special),53.65,65.5,12
+2023 W20,Rice (special),54.03,65.5,12
+2023 W28,Rice (special),54.83,65.5,12
+2023 W33,Rice (special),55.85,65.5,12
+2023 W37,Rice (special),57.58,65.5,12
+2023 W41,Rice (special),55.75,65.5,12
+2023 W46,Rice (special),57.2,65.5,12
+2023 W50,Rice (special),58.88,65.5,12
+2024 W03,Rice (special),60.05,65.5,12
+2024 W07,Rice (special),59.93,65.5,12
+2024 W11,Rice (special),59.38,65.5,12
+2024 W24,Rice (special),59.08,65.5,12
+2024 W29,Rice (special),58.53,65.5,12
+2024 W33,Rice (special),57.83,65.5,12
+2024 W37,Rice (special),57.58,65.5,12
+2024 W42,Rice (special),56.5,65.5,12
+2024 W46,Rice (special),56.03,65.5,12
+2024 W50,Rice (special),56.08,65.5,12
+2025 W03,Rice (special),55.63,65.5,12
+2025 W07,Rice (special),54.75,65.5,12
+2025 W11,Rice (special),54.45,65.5,12
+2025 W16,Rice (special),52.65,65.5,12
+2025 W29,Rice (special),49.48,65.5,12
+2025 W33,Rice (special),48.53,65.5,12
+2025 W38,Rice (special),49.03,65.5,12
+2025 W42,Rice (special),48.85,65.5,12
+2025 W46,Rice (special),49.55,65.5,12
+2025 W51,Rice (special),51.35,65.5,12
+2026 W03,Rice (special),52.91,65.5,12
+2026 W16,Rice (special),60,65.5,12
+2026 W20,Rice (special),59.1,65.5,12
+2026 W25,Rice (special),57.68,65.5,12
+2026 W29,Rice (special),57.2,65.5,12
+2026 W33,Rice (special),56.84,65.5,12
+2020 W20,Rice (well milled),43.78,65.5,12
+2020 W25,Rice (well milled),42.18,65.5,12
+2020 W29,Rice (well milled),41.56,65.5,12
+2020 W33,Rice (well milled),41.83,65.5,12
+2020 W38,Rice (well milled),43.4,65.5,12
+2020 W42,Rice (well milled),41.06,65.5,12
+2020 W46,Rice (well milled),41.65,65.5,12
+2020 W51,Rice (well milled),43.18,65.5,12
+2021 W02,Rice (well milled),41.4,65.5,12
+2021 W07,Rice (well milled),44.5,65.5,12
+2021 W11,Rice (well milled),43.6,65.5,12
+2021 W15,Rice (well milled),45.13,65.5,12
+2021 W19,Rice (well milled),45.13,65.5,12
+2021 W24,Rice (well milled),45.13,65.5,12
+2021 W28,Rice (well milled),45.08,65.5,12
+2021 W32,Rice (well milled),45.6,65.5,12
+2021 W37,Rice (well milled),43.84,65.5,12
+2021 W41,Rice (well milled),44.61,65.5,12
+2021 W46,Rice (well milled),44.01,65.5,12
+2021 W50,Rice (well milled),44.44,65.5,12
+2022 W02,Rice (well milled),44.28,65.5,12
+2022 W07,Rice (well milled),43.65,65.5,12
+2022 W11,Rice (well milled),44.23,65.5,12
+2022 W15,Rice (well milled),45.18,65.5,12
+2022 W19,Rice (well milled),45.33,65.5,12
+2022 W24,Rice (well milled),46.05,65.5,12
+2022 W28,Rice (well milled),46.38,65.5,12
+2022 W33,Rice (well milled),46.68,65.5,12
+2022 W37,Rice (well milled),46.85,65.5,12
+2022 W41,Rice (well milled),47,65.5,12
+2022 W46,Rice (well milled),47.18,65.5,12
+2022 W50,Rice (well milled),47.6,65.5,12
+2023 W02,Rice (well milled),48.08,65.5,12
+2023 W07,Rice (well milled),47.83,65.5,12
+2023 W11,Rice (well milled),47.95,65.5,12
+2023 W15,Rice (well milled),48.03,65.5,12
+2023 W20,Rice (well milled),48.18,65.5,12
+2023 W24,Rice (well milled),48.3,65.5,12
+2023 W28,Rice (well milled),48.48,65.5,12
+2023 W33,Rice (well milled),49.78,65.5,12
+2023 W37,Rice (well milled),53.03,65.5,12
+2023 W41,Rice (well milled),48.93,65.5,12
+2023 W46,Rice (well milled),52.93,65.5,12
+2023 W50,Rice (well milled),53.88,65.5,12
+2024 W03,Rice (well milled),54.88,65.5,12
+2024 W07,Rice (well milled),54.95,65.5,12
+2024 W11,Rice (well milled),54.43,65.5,12
+2024 W16,Rice (well milled),54.43,65.5,12
+2024 W20,Rice (well milled),53.75,65.5,12
+2024 W24,Rice (well milled),54,65.5,12
+2024 W29,Rice (well milled),53.65,65.5,12
+2024 W33,Rice (well milled),52.85,65.5,12
+2024 W37,Rice (well milled),52.7,65.5,12
+2024 W42,Rice (well milled),52.28,65.5,12
+2024 W46,Rice (well milled),50.9,65.5,12
+2024 W50,Rice (well milled),51.05,65.5,12
+2025 W03,Rice (well milled),50.45,65.5,12
+2025 W07,Rice (well milled),49.03,65.5,12
+2025 W11,Rice (well milled),48.48,65.5,12
+2025 W16,Rice (well milled),46,65.5,12
+2025 W20,Rice (well milled),44.38,65.5,12
+2025 W24,Rice (well milled),43.23,65.5,12
+2025 W29,Rice (well milled),42.48,65.5,12
+2025 W33,Rice (well milled),42.08,65.5,12
+2025 W38,Rice (well milled),42.23,65.5,12
+2025 W42,Rice (well milled),41.8,65.5,12
+2025 W46,Rice (well milled),42.88,65.5,12
+2025 W51,Rice (well milled),43.78,65.5,12
+2026 W03,Rice (well milled),45.68,65.5,12
+2026 W07,Rice (well milled),50.09,65.5,12
+2026 W11,Rice (well milled),53.85,65.5,12
+2026 W16,Rice (well milled),55.33,65.5,12
+2026 W20,Rice (well milled),53.22,65.5,12
+2026 W25,Rice (well milled),50.73,65.5,12
+2026 W29,Rice (well milled),49.05,65.5,12
+2026 W33,Rice (well milled),48.09,65.5,12
+2020 W20,Tomatoes,48.91,65.5,12
+2020 W25,Tomatoes,21.6,65.5,12
+2020 W29,Tomatoes,29.8,65.5,12
+2020 W33,Tomatoes,58.5,65.5,12
+2020 W38,Tomatoes,58.5,65.5,12
+2020 W42,Tomatoes,77.18,65.5,12
+2020 W46,Tomatoes,103.22,65.5,12
+2020 W51,Tomatoes,139.98,65.5,12
+2021 W02,Tomatoes,158.13,65.5,12
+2021 W07,Tomatoes,41.25,65.5,12
+2021 W11,Tomatoes,21.38,65.5,12
+2021 W15,Tomatoes,18.25,65.5,12
+2021 W19,Tomatoes,22.63,65.5,12
+2021 W24,Tomatoes,33.75,65.5,12
+2021 W28,Tomatoes,56.75,65.5,12
+2021 W32,Tomatoes,82.83,65.5,12
+2021 W37,Tomatoes,69.85,65.5,12
+2021 W41,Tomatoes,61.2,65.5,12
+2021 W46,Tomatoes,48.21,65.5,12
+2021 W50,Tomatoes,41.42,65.5,12
+2022 W02,Tomatoes,37.75,65.5,12
+2022 W07,Tomatoes,43.75,65.5,12
+2022 W11,Tomatoes,53,65.5,12
+2022 W15,Tomatoes,83.75,65.5,12
+2022 W19,Tomatoes,78.75,65.5,12
+2022 W24,Tomatoes,56.88,65.5,12
+2022 W28,Tomatoes,36.88,65.5,12
+2022 W33,Tomatoes,39.38,65.5,12
+2022 W37,Tomatoes,47.5,65.5,12
+2022 W41,Tomatoes,103.75,65.5,12
+2022 W46,Tomatoes,109.38,65.5,12
+2022 W50,Tomatoes,83.38,65.5,12
+2023 W02,Tomatoes,79.38,65.5,12
+2023 W07,Tomatoes,34.38,65.5,12
+2023 W11,Tomatoes,36.25,65.5,12
+2023 W15,Tomatoes,28.75,65.5,12
+2023 W20,Tomatoes,27.5,65.5,12
+2023 W24,Tomatoes,38.38,65.5,12
+2023 W28,Tomatoes,62.38,65.5,12
+2023 W33,Tomatoes,103.25,65.5,12
+2023 W37,Tomatoes,146.88,65.5,12
+2023 W41,Tomatoes,107.5,65.5,12
+2023 W46,Tomatoes,92.13,65.5,12
+2023 W50,Tomatoes,46.25,65.5,12
+2024 W03,Tomatoes,54.75,65.5,12
+2024 W07,Tomatoes,99.13,65.5,12
+2024 W11,Tomatoes,59.63,65.5,12
+2024 W16,Tomatoes,54.13,65.5,12
+2024 W20,Tomatoes,52.5,65.5,12
+2024 W24,Tomatoes,65.38,65.5,12
+2024 W29,Tomatoes,154.63,65.5,12
+2024 W33,Tomatoes,127.38,65.5,12
+2024 W37,Tomatoes,71.75,65.5,12
+2024 W42,Tomatoes,78.5,65.5,12
+2024 W46,Tomatoes,123.63,65.5,12
+2024 W50,Tomatoes,162.25,65.5,12
+2025 W03,Tomatoes,191.13,65.5,12
+2025 W07,Tomatoes,50.63,65.5,12
+2025 W11,Tomatoes,32.75,65.5,12
+2025 W16,Tomatoes,48.38,65.5,12
+2025 W20,Tomatoes,54.38,65.5,12
+2025 W24,Tomatoes,55,65.5,12
+2025 W29,Tomatoes,57.25,65.5,12
+2025 W33,Tomatoes,63.75,65.5,12
+2025 W38,Tomatoes,96.5,65.5,12
+2025 W42,Tomatoes,119.63,65.5,12
+2025 W46,Tomatoes,91.5,65.5,12
+2025 W51,Tomatoes,103.63,65.5,12
+2026 W03,Tomatoes,145.75,65.5,12
+2026 W07,Tomatoes,56.25,65.5,12
+2026 W11,Tomatoes,33.13,65.5,12
+2026 W16,Tomatoes,35.63,65.5,12
+2026 W20,Tomatoes,46,65.5,12
+2026 W25,Tomatoes,56.88,65.5,12
+2026 W29,Tomatoes,67.5,65.5,12
+2026 W33,Tomatoes,83.13,65.5,12

@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/processed/estimated_commodity_prices_table.csv",
+    "sha256_hash": "5697ce32991c8549c833abcb1ccd048feb19203ef53880833a0361ecb03fad03",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3044022051c06f2df2475ef56889cc5c6f4ffe8aeeb90892d006e576276fa565a6268f6c0220790e53f09e5c6c89699673bc7f1efb71d5a8d8d8305e4b4c4651222806e80cdb"
+}

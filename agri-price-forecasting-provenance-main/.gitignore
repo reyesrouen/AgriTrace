@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+outputs/*.png
+/keys/private_key.pem
+/keys/*private*.pem

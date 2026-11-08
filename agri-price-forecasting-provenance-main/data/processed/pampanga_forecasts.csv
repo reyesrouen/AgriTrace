@@ -1,0 +1,85 @@
+year_week,commodity,.model,.mean
+2026 W34,Onions (red),naive,126.22
+2026 W35,Onions (red),naive,157.16
+2026 W36,Onions (red),naive,136.52
+2026 W37,Onions (red),naive,71.98
+2026 W34,Onions (white),naive,126.63
+2026 W35,Onions (white),naive,145.86
+2026 W36,Onions (white),naive,111.2
+2026 W37,Onions (white),naive,153.85
+2026 W34,Rice (premium),naive,68.32
+2026 W35,Rice (premium),naive,81.85
+2026 W36,Rice (premium),naive,92.41
+2026 W37,Rice (premium),naive,129.45
+2026 W34,"Rice (regular, milled)",naive,77.04
+2026 W35,"Rice (regular, milled)",naive,151.52
+2026 W36,"Rice (regular, milled)",naive,75.05
+2026 W37,"Rice (regular, milled)",naive,67.31
+2026 W34,Rice (special),naive,141.58
+2026 W35,Rice (special),naive,86.59
+2026 W36,Rice (special),naive,50.02
+2026 W37,Rice (special),naive,152.61
+2026 W34,Rice (well milled),naive,108.77
+2026 W35,Rice (well milled),naive,136.9
+2026 W36,Rice (well milled),naive,119.25
+2026 W37,Rice (well milled),naive,55.84
+2026 W34,Tomatoes,naive,121.24
+2026 W35,Tomatoes,naive,105.29
+2026 W36,Tomatoes,naive,148.44
+2026 W37,Tomatoes,naive,150.8
+2026 W34,Onions (red),exog_lm,65.28
+2026 W35,Onions (red),exog_lm,77.75
+2026 W36,Onions (red),exog_lm,132.31
+2026 W37,Onions (red),exog_lm,54.71
+2026 W34,Onions (white),exog_lm,50.93
+2026 W35,Onions (white),exog_lm,146.38
+2026 W36,Onions (white),exog_lm,70.49
+2026 W37,Onions (white),exog_lm,82.98
+2026 W34,Rice (premium),exog_lm,103.41
+2026 W35,Rice (premium),exog_lm,73.75
+2026 W36,Rice (premium),exog_lm,103.67
+2026 W37,Rice (premium),exog_lm,81.95
+2026 W34,"Rice (regular, milled)",exog_lm,127.51
+2026 W35,"Rice (regular, milled)",exog_lm,63.81
+2026 W36,"Rice (regular, milled)",exog_lm,84.57
+2026 W37,"Rice (regular, milled)",exog_lm,67.69
+2026 W34,Rice (special),exog_lm,142.56
+2026 W35,Rice (special),exog_lm,112.48
+2026 W36,Rice (special),exog_lm,139.84
+2026 W37,Rice (special),exog_lm,75.87
+2026 W34,Rice (well milled),exog_lm,78.33
+2026 W35,Rice (well milled),exog_lm,80.13
+2026 W36,Rice (well milled),exog_lm,154.07
+2026 W37,Rice (well milled),exog_lm,106.77
+2026 W34,Tomatoes,exog_lm,152.38
+2026 W35,Tomatoes,exog_lm,71.67
+2026 W36,Tomatoes,exog_lm,83.89
+2026 W37,Tomatoes,exog_lm,122.78
+2026 W34,Onions (red),prophet,66.91
+2026 W35,Onions (red),prophet,81.44
+2026 W36,Onions (red),prophet,114.1
+2026 W37,Onions (red),prophet,119.85
+2026 W34,Onions (white),prophet,100.96
+2026 W35,Onions (white),prophet,128.68
+2026 W36,Onions (white),prophet,54.71
+2026 W37,Onions (white),prophet,117.36
+2026 W34,Rice (premium),prophet,130.76
+2026 W35,Rice (premium),prophet,133
+2026 W36,Rice (premium),prophet,105.55
+2026 W37,Rice (premium),prophet,120.89
+2026 W34,"Rice (regular, milled)",prophet,106.21
+2026 W35,"Rice (regular, milled)",prophet,81.16
+2026 W36,"Rice (regular, milled)",prophet,140.7
+2026 W37,"Rice (regular, milled)",prophet,100.62
+2026 W34,Rice (special),prophet,149.55
+2026 W35,Rice (special),prophet,55.62
+2026 W36,Rice (special),prophet,73.05
+2026 W37,Rice (special),prophet,143.3
+2026 W34,Rice (well milled),prophet,152.2
+2026 W35,Rice (well milled),prophet,73.84
+2026 W36,Rice (well milled),prophet,147.64
+2026 W37,Rice (well milled),prophet,119.44
+2026 W34,Tomatoes,prophet,111.88
+2026 W35,Tomatoes,prophet,64.7
+2026 W36,Tomatoes,prophet,84.4
+2026 W37,Tomatoes,prophet,153.52

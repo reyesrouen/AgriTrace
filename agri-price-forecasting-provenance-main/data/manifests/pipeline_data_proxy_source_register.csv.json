@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/proxy/source_register.csv",
+    "sha256_hash": "7c09a16b562a06a00137d4d560a2c867f058e2c99c9d10c4a6f1c6d200fc1807",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100a5a0f428e2ef6cf094ab8a9f1715d1946ca4449a967f5e2d8282031d0f1653a102210094e96b47e57a6ffd0456f5f31cdeb9e8691c7e4df4c7a8224deed2a67868a066"
+}

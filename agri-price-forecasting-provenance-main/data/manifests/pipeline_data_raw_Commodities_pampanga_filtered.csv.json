@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/raw/Commodities_pampanga_filtered.csv",
+    "sha256_hash": "6cb712bae5a4eb3568f9f95b34d50595a16e9fc40a2bc382c0033a4589e62a7f",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3044022074aca1971994448bc54a88defa5ff4f5d39419933ee63b894181254d0641860402207554433b9837b1ed32350437c84ecf36f23c6f317dc5ff0e632bf390755e6d74"
+}

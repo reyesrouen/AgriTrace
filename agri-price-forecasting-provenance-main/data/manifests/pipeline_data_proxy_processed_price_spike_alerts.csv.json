@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/proxy/processed/price_spike_alerts.csv",
+    "sha256_hash": "69dc663c2dd4443b45f45b88ea5dcbc5761ebfd0553fa499c9f0ba09c77e1a23",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100f0e02fe19fff3f240e8a489600de6461e7564559c850c8504a4afe73f5468ee1022100f7ddc4bef38e904621f016e116e858f6798381e2f8cbbf2af4eb745dcd7ee5ac"
+}

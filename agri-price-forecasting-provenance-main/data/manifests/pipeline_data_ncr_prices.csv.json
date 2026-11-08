@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/ncr_prices.csv",
+    "sha256_hash": "9b23a269161524c3a6f23b71d15e9b9b52aebea55941bf1b2008c2c64ce43470",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100aa262de29cd9669c08339d3d0c15947c9b1c3484a64019e8e26da63e05577458022100b11199da6ce9bfc564418cd21c44b124e1ee049064332964116db9147f76a70a"
+}

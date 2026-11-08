@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/ncr_red_onions_weekly.csv",
+    "sha256_hash": "e9389c47bd90105db3b9b52453cdec2d0214b729547137d18df380cb63548d0d",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100f5027d5b7c5ba05b02560b916b89244bdad1e7e286ea99824166183ee8d838c1022100d24e4c48c7676efe2ac0534a0dc80fdc78e5fbd6fb17f2e59441ad47610be65d"
+}

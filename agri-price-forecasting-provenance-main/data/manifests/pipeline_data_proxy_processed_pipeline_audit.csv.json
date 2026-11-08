@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/proxy/processed/pipeline_audit.csv",
+    "sha256_hash": "821a5de68232cef3a99083edbdc2ec5043c836d28eb496902758d723d3b560a8",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3044022001138818d6de51320b709262ebbeba2ba2ab6ff2b51917e2345050448e89a3c4022032b61361becac0f3cfcb654999d4760db70e3d56e1b5876ff1fa78918b6bc36d"
+}

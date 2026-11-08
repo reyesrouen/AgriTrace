@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "README.md",
+    "sha256_hash": "812962559f54b008abca5ef55c351902cf946fe787db9c4a3f3af6216fa7e9a7",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100d9dec7cfdeaff9ea937c21e8db6d5bb56382aa9f022c0dac84670fa3a7081a24022100d1300c286666d3c6e6006927fcd3498d1666c0cf922e3aaa95c72b34c21eaeba"
+}

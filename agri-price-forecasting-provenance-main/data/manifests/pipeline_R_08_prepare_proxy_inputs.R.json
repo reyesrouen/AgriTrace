@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "R/08_prepare_proxy_inputs.R",
+    "sha256_hash": "2b7301af9686de18c17a7cc557da3380a124917dc1fcc54275a18a7b933322f9",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100d7632f9f6f5e6a52c6e7a891c3d9210f8ddbea639dfa9aeb539b5b0335e41f5e022045093ad3e99184c5474f0e2f0be28ce4df8c12aff6d903933ead95e24bb00d64"
+}

@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "tests/test_security.R",
+    "sha256_hash": "026217d8f04de5d29fe7bd064b8c377a5056f819bc96d02a800c9577a095563a",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3046022100fb2ad629120f0b5b98e6d6c8e1979bcf77e2f75d56e93ac8ca81e8936dcc8bd5022100dc8f1597d5563d29c344221c0db5b04450dd6808e87f772cb9ef538e168ec91f"
+}

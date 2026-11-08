@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "run_pipeline.R",
+    "sha256_hash": "2868079bdb765a806f5265aef3a2c9702f38d1e39264edc1ad261794b31b6501",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3045022100f865af78ec1a11cced558a53c29f679ad273e6fb37fead3dea9836d700d7a37502207c8bb7768d4d64fc9c2e52f163828c4fe57cc0ef337c32eb18e76695c845c647"
+}

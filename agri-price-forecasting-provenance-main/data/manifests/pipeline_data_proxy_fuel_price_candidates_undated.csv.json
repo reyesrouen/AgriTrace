@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "artifact_path": "data/proxy/fuel_price_candidates_undated.csv",
+    "sha256_hash": "f05a25510241b225e2f4be166b292f835c39dcb3ec9b5400def8cdfd0be4e083",
+    "algorithm": "SHA-256",
+    "signature_algorithm": "ECDSA P-256",
+    "timestamp_utc": "2026-11-08 23:01:06 UTC"
+  },
+  "signature_ecdsa": "3044022034a51ff2f48bfdb4d4725502059f2e5b1a14b265a5ef78b4ab4503284aaff82602207838c2f2613d21278d4ff4f3800cb1197df1835d463fa25ba6b1fec203bea07b"
+}
